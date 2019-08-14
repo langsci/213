@@ -18,3 +18,13 @@
 % \def\endgl{\relax}
 % \newcommand{\endgl}{\z}
 % \renewcommand{\endgl}{\z}
+
+%epigraph settings
+\makeatletter
+\newenvironment{chapquote}[2][2em]
+  {\setlength{\@tempdima}{#1}%
+   \def\chapquote@author{#2}%
+   \parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
+   \itshape}
+  {\par\small\hfill---\ \chapquote@author\hspace*{\@tempdima}\par\bigskip}
+\makeatother
