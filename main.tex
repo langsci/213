@@ -1,6 +1,7 @@
 \documentclass[output=book,biblatex,biblatexbackend=biber,modfonts,nonflat,
 colorlinks,citecolor=brown, 
-%  draft,draftmode,  
+%  draft,
+ draftmode,  
 		  ]{langsci/langscibook}    
   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
@@ -10,35 +11,24 @@ colorlinks,citecolor=brown,
 \input{localmetadata.tex} 
 \input{localpackages.tex}
 \input{localhyphenation.tex}
+\input{localcommands.tex} 
 \addbibresource{MVCliterature.bib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%             Frontmatter                      %%% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \begin{document} 
-\input{localcommands.tex} 
 \maketitle   %create title page             
 \frontmatter 
 \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 {\sloppy\tableofcontents} 
 
- \include{chapters/dedication}
  \include{chapters/acknowledgments}
  \include{chapters/abbreviations} 
  \include{chapters/glossary}
  \include{chapters/summary}
  \mainmatter
- 
- \vspace*{2in}
-\begin{chapquote}[30pt]{Marie Luise Kaschnitz}
-{\small\noindent Nur ein Wort und ein Wort und ein Wort\\
-Wahllos aus dem Sprachnetz gerissen\\
-Zueinandergeschleudert\\
-Umarmen sich\\
-Sind sogleich eine\\
-Sind eine Welt.}
-\end{chapquote}
-
+ \include{chapters/epigraph}
  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%             Chapters                         %%% 
@@ -57,4 +47,4 @@ Sind eine Welt.}
 %%%             Backmatter                       %%% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
 \input{backmatter.tex}
-\end{document}   
+\end{document}
