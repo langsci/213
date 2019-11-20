@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  20 NOV 2019 11:40
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  20 NOV 2019 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3809,11 +3809,28 @@ nt, dependent, co-
 ] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout2 = `chapters/02_Eastern_Indonesia.aux'.
+\openout2 = `chapters/07_Discussion.aux'.
 
 
-(./chapters/02_Eastern_Indonesia.tex
-chapter 2.
+(./chapters/07_Discussion.tex
+\openout3 = `main.mw'.
+
+ [390
+
+
+
+
+
+
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+chapter 7.
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -3832,36 +3849,50 @@ Class scrbook Warning: \float@addtolists detected!
 Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;mapping=tex-text;" at 14.4pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-[21
-
-
-
-
-
-] (./main.mw)
+[391] (./main.mw)
 \openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [392] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
+[][] []|
+ []
+
+
+Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
+[] [] |
+ []
 
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
- [22] (./main.mw)
+[393] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [23] (./main.mw)
+ [394] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
- [24] (./main.mw)
+ [395] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [396] (./main.mw)
 \openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
@@ -3933,53 +3964,26 @@ Requested font "ntxexa" at 7.3pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 Requested font "ntxexa" at 5.5pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
- [25]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [26] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [27] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [28] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [29] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[30] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [31] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [32] (./main.mw)
-\openout3 = `main.mw'.
-
+Requested font "nxlmi" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "ntxsy" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxexx" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "msam10" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
+.tfm
+Requested font "msbm10" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
+.tfm
+Requested font "nxlmia" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT" at 8.99997pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT" at 9.0pt
@@ -4060,297 +4064,221 @@ DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+
+[397] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [398] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [399] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [400] (./main.mw)
+\openout3 = `main.mw'.
+
 Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
- [33] (./main.mw)
+
+[401] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "nxlmi" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
-Requested font "ntxsy" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
-Requested font "ntxexx" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "msam10" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
-.tfm
-Requested font "msbm10" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
-.tfm
-Requested font "nxlmia" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "ntxsym" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsyc" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxexa" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-\openout3 = `main.mw'.
-
- [34]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [35] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [36] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [37] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [38] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[39] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [40] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [41] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [42] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [43]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [44] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [45] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-
-Overfull \hbox (21.7541pt too wide) in paragraph at lines 372--372
- []|[][][][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Himmelmann |
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[46] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [47] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [48] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [49] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [50]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [51] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [52] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [53] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [54] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 6.1pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[55] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [56] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [57] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [58] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (0.11523pt too wide) in paragraph at lines 614--615
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 clauses is more straightforward in Teiwa 
-than in other TAP languages: There is no|
- []
-
-\openout3 = `main.mw'.
-
-[59] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [60] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [61] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-\openout3 = `main.mw'.
-
-[62] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [63] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [64] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [65] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [66]
-(./main.mw)
-\openout3 = `main.mw'.
-
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 6.2pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "nxlmi5" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
+Requested font "ntxsy5" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
+Requested font "ntxexx" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "msam7" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
+tfm
+Requested font "msbm7" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
+tfm
+Requested font "nxlmia" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-[67] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [68] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [69] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [70] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [71]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [72] (./main.mw)
+ [402] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [73] (./main.mw)
+ [403] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [404] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (1.28317pt too wide) in paragraph at lines 888--889
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 markers developed from verbs. Serialisati
-on seems quite pervasive although there|
+[405] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [406] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [407] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 Muna, Abui, Makalero, Teiwa$\LMS/ntxsy/m/n
+/9 "$\TU/LinLibertine_R_B.otf(0)/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 247--248
+\TU/LinLibertine_R_B.otf(0)/m/n/9 Klon, Tetun, Western Pantar, Selaru,
+ []
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+
+Overfull \hbox (6.93634pt too wide) in paragraph at lines 240--255
+ [][] |
  []
 
 \openout3 = `main.mw'.
 
-[74] (./main.mw)
+[408] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [409] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [410] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [411] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[412] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (71.1308pt too wide) in paragraph at lines 303--304
+ [][] |
+ []
+
+\openout3 = `main.mw'.
+
+[413] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [414] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [415] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [416] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[417] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [418] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [419] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [420] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[421] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [422] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [423] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [424] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[425] (./main.mw)
 \openout3 = `main.mw'.
 
 )
 \openout3 = `main.mw'.
 
- [75] (./main.mw)
+ [426] (./main.mw)
 \openout3 = `main.mw'.
 
  (./backmatter.tex
@@ -4358,11 +4286,6 @@ chapter without number
 \openout3 = `main.mw'.
 
 [427
-
-
-
-
-
 
 
 
@@ -4538,12 +4461,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 72129 strings out of 492916
- 1434360 string characters out of 6133345
- 2114346 words of memory out of 5000000
- 74846 multiletter control sequences out of 15000+600000
- 556945 words of font info for 186 fonts, out of 8000000 for 9000
+ 71920 strings out of 492916
+ 1431481 string characters out of 6133345
+ 2100593 words of memory out of 5000000
+ 74677 multiletter control sequences out of 15000+600000
+ 560183 words of font info for 190 fonts, out of 8000000 for 9000
  1356 hyphenation exceptions out of 8191
- 71i,14n,118p,9084b,5766s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,118p,9084b,5766s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (83 pages).
+Output written on main.pdf (65 pages).
