@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  20 NOV 2019 14:58
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  25 NOV 2019 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
+**main
 (./main.tex
 LaTeX2e <2018-12-01>
 (./langsci/langscibook.cls
@@ -2701,6 +2701,20 @@ Package index Info: Writing index file main.adx on input line 1679.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/authorindex/authorindex.sty
 Package: authorindex 2005/03/22 make index of authors cited in a work
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+Requested font "ectt1000" scaled 1000
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
+\SOUL@word=\toks60
+\SOUL@lasttoken=\toks61
+\SOUL@cmds=\toks62
+\SOUL@buffer=\toks63
+\SOUL@token=\toks64
+\SOUL@spaceskip=\skip118
+\SOUL@ttwidth=\dimen338
+\SOUL@uldp=\dimen339
+\SOUL@ulht=\dimen340
+)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
@@ -2739,7 +2753,7 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen338
+\@linkdim=\dimen341
 \Hy@linkcounter=\count532
 \Hy@pagecounter=\count533
 
@@ -2776,12 +2790,12 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count535
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen339
+\XeTeXLinkMargin=\dimen342
 Requested font "pzdr" at 0.00002pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 \Fld@menulength=\count536
-\Field@Width=\dimen340
-\Fld@charsize=\dimen341
+\Field@Width=\dimen343
+\Fld@charsize=\dimen344
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -2815,7 +2829,7 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip118
+\Hy@SectionHShift=\skip119
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1774.
 
@@ -2825,12 +2839,12 @@ Package: doi 2018/09/09 handle doi numbers
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count544
-\rotFPtop=\skip119
-\rotFPbot=\skip120
+\rotFPtop=\skip120
+\rotFPbot=\skip121
 \rot@float@box=\box74
-\rot@mess@toks=\toks60
+\rot@mess@toks=\toks65
 )
-\LSPTmp=\skip121
+\LSPTmp=\skip122
 )
 (./localmetadata.tex) (./localpackages.tex
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pst-jtree/pst-jtree.sty
@@ -2843,50 +2857,50 @@ Package: pst-jtree 2011/01/04 package wrapper for pst-jtree.tex
 \psrow=\count545
 \pscol=\count546
 \psmatrixcnt=\count547
-\psrowsep=\skip122
-\pscolsep=\skip123
+\psrowsep=\skip123
+\pscolsep=\skip124
 \pst@args=\count548
 \num@pts=\count549
 \pst@argcnt=\count550
 )
-\@xpos=\dimen342
-\@ypos=\dimen343
-\@@xpos=\dimen344
-\@@ypos=\dimen345
-\max@left=\dimen346
-\max@right=\dimen347
-\max@down=\dimen348
-\jt@dima=\dimen349
-\jt@dimb=\dimen350
-\jt@dimc=\dimen351
-\jt@dimd=\dimen352
-\jt@dime=\dimen353
+\@xpos=\dimen345
+\@ypos=\dimen346
+\@@xpos=\dimen347
+\@@ypos=\dimen348
+\max@left=\dimen349
+\max@right=\dimen350
+\max@down=\dimen351
+\jt@dima=\dimen352
+\jt@dimb=\dimen353
+\jt@dimc=\dimen354
+\jt@dimd=\dimen355
+\jt@dime=\dimen356
 \tree@box=\box75
 \@nodebox=\box76
-\jtEverytree=\toks61
-\jteverytree=\toks62
-\jteverylabel=\toks63
+\jtEverytree=\toks66
+\jteverytree=\toks67
+\jteverylabel=\toks68
 \@CurrState=\count551
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \c@tracingmulticols=\count552
 \mult@box=\box77
-\multicol@leftmargin=\dimen354
+\multicol@leftmargin=\dimen357
 \c@unbalance=\count553
 \c@collectmore=\count554
 \doublecol@number=\count555
 \multicoltolerance=\count556
 \multicolpretolerance=\count557
-\full@width=\dimen355
-\page@free=\dimen356
-\premulticols=\dimen357
-\postmulticols=\dimen358
-\multicolsep=\skip124
-\multicolbaselineskip=\skip125
+\full@width=\dimen358
+\page@free=\dimen359
+\premulticols=\dimen360
+\postmulticols=\dimen361
+\multicolsep=\skip125
+\multicolbaselineskip=\skip126
 \partial@page=\box78
 \last@line=\box79
-\maxbalancingoverflow=\dimen359
+\maxbalancingoverflow=\dimen362
 \mult@rightbox=\box80
 \mult@grightbox=\box81
 \mult@gfirstbox=\box82
@@ -2910,9 +2924,9 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box100
 \c@columnbadness=\count558
 \c@finalcolumnbadness=\count559
-\last@try=\dimen360
-\multicolovershoot=\dimen361
-\multicolundershoot=\dimen362
+\last@try=\dimen363
+\multicolovershoot=\dimen364
+\multicolundershoot=\dimen365
 \mult@nat@firstbox=\box101
 \colbreak@box=\box102
 \mc@col@check@num=\count560
@@ -2922,35 +2936,35 @@ Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen363
+\col@sep=\dimen366
 \ar@mcellbox=\box103
-\extrarowheight=\dimen364
-\NC@list=\toks64
-\extratabsurround=\skip126
-\backup@length=\skip127
+\extrarowheight=\dimen367
+\NC@list=\toks69
+\extratabsurround=\skip127
+\backup@length=\skip128
 \ar@cellbox=\box104
 )
-\TX@col@width=\dimen365
-\TX@old@table=\dimen366
-\TX@old@col=\dimen367
-\TX@target=\dimen368
-\TX@delta=\dimen369
+\TX@col@width=\dimen368
+\TX@old@table=\dimen369
+\TX@old@col=\dimen370
+\TX@target=\dimen371
+\TX@delta=\dimen372
 \TX@cols=\count561
-\TX@ftn=\toks65
+\TX@ftn=\toks70
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
-\everycr=\toks66
-\minrowclearance=\skip128
+\everycr=\toks71
+\minrowclearance=\skip129
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip129
-\LTright=\skip130
-\LTpre=\skip131
-\LTpost=\skip132
+\LTleft=\skip130
+\LTright=\skip131
+\LTpre=\skip132
+\LTpost=\skip133
 \LTchunksize=\count562
-\LTcapwidth=\dimen370
+\LTcapwidth=\dimen373
 \LT@head=\box105
 \LT@firsthead=\box106
 \LT@foot=\box107
@@ -2959,16 +2973,16 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
 \LT@rows=\count564
 \c@LT@tables=\count565
 \c@LT@chunks=\count566
-\LT@p@ftn=\toks67
+\LT@p@ftn=\toks72
 )
 Class scrbook Info: longtable captions redefined on input line 14.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
-\multirow@colwidth=\skip133
+\multirow@colwidth=\skip134
 \multirow@cntb=\count567
-\multirow@dima=\skip134
-\bigstrutjot=\dimen371
+\multirow@dima=\skip135
+\bigstrutjot=\dimen374
 )
 (/usr/local/texlive/2019/texmf-dist/tex/xelatex/langsci/langsci-optional.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
@@ -2982,24 +2996,24 @@ Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
 \FV@StepNumber=\count570
 \FV@OutFile=\write9
 )
-\rotheight=\skip135
-\rotwidth=\skip136
+\rotheight=\skip136
+\rotwidth=\skip137
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box110
 \UL@hyphenbox=\box111
-\UL@skip=\skip137
-\UL@hook=\toks68
-\UL@height=\dimen372
+\UL@skip=\skip138
+\UL@hook=\toks73
+\UL@height=\dimen375
 \UL@pe=\count571
-\UL@pixel=\dimen373
+\UL@pixel=\dimen376
 \ULC@box=\box112
 Requested font "lasy6" scaled 1000
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 Package: ulem 2012/05/18
-\ULdepth=\dimen374
+\ULdepth=\dimen377
 )
-\fulllength=\skip138
+\fulllength=\skip139
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryarrows.code.tex
@@ -3008,24 +3022,24 @@ File: tikzlibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\arrowsize=\dimen375
+\arrowsize=\dimen378
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfarrowinset=\dimen376
-\pgfarrowlength=\dimen377
-\pgfarrowwidth=\dimen378
-\pgfarrowlinewidth=\dimen379
+\pgfarrowinset=\dimen379
+\pgfarrowlength=\dimen380
+\pgfarrowwidth=\dimen381
+\pgfarrowlinewidth=\dimen382
 )
 \c@lsConnectTempGroup=\count572
 \c@paperappendixsection=\count573
 ) (./langsci-avm.sty
-\avmdimen=\dimen380
+\avmdimen=\dimen383
 \avmboxone=\box113
 \avmboxthree=\box114
-\LangsciAvmAngleBoxHeight=\skip139
-\LangsciAvmAngleBoxDepth=\skip140
+\LangsciAvmAngleBoxHeight=\skip140
+\LangsciAvmAngleBoxDepth=\skip141
 \LangsciAvmAngleBox=\box115
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries-extra/glossaries-extra
@@ -3037,8 +3051,8 @@ Package: glossaries 2019/01/06 v4.42 (NLCT)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-\@glsmfirst=\toks69
-\@glsmrest=\toks70
+\@glsmfirst=\toks74
+\@glsmrest=\toks75
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
@@ -3104,9 +3118,9 @@ Package: fp-upn 1996/10/21
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks71
+\@dtl@toks=\toks76
 \@dtl@tmpcount=\count586
-\dtl@tmplength=\skip141
+\dtl@tmplength=\skip142
 \dtl@sortresult=\count587
 \@dtl@numgrpsepcount=\count588
 \@dtl@datatype=\count589
@@ -3127,12 +3141,12 @@ lish.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
 )
 \gls@level=\count593
-\@gls@tmpb=\toks72
-\gls@tmplen=\skip142
-\glskeylisttok=\toks73
-\glslabeltok=\toks74
-\glsshorttok=\toks75
-\glslongtok=\toks76
+\@gls@tmpb=\toks77
+\gls@tmplen=\skip143
+\glskeylisttok=\toks78
+\glslabeltok=\toks79
+\glsshorttok=\toks80
+\glslongtok=\toks81
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
 av.sty
@@ -3141,13 +3155,13 @@ Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
 ty
 Package: glossary-list 2019/01/06 v4.42 (NLCT)
-\glslistdottedwidth=\skip143
+\glslistdottedwidth=\skip144
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
 ty
 Package: glossary-long 2019/01/06 v4.42 (NLCT)
-\glsdescwidth=\skip144
-\glspagelistwidth=\skip145
+\glsdescwidth=\skip145
+\glspagelistwidth=\skip146
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-super.
 sty
@@ -3155,31 +3169,31 @@ Package: glossary-super 2019/01/06 v4.42 (NLCT)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count594
-\ST@wd=\dimen381
-\ST@rightskip=\skip146
-\ST@leftskip=\skip147
-\ST@parfillskip=\skip148
-\ST@pageleft=\dimen382
-\ST@headht=\dimen383
-\ST@tailht=\dimen384
-\ST@pagesofar=\dimen385
-\ST@pboxht=\dimen386
-\ST@lineht=\dimen387
-\ST@stretchht=\dimen388
-\ST@prevht=\dimen389
-\ST@toadd=\dimen390
-\ST@dimen=\dimen391
+\ST@wd=\dimen384
+\ST@rightskip=\skip147
+\ST@leftskip=\skip148
+\ST@parfillskip=\skip149
+\ST@pageleft=\dimen385
+\ST@headht=\dimen386
+\ST@tailht=\dimen387
+\ST@pagesofar=\dimen388
+\ST@pboxht=\dimen389
+\ST@lineht=\dimen390
+\ST@stretchht=\dimen391
+\ST@prevht=\dimen392
+\ST@toadd=\dimen393
+\ST@dimen=\dimen394
 \ST@pbox=\box116
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
 ty
 Package: glossary-tree 2019/01/06 v4.42 (NLCT)
-\glstreeindent=\skip149
+\glstreeindent=\skip150
 ))
 \glsxtrresourcecount=\count595
 \@glsxtrnewgls@inner=\count596
-\glsshortpltok=\toks77
-\glslongpltok=\toks78
+\glsshortpltok=\toks82
+\glslongpltok=\toks83
 )) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/langsci/langsci-gb4e.sty
 Package: langsci-gb4e 2000/09/05
 (/usr/local/texlive/2019/texmf-dist/tex/xelatex/langsci/langsci-cgloss.sty
@@ -3200,7 +3214,7 @@ Package: langsci-gb4e 2000/09/05
 \wordseven=\box131
 \wordeight=\box132
 \gline=\box133
-\glossglue=\skip150
+\glossglue=\skip151
 )
 \c@fnx=\count597
 \@xnumdepth=\count598
@@ -3226,74 +3240,68 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count607
 \@quotereset=\count608
-(./main.aux (./chapters/acknowledgments.aux) (./chapters/abbreviations.aux)
-(./chapters/glossary.aux) (./chapters/summary.aux) (./chapters/epigraph.aux)
-(./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
-(./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
-) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
-) (./chapters/07_Discussion.aux) (./langsci/graphics/langsci-advertisement.aux)
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 30.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 30
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 31.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 31
 .
  (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 30.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 30.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 31.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 30.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 30
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 31
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 31.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 3
-0.
+1.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 ABD: EveryShipout initializing macros
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 30.
+loading the todonotes package. on input line 31.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -3329,21 +3337,21 @@ loading the todonotes package. on input line 30.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 30.
+(Font)              `operators' in the math version `normal' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/LinLibertine_R_B.otf(0)/m/n --> TU/LinLibertine_R_B
-.otf(0)/m/n on input line 30.
+.otf(0)/m/n on input line 31.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 30.
+(Font)              `operators' in the math version `bold' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/LinLibertine_R_B.otf(0)/sb/n --> TU/LinLibertine_R_
-B.otf(0)/m/n on input line 30.
+B.otf(0)/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinLibertine_R_B.otf(0)/m/n --> TU/LinLibertine_R_B.
-otf(0)/b/n on input line 30.
-LaTeX Info: Redefining \microtypecontext on input line 30.
+otf(0)/b/n on input line 31.
+LaTeX Info: Redefining \microtypecontext on input line 31.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -3377,8 +3385,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 30.
-Package biblatex Info: Reference segment=0 on input line 30.
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
@@ -3397,7 +3405,7 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@FBLTpage=\count609
 )
 \AtBeginShipoutBox=\box136
-Package hyperref Info: Link coloring ON on input line 30.
+Package hyperref Info: Link coloring ON on input line 31.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3407,9 +3415,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count610
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
 
 (./main.out) (./main.out)
 \@outlinefile=\write10
@@ -3421,7 +3429,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           You can avoid loading `bookmark' with KOMA-Script option
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message with `\usepackage{bookmark}'
-(scrbook)           before \begin{document} on input line 30.
+(scrbook)           before \begin{document} on input line 31.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
 Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
@@ -3430,23 +3438,11 @@ Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
 File: bkm-dvipdfm.def 2016/05/17 v1.26 bookmark driver for dvipdfm (HO)
 \BKM@id=\count611
 ))
-
-! LaTeX Error: Command \gla undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \begin{document}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 51.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 41.4126pt on input line 31.
+(Font)              scaled to size 41.4126pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 41.4126pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3471,7 +3467,7 @@ Package fontspec Info: Arimo_B scale = 0.8120073121670112.
 Package fontspec Info: Arimo_B scale = 0.9564116011912216.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.89153pt on input line 31.
+(Font)              scaled to size 8.89153pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 8.89153pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3529,12 +3525,12 @@ lic_B.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 48.77669pt on input line 31.
+(Font)              scaled to size 48.77669pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 48.77669pt
  -> ./langsci/fonts/Arimo_B.ttf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 49.7331pt on input line 31.
+(Font)              scaled to size 49.7331pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 49.7331pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3542,7 +3538,7 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 25.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 8.58977pt on input line 31.
+(Font)              scaled to size 8.58977pt on input line 32.
 Requested font "[DejaVuSansMono.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;" at 8.58977pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/public/dejavu/DejaVuSansM
@@ -3555,7 +3551,7 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 17.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 13.8042pt on input line 31.
+(Font)              scaled to size 13.8042pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 13.8042pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3566,10 +3562,11 @@ Package fontspec Info: Arimo_B scale = 0.8120079233408858.
 Package fontspec Info: Arimo_B scale = 0.9564119235264212.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 31.
+(Font)              scaled to size 10.47263pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 10.47263pt
  -> ./langsci/fonts/Arimo_B.ttf
+
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -3585,7 +3582,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 \openout3 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.12012pt on input line 31.
+(Font)              scaled to size 8.12012pt on input line 32.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 8.12012pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3649,7 +3646,7 @@ Requested font "ntxexx" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -3666,7 +3663,7 @@ Requested font "msam10" at 8.0pt
 Requested font "msam7" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
 tfm
-LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -3684,7 +3681,7 @@ Requested font "msbm10" at 8.0pt
 Requested font "msbm7" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
 tfm
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 31.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 32.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxmia.fd
@@ -3696,7 +3693,7 @@ Requested font "nxlmia" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 31.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 32.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxsym.fd
@@ -3708,7 +3705,7 @@ Requested font "ntxsym" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 31.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 32.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxsyc.fd
@@ -3754,52 +3751,25 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;mapping=tex-text;" at 20.74pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
-Package tocbasic Info: character protrusion at toc deactivated on input line 34
+Package tocbasic Info: character protrusion at toc deactivated on input line 35
 .
- (./main.toc
-Overfull \hbox (0.76648pt too wide) detected at line 10
- []\TU/LinLibertine_R_B.otf(0)/bx/n/10.95 xvii|
- []
+\tf@toc=\write11
+\openout11 = `main.toc'.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-[1
+ [1
 
 
 ] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
- [][] [][][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Van Staden/Reesink: Independe
-nt, dependent, co- 
- []
-
 \openout3 = `main.mw'.
 
-[2] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [3] (./main.mw)
-\openout3 = `main.mw'.
-
-)
-\tf@toc=\write11
-\openout11 = `main.toc'.
-
-\openout3 = `main.mw'.
-
- [4] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [26
+ [2
 
 
 
@@ -3813,24 +3783,7 @@ nt, dependent, co-
 
 
 (./chapters/07_Discussion.tex
-\openout3 = `main.mw'.
-
- [390
-
-
-
-
-
-
-
-
-
-
-] (./main.mw)
-\openout3 = `main.mw'.
-
-
-chapter 7.
+chapter 1.
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -3852,15 +3805,79 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
+
+LaTeX Warning: Reference `ch:gram' on page 1 undefined on input line 4.
+
+
+LaTeX Warning: Reference `ch:sem' on page 1 undefined on input line 4.
+
+
+LaTeX Warning: Reference `ch:constructions' on page 1 undefined on input line 4
+.
+
+
+LaTeX Warning: Reference `ch:gram' on page 1 undefined on input line 4.
+
+
+LaTeX Warning: Reference `ch:sem' on page 1 undefined on input line 4.
+
 \openout3 = `main.mw'.
 
-[391] (./main.mw)
+[1
+
+
+
+
+
+
+
+
+
+
+] (./main.mw)
 \openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec:distribution' on page 2 undefined on input line 8
+.
+
+
+LaTeX Warning: Reference `sec:hierarchy' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Reference `ch:theory' on page 2 undefined on input line 10.
+
+
+LaTeX Warning: Reference `sec:profile_use' on page 2 undefined on input line 12
+.
+
+
+LaTeX Warning: Reference `sec:discourse' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Reference `ch:theory' on page 2 undefined on input line 14.
+
+
+LaTeX Warning: Reference `sec:discourse' on page 2 undefined on input line 14.
 
 \openout3 = `main.mw'.
 
- [392] (./main.mw)
+[2] (./main.mw)
 \openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec:dist_types' on page 3 undefined on input line 18.
+
+
+
+LaTeX Warning: Reference `ch:constructions' on page 3 undefined on input line 1
+8.
+
+
+LaTeX Warning: Reference `ch:constructions' on page 3 undefined on input line 1
+8.
 
 
 Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
@@ -3875,25 +3892,104 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+
+LaTeX Warning: Reference `fig:crel-group' on page 3 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `fig:mod-group' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Reference `fig:srel-group' on page 3 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `fig:fjux-group' on page 3 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `ch:constructions' on page 3 undefined on input line 2
+6.
+
+
+LaTeX Warning: Reference `fig:crel-group' on page 3 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `fig:mod-group' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Reference `fig:srel-group' on page 3 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `fig:fjux-group' on page 3 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `ch:constructions' on page 3 undefined on input line 2
+6.
+
+
+LaTeX Warning: Reference `fig:MVCs_subarea' on page 3 undefined on input line 3
+0.
+
+
+LaTeX Warning: Reference `fig:number_types' on page 3 undefined on input line 3
+0.
+
+
+LaTeX Warning: Reference `fig:MVCs_subarea' on page 3 undefined on input line 3
+0.
+
 \openout3 = `main.mw'.
 
-[393] (./main.mw)
+[3] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [394] (./main.mw)
+ [4] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `fig:number_types' on page 5 undefined on input line 3
+7.
+
+
+LaTeX Warning: Reference `fig:constructions_tokens' on page 5 undefined on inpu
+t line 37.
+
+\openout3 = `main.mw'.
+
+[5] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [395] (./main.mw)
+ [6] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [396] (./main.mw)
-\openout3 = `main.mw'.
+
+LaTeX Warning: Reference `table:diversity_language' on page 7 undefined on inpu
+t line 44.
+
+
+LaTeX Warning: Reference `table:diversity_language' on page 7 undefined on inpu
+t line 44.
+
+
+LaTeX Warning: Reference `table:diversity_language' on page 7 undefined on inpu
+t line 44.
+
+
+LaTeX Warning: Reference `sec:profile_use' on page 7 undefined on input line 44
+.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
@@ -4066,32 +4162,92 @@ DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-
-[397] (./main.mw)
+[7] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [398] (./main.mw)
+ [8] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [399] (./main.mw)
+ [9] (./main.mw)
 \openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec:literature-mvcs' on page 10 undefined on input li
+ne 99.
+
+
+LaTeX Warning: Reference `lao1' on page 10 undefined on input line 99.
+
+
+LaTeX Warning: Reference `lao_2' on page 10 undefined on input line 99.
 
 \openout3 = `main.mw'.
 
- [400] (./main.mw)
+[10] (./main.mw)
 \openout3 = `main.mw'.
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 102.
+Package marginnote Info: Suggest that margin note 19.1 will be on
+(marginnote)             absolute page 19.
+(marginnote)             This may be wrong on input line 102.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 102.
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 6.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 102--102
+[][]  |
+ []
+
+
+LaTeX Warning: Reference `ch:constructions' on page 11 undefined on input line 
+110.
+
+
+LaTeX Warning: Reference `KYO001a' on page 11 undefined on input line 110.
+
+Package marginnote Info: Suggest that margin note 19.2 will be on
+(marginnote)             absolute page 19.
+(marginnote)             This may be wrong on input line 113.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 113.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 113--113
+[][]  |
+ []
+
+
+LaTeX Warning: Reference `KYO001a' on page 11 undefined on input line 119.
+
+
+LaTeX Warning: Reference `sec:modification' on page 11 undefined on input line 
+119.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+
+LaTeX Warning: Reference `sec:clauselevelmodification' on page 11 undefined on 
+input line 119.
 
 Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_RI_B.otf
+
+LaTeX Warning: Reference `figure:eventschema_KYO001a' on page 11 undefined on i
+nput line 119.
+
+
+LaTeX Warning: Reference `ch:sem' on page 11 undefined on input line 119.
+
 \openout3 = `main.mw'.
 
-
-[401] (./main.mw)
+[11] (./main.mw)
 \openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
@@ -4123,49 +4279,121 @@ Requested font "ntxsyc" at 6.2pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 Requested font "ntxexa" at 6.2pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+
+
+LaTeX Warning: Reference `KYO001a' on page 12 undefined on input line 199.
+
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
 
- [402] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `KYO001a' on page 12 undefined on input line 199.
 
-\openout3 = `main.mw'.
 
- [403] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `KYO001a' on page 12 undefined on input line 203.
 
-\openout3 = `main.mw'.
 
- [404] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `KYO001a' on page 12 undefined on input line 203.
+
+
+LaTeX Warning: Reference `Kaera_13' on page 12 undefined on input line 203.
 
 \openout3 = `main.mw'.
 
-
-[405] (./main.mw)
+[12] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [406] (./main.mw)
+ [13] (./main.mw)
+\openout3 = `main.mw'.
+
+Package marginnote Info: Suggest that margin note 22.1 will be on
+(marginnote)             absolute page 22.
+(marginnote)             This may be wrong on input line 206.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 206--206
+ [][]|
+ []
+
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 206.
+
+LaTeX Warning: Reference `ch:sem' on page 14 undefined on input line 212.
+
+
+LaTeX Warning: Reference `fig:stacked' on page 14 undefined on input line 214.
+
+
+LaTeX Warning: Reference `sec:distribution' on page 14 undefined on input line 
+221.
+
+
+LaTeX Warning: Reference `fig:number_types' on page 14 undefined on input line 
+221.
+
+
+LaTeX Warning: Reference `sec:distribution' on page 14 undefined on input line 
+221.
+
+
+LaTeX Warning: Reference `fig:complexity' on page 14 undefined on input line 22
+1.
+
+
+LaTeX Warning: Reference `sec:distribution' on page 14 undefined on input line 
+221.
+
+
+LaTeX Warning: Reference `table:diversity_language' on page 14 undefined on inp
+ut line 221.
+
+
+LaTeX Warning: Reference `fig:stacked' on page 14 undefined on input line 221.
+
+\openout3 = `main.mw'.
+
+[14] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [407] (./main.mw)
+ [15] (./main.mw)
 \openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `fig:complexity' on page 16 undefined on input line 22
+3.
+
+\openout3 = `main.mw'.
+
+[16] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [17] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `table:profile_MVCuse' on page 18 undefined on input l
+ine 236.
+
+
+LaTeX Warning: Reference `table:profile_MVCuse' on page 18 undefined on input l
+ine 236.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 245--246
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 Muna, Abui, Makalero, Teiwa$\LMS/ntxsy/m/n
-/9 "$\TU/LinLibertine_R_B.otf(0)/m/n/9 ,
+[]|[]\TU/LinLibertine_R_B.otf(0)/m/n/9 Muna[], []Abui[], []Ma[]-[]ka[]-[]lero[]
+, []Teiwa[]$\LMS/ntxsy/m/n/9 "$\TU/LinLibertine_R_B.otf(0)/m/n/9 ,
  []
 
 
 Underfull \hbox (badness 1132) in paragraph at lines 247--248
-\TU/LinLibertine_R_B.otf(0)/m/n/9 Klon, Tetun, Western Pantar, Selaru,
+[]\TU/LinLibertine_R_B.otf(0)/m/n/9 Klon[], Tetun, Western Pantar, []Se[]-[]lar
+u[],
  []
 
 Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
@@ -4176,116 +4404,332 @@ Overfull \hbox (6.93634pt too wide) in paragraph at lines 240--255
  [][] |
  []
 
-\openout3 = `main.mw'.
 
-[408] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [409] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `table:profile_MVCuse' on page 18 undefined on input l
+ine 259.
 
 \openout3 = `main.mw'.
 
- [410] (./main.mw)
+[18] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `table:profile_MVCuse' on page 19 undefined on input l
+ine 263.
+
+
+LaTeX Warning: Reference `table:profile_MVCuse' on page 19 undefined on input l
+ine 263.
+
+
+LaTeX Warning: Reference `fig:map_profiles' on page 19 undefined on input line 
+266.
+
+\openout3 = `main.mw'.
+
+[19] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [411] (./main.mw)
-\openout3 = `main.mw'.
-
+ [20] (./main.mw)
 \openout3 = `main.mw'.
 
 
-[412] (./main.mw)
+
+LaTeX Warning: Reference `sec:prosodic' on page 21 undefined on input line 272.
+
+
 \openout3 = `main.mw'.
+
+[21] (./main.mw)
+\openout3 = `main.mw'.
+
+Package marginnote Info: Suggest that margin note 30.1 will be on
+(marginnote)             absolute page 30.
+(marginnote)             This may be wrong on input line 277.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 277--277
+ [][]|
+ []
+
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 277.
+\openout3 = `main.mw'.
+
+[22] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `fig:gardening_pitch' on page 23 undefined on input li
+ne 300.
+
+
+LaTeX Warning: Reference `Wooi_gardening1' on page 23 undefined on input line 3
+00.
 
 
 Overfull \hbox (71.1308pt too wide) in paragraph at lines 303--304
  [][] |
  []
 
-\openout3 = `main.mw'.
 
-[413] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `Wooi_gardening1' on page 23 undefined on input line 3
+04.
 
-\openout3 = `main.mw'.
 
- [414] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `Wooi_gardening1' on page 23 undefined on input line 3
+04.
 
-\openout3 = `main.mw'.
 
- [415] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `Wooi_gardening1' on page 23 undefined on input line 3
+09.
 
-\openout3 = `main.mw'.
 
- [416] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `sec:nus' on page 23 undefined on input line 311.
 
 \openout3 = `main.mw'.
 
-
-[417] (./main.mw)
+[23] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [418] (./main.mw)
+ [24] (./main.mw)
+\openout3 = `main.mw'.
+
+Package marginnote Info: Suggest that margin note 33.1 will be on
+(marginnote)             absolute page 33.
+(marginnote)             This may be wrong on input line 314.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 314.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 314--314
+[][]  |
+ []
+
+
+LaTeX Warning: Reference `Wooi_leaf' on page 25 undefined on input line 328.
+
+\openout3 = `main.mw'.
+
+[25] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `Wooi_leaf' on page 26 undefined on input line 330.
+
+
+LaTeX Warning: Reference `Wooi_leaf' on page 26 undefined on input line 330.
+
+
+LaTeX Warning: Reference `Korafe' on page 26 undefined on input line 330.
+
+Package marginnote Info: Suggest that margin note 34.1 will be on
+(marginnote)             absolute page 34.
+(marginnote)             This may be wrong on input line 333.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 333--333
+ [][]|
+ []
+
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 333.
+
+LaTeX Warning: Reference `Korafe' on page 26 undefined on input line 349.
+
+
+LaTeX Warning: Reference `Waimaqa_dom2_22' on page 26 undefined on input line 3
+49.
+
+Package marginnote Info: Suggest that margin note 34.2 will be on
+(marginnote)             absolute page 34.
+(marginnote)             This may be wrong on input line 352.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 352--352
+ [][]|
+ []
+
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 352.
+\openout3 = `main.mw'.
+
+[26] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `Wooi_gardening1' on page 27 undefined on input line 3
+65.
+
+Package marginnote Info: Suggest that margin note 35.1 will be on
+(marginnote)             absolute page 35.
+(marginnote)             This may be wrong on input line 368.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 368.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 368--368
+[][]  |
+ []
+
+
+LaTeX Warning: Reference `Waimaqa_cuttwine' on page 27 undefined on input line 
+390.
+
+
+LaTeX Warning: Reference `Korafe' on page 27 undefined on input line 390.
+
+
+LaTeX Warning: Reference `Wooi_gardening1' on page 27 undefined on input line 3
+90.
+
+\openout3 = `main.mw'.
+
+[27] (./main.mw)
+\openout3 = `main.mw'.
+
+Package marginnote Info: Suggest that margin note 36.1 will be on
+(marginnote)             absolute page 36.
+(marginnote)             This may be wrong on input line 393.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 393--393
+ [][]|
+ []
+
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 393.
+
+LaTeX Warning: Reference `eipo' on page 28 undefined on input line 409.
+
+\openout3 = `main.mw'.
+
+[28] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `Wooi_leaf' on page 29 undefined on input line 415.
+
+Package marginnote Info: Suggest that margin note 37.1 will be on
+(marginnote)             absolute page 37.
+(marginnote)             This may be wrong on input line 418.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 418.
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 418--418
+[][]  |
+ []
+
+\openout3 = `main.mw'.
+
+[29] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `ch:introduction' on page 30 undefined on input line 4
+53.
+
+\openout3 = `main.mw'.
+
+[30] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `ch:area' on page 31 undefined on input line 463.
+
+
+LaTeX Warning: Reference `ch:theory' on page 31 undefined on input line 465.
+
+
+LaTeX Warning: Reference `ch:theory' on page 31 undefined on input line 465.
+
+
+LaTeX Warning: Reference `ch:theory' on page 31 undefined on input line 467.
+
+
+LaTeX Warning: Reference `ch:gram' on page 31 undefined on input line 467.
+
+\openout3 = `main.mw'.
+
+[31] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `ch:sem' on page 32 undefined on input line 469.
+
+
+LaTeX Warning: Reference `ch:sem' on page 32 undefined on input line 469.
+
+
+LaTeX Warning: Reference `Hatam6465' on page 32 undefined on input line 471.
+
+
+LaTeX Warning: Reference `sec:mvc-types' on page 32 undefined on input line 471
+.
+
+\openout3 = `main.mw'.
+
+[32] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `ch:constructions' on page 33 undefined on input line 
+473.
+
+
+LaTeX Warning: Reference `ch:sem' on page 33 undefined on input line 473.
+
+\openout3 = `main.mw'.
+
+[33] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [419] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [420] (./main.mw)
-\openout3 = `main.mw'.
-
+ [34] (./main.mw)
 \openout3 = `main.mw'.
 
 
-[421] (./main.mw)
-\openout3 = `main.mw'.
+
+LaTeX Warning: Reference `sec:profile_use' on page 35 undefined on input line 4
+85.
+
+
+LaTeX Warning: Reference `fig:map_profiles' on page 35 undefined on input line 
+485.
 
 \openout3 = `main.mw'.
 
- [422] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [423] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [424] (./main.mw)
-\openout3 = `main.mw'.
-
+[35] (./main.mw)
 \openout3 = `main.mw'.
 
 
-[425] (./main.mw)
-\openout3 = `main.mw'.
+
+LaTeX Warning: Reference `ch:constructions' on page 36 undefined on input line 
+487.
+
+
+LaTeX Warning: Reference `ch:sem' on page 36 undefined on input line 489.
+
+
+LaTeX Warning: Reference `sec:discourse' on page 36 undefined on input line 489
+.
+
+
+LaTeX Warning: Reference `sec:coherence' on page 36 undefined on input line 489
+.
 
 )
 \openout3 = `main.mw'.
 
- [426] (./main.mw)
+ [36] (./main.mw)
 \openout3 = `main.mw'.
 
  (./backmatter.tex
 chapter without number
 \openout3 = `main.mw'.
 
-[427
+[37
 
 
 
@@ -4302,28 +4746,28 @@ inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
 
 \openout3 = `main.mw'.
 
-[428] (./main.mw)
+[38] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [429] (./main.mw)
+ [39] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [430] (./main.mw)
+ [40] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [431] (./main.mw)
+ [41] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[432] (./main.mw)
+ [42]
+(./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -4334,7 +4778,7 @@ construction, and class formation.
 
 \openout3 = `main.mw'.
 
-[433] (./main.mw)
+[43] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -4345,7 +4789,7 @@ tter, Apriani Arilaha, F Morigerowski,
 
 \openout3 = `main.mw'.
 
-[434] (./main.mw)
+[44] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -4356,17 +4800,17 @@ olaus P Himmelmann, Jani Kuhnt-
 
 \openout3 = `main.mw'.
 
-[435] (./main.mw)
+[45] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [436] (./main.mw)
+ [46] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [437] (./main.mw)
+ [47] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -4377,17 +4821,17 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
-[438] (./main.mw)
+[48] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [439] (./main.mw)
+ [49] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [440] (./main.mw)
+ [50] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -4397,7 +4841,7 @@ No file main.snd.
 )
 \openout3 = `main.mw'.
 
- [441
+ [51
 
 
 
@@ -4412,13 +4856,13 @@ No file main.snd.
 
 \openout3 = `main.mw'.
 
- [443
+ [52
 
 ] (./main.mw)
 \openout3 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 20.3003pt on input line 60.
+(Font)              scaled to size 20.3003pt on input line 61.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 20.3003pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -4433,40 +4877,57 @@ Package fontspec Info: Arimo_B scale = 0.8120078558225505.
 Package fontspec Info: Arimo_B scale = 0.9564114620298085.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 23.91014pt on input line 60.
+(Font)              scaled to size 23.91014pt on input line 61.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 23.91014pt
  -> ./langsci/fonts/Arimo_B.ttf
 \openout3 = `main.mw'.
 
- [444] (./main.mw)
+ [53] (./main.mw)
 \openout3 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
  (./main.aux
-(./chapters/acknowledgments.aux) (./chapters/abbreviations.aux)
-(./chapters/glossary.aux) (./chapters/summary.aux) (./chapters/epigraph.aux)
-(./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
-(./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
-) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
-) (./chapters/07_Discussion.aux) (./langsci/graphics/langsci-advertisement.aux)
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+No file chapters/acknowledgments.aux.
+No file chapters/abbreviations.aux.
+No file chapters/glossary.aux.
+No file chapters/summary.aux.
+No file chapters/epigraph.aux.
+No file chapters/01_Introduction.aux.
+No file chapters/02_Eastern_Indonesia.aux.
+No file chapters/03_Setting_the_scene.aux.
+No file chapters/04_Grammatical_properties.aux.
+No file chapters/05_Semantic_properties.aux.
+No file chapters/06_Construction_types.aux.
+(./chapters/07_Discussion.aux) (./langsci/graphics/langsci-advertisement.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 61.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 71920 strings out of 492916
- 1431481 string characters out of 6133345
- 2100593 words of memory out of 5000000
- 74677 multiletter control sequences out of 15000+600000
- 560183 words of font info for 190 fonts, out of 8000000 for 9000
+ 71353 strings out of 492916
+ 1424464 string characters out of 6133345
+ 2026324 words of memory out of 5000000
+ 74159 multiletter control sequences out of 15000+600000
+ 560577 words of font info for 194 fonts, out of 8000000 for 9000
  1356 hyphenation exceptions out of 8191
- 71i,13n,118p,9084b,5766s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,118p,9080b,5216s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (65 pages).
+Output written on main.pdf (61 pages).
