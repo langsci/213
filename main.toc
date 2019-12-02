@@ -9,88 +9,290 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Summary and guide to the book}{xvii}{chapter*.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}The Eastern Indonesian linguistic area}{3}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Introduction}{3}{section.1.1}% 
+\contentsline {section}{\numberline {1.1}Verb serialisation}{4}{section.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Genealogical lineage}{6}{section.1.2}% 
+\contentsline {section}{\numberline {1.2}Multi-verb constructions}{6}{section.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Austronesian languages}{6}{subsection.1.2.1}% 
+\contentsline {section}{\numberline {1.3}Aim and scope of the study}{7}{section.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Papuan languages}{7}{subsection.1.2.2}% 
+\contentsline {section}{\numberline {1.4}Underspecified verb sequences}{10}{section.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Typological features}{12}{section.1.3}% 
+\contentsline {section}{\numberline {1.5}Data sample and methodology}{16}{section.1.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}Preposed possessor languages}{15}{subsection.1.3.1}% 
+\contentsline {chapter}{\numberline {2}The Eastern Indonesian linguistic area}{21}{chapter.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}East Nusantara as a linguistic area}{16}{subsection.1.3.2}% 
+\contentsline {section}{\numberline {2.1}Introduction}{21}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.3}Linguistic Wallacea}{23}{subsection.1.3.3}% 
+\contentsline {section}{\numberline {2.2}Genealogical lineage}{24}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.4}West Papuan}{26}{subsection.1.3.4}% 
+\contentsline {subsection}{\numberline {2.2.1}Austronesian languages}{24}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Introduction to the languages}{30}{section.1.4}% 
+\contentsline {subsection}{\numberline {2.2.2}Papuan languages}{25}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.1}Sulawesi}{30}{subsection.1.4.1}% 
+\contentsline {section}{\numberline {2.3}Typological features}{31}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.2}Nusa Tenggara}{35}{subsection.1.4.2}% 
+\contentsline {subsection}{\numberline {2.3.1}Preposed possessor languages}{33}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.3}Maluku}{44}{subsection.1.4.3}% 
+\contentsline {subsection}{\numberline {2.3.2}East Nusantara as a linguistic area}{34}{subsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.4}Western Papua}{50}{subsection.1.4.4}% 
+\contentsline {subsection}{\numberline {2.3.3}Linguistic Wallacea}{41}{subsection.2.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Summary}{56}{section.1.5}% 
+\contentsline {subsection}{\numberline {2.3.4}West Papuan}{44}{subsection.2.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Grammatical properties}{59}{chapter.2}% 
+\contentsline {section}{\numberline {2.4}Introduction to the languages}{48}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Introduction}{59}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.4.1}Sulawesi}{48}{subsection.2.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Argument structure}{62}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.4.2}Nusa Tenggara}{53}{subsection.2.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Argument sharing}{72}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.4.3}Maluku}{62}{subsection.2.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1.1}Co-functional MVCs}{73}{subsubsection.2.2.1.1}% 
+\contentsline {subsection}{\numberline {2.4.4}Western Papua}{68}{subsection.2.4.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1.2}Switch-function MVCs}{74}{subsubsection.2.2.1.2}% 
+\contentsline {section}{\numberline {2.5}Summary}{74}{section.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1.3}Participant accumulation}{77}{subsubsection.2.2.1.3}% 
+\contentsline {chapter}{\numberline {3}Setting the scene}{77}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}No argument sharing}{78}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {3.1}Introduction}{77}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2.1}Event-to-argument reanalysis}{78}{subsubsection.2.2.2.1}% 
+\contentsline {section}{\numberline {3.2}Properties of serial verb constructions}{78}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2.2}Cases without argument interaction}{82}{subsubsection.2.2.2.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Key characteristics}{78}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Constituent structure}{82}{section.2.3}% 
+\contentsline {subsubsection}{\numberline {3.2.1.1}Lexical properties}{81}{subsubsection.3.2.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Headedness}{83}{subsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {3.2.1.2}Grammatical properties}{85}{subsubsection.3.2.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.1}Zwicky: Competing concepts}{84}{subsubsection.2.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.2.1.3}Prosodic properties}{95}{subsubsection.3.2.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.2}Unreliable verb morphology}{86}{subsubsection.2.3.1.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1.4}Cognitive properties}{99}{subsubsection.3.2.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.3}Constructional differences in head marking - the Wooi case}{90}{subsubsection.2.3.1.3}% 
+\contentsline {subsection}{\numberline {3.2.2}Coherence or composition}{103}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.4}Headedness variation in EI}{92}{subsubsection.2.3.1.4}% 
+\contentsline {subsection}{\numberline {3.2.3}Construction and productivity}{104}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.5}Symmetrical-head constructions}{96}{subsubsection.2.3.1.5}% 
+\contentsline {subsection}{\numberline {3.2.4}Symmetrical vs. asymmetrical SVCs}{108}{subsection.3.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.6}Asymmetrical-head constructions}{100}{subsubsection.2.3.1.6}% 
+\contentsline {subsection}{\numberline {3.2.5}Nuclear vs core-layer SVCs}{111}{subsection.3.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.7}Distributed-head constructions}{102}{subsubsection.2.3.1.7}% 
+\contentsline {subsection}{\numberline {3.2.6}Further variables}{113}{subsection.3.2.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Contiguity}{105}{subsection.2.3.2}% 
+\contentsline {section}{\numberline {3.3}Previous work on SVCs in Australasia}{114}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2.1}Contiguous constructions}{110}{subsubsection.2.3.2.1}% 
+\contentsline {subsection}{\numberline {3.3.1}Bril: Co-ranked vs hierarchised}{115}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2.2}Non-contiguous constructions}{112}{subsubsection.2.3.2.2}% 
+\contentsline {subsection}{\numberline {3.3.2}Van Staden/Reesink: Independent, dependent, co-dependent, complex}{118}{subsection.3.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Summary}{113}{section.2.4}% 
+\contentsline {subsection}{\numberline {3.3.3}Pawley: Compact vs narrative}{121}{subsection.3.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline References}{115}{chapter*.140}% 
+\contentsline {section}{\numberline {3.4}Multi-verb constructions}{124}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Index}{129}{section*.141}% 
+\contentsline {subsection}{\numberline {3.4.1}Literature and previous definitions}{126}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Name Index}{129}{section*.141}% 
+\contentsline {subsection}{\numberline {3.4.2}Defining multi-verb constructions}{131}{subsection.3.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Language Index}{133}{section*.142}% 
+\contentsline {section}{\numberline {3.5}Data compilation}{135}{section.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.1}Identifying verbs}{135}{subsection.3.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.1.1}Glossing}{138}{subsubsection.3.5.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.1.2}Prosodic marking}{140}{subsubsection.3.5.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.2}Grammaticalisation effects}{140}{subsection.3.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.3}Stacked MVCs}{143}{subsection.3.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Summary}{144}{section.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Grammatical properties}{147}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Introduction}{147}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Argument structure}{150}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Argument sharing}{160}{subsection.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.1}Co-functional MVCs}{161}{subsubsection.4.2.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.2}Switch-function MVCs}{162}{subsubsection.4.2.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.3}Participant accumulation}{165}{subsubsection.4.2.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}No argument sharing}{166}{subsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2.1}Event-to-argument reanalysis}{166}{subsubsection.4.2.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2.2}Cases without argument interaction}{170}{subsubsection.4.2.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Constituent structure}{170}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Headedness}{171}{subsection.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.1}Zwicky: Competing concepts}{172}{subsubsection.4.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.2}Unreliable verb morphology}{174}{subsubsection.4.3.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.3}Constructional differences in head marking - the Wooi case}{178}{subsubsection.4.3.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.4}Headedness variation in EI}{180}{subsubsection.4.3.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.5}Symmetrical-head constructions}{184}{subsubsection.4.3.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.6}Asymmetrical-head constructions}{188}{subsubsection.4.3.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1.7}Distributed-head constructions}{190}{subsubsection.4.3.1.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Contiguity}{193}{subsection.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.1}Contiguous constructions}{198}{subsubsection.4.3.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.2}Non-contiguous constructions}{200}{subsubsection.4.3.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Summary}{201}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Semantic properties}{203}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{203}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Verbs and events}{204}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}From real world events to linguistic events}{208}{subsection.5.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Event typology}{212}{subsection.5.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Basic conceptual work}{217}{section.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Davidsonian event arguments}{218}{subsection.5.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.1.1}Event arguments in MVC analysis}{221}{subsubsection.5.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Lexical decomposition}{227}{subsection.5.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.1}Spatial decomposition}{231}{subsubsection.5.3.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.2}Aspectual decomposition}{236}{subsubsection.5.3.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.2.3}Semantic templates in MVC analysis}{242}{subsubsection.5.3.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Levels of event formation}{248}{section.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Predicate-level semantics}{249}{subsection.5.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.1.1}Merging}{249}{subsubsection.5.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.1.2}Modification}{253}{subsubsection.5.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Clause-level semantics}{257}{subsection.5.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.1}Staging}{257}{subsubsection.5.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.2}Clause-level modification}{264}{subsubsection.5.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}Discourse-level semantics}{265}{subsection.5.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.3.1}Juxtaposition}{266}{subsubsection.5.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Summary}{267}{section.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Construction types}{271}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Introduction}{271}{section.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}MVC types}{273}{subsection.6.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.2}Criteria for distinction of MVC types}{276}{subsection.6.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.3}Distribution of MVC types}{282}{subsection.6.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Component-relating constructions}{286}{section.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.1}Motion complex}{291}{subsection.6.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.2}Direction complex}{298}{subsection.6.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.3}Transport complex}{300}{subsection.6.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.4}Sequitive complex}{306}{subsection.6.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.5}Speech act complex}{310}{subsection.6.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2.6}Other}{313}{subsection.6.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Modifying constructions}{315}{section.6.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.1}Adverbial}{318}{subsection.6.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.2}Modal}{322}{subsection.6.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.3}Case-marking}{326}{subsection.6.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.4}Tense-aspect}{332}{subsection.6.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.5}Participant-oriented}{336}{subsection.6.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3.6}Other}{339}{subsection.6.3.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}Stage-relating constructions}{340}{section.6.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.1}Orientation}{345}{subsection.6.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.1.1}Motion-to-action}{345}{subsubsection.6.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.1.2}Position-action}{350}{subsubsection.6.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.1.3}Action-to-position}{353}{subsubsection.6.4.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.2}Handling}{355}{subsection.6.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.2.1}Handling-to-action}{356}{subsubsection.6.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.2.2}Handling-to-placement}{359}{subsubsection.6.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4.3}Causation}{363}{subsection.6.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.3.1}Cause-result}{364}{subsubsection.6.4.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.3.2}Resultative}{368}{subsubsection.6.4.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.4.3.3}Causative}{371}{subsubsection.6.4.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}Free juxtaposition constructions}{372}{section.6.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.1}Sequential}{378}{subsection.6.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.2}Simultaneous}{380}{subsection.6.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.3}Associated}{381}{subsection.6.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.4}Purpose}{384}{subsection.6.5.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5.5}Other}{386}{subsection.6.5.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.6}Summary}{388}{section.6.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Discussion}{391}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Introduction}{391}{section.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Distribution and diversity of MVCs}{393}{section.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Hierarchy in MVCs}{400}{section.7.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Linguistic profiles of MVC use}{406}{section.7.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}MVC formation: A view from discourse analysis}{412}{section.7.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.6}Concluding remarks}{420}{section.7.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.7}Avenues for future research}{425}{section.7.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline References}{427}{chapter*.61}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Index}{441}{section*.62}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Name Index}{441}{section*.62}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Language Index}{445}{section*.63}% 

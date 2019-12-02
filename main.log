@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  28 NOV 2019 00:25
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  2 DEC 2019 16:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
+**main
 (./main.tex
 LaTeX2e <2018-12-01>
 (./langsci/langscibook.cls
@@ -2701,20 +2701,6 @@ Package index Info: Writing index file main.adx on input line 1679.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/authorindex/authorindex.sty
 Package: authorindex 2005/03/22 make index of authors cited in a work
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/soul/soul.sty
-Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-Requested font "ectt1000" scaled 1000
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
-\SOUL@word=\toks60
-\SOUL@lasttoken=\toks61
-\SOUL@cmds=\toks62
-\SOUL@buffer=\toks63
-\SOUL@token=\toks64
-\SOUL@spaceskip=\skip118
-\SOUL@ttwidth=\dimen338
-\SOUL@uldp=\dimen339
-\SOUL@ulht=\dimen340
-)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
@@ -2753,7 +2739,7 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen341
+\@linkdim=\dimen338
 \Hy@linkcounter=\count532
 \Hy@pagecounter=\count533
 
@@ -2790,12 +2776,12 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count535
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen342
+\XeTeXLinkMargin=\dimen339
 Requested font "pzdr" at 0.00002pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 \Fld@menulength=\count536
-\Field@Width=\dimen343
-\Fld@charsize=\dimen344
+\Field@Width=\dimen340
+\Fld@charsize=\dimen341
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -2829,7 +2815,7 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip119
+\Hy@SectionHShift=\skip118
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1774.
 
@@ -2839,12 +2825,12 @@ Package: doi 2018/09/09 handle doi numbers
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count544
-\rotFPtop=\skip120
-\rotFPbot=\skip121
+\rotFPtop=\skip119
+\rotFPbot=\skip120
 \rot@float@box=\box74
-\rot@mess@toks=\toks65
+\rot@mess@toks=\toks60
 )
-\LSPTmp=\skip122
+\LSPTmp=\skip121
 )
 (./localmetadata.tex) (./localpackages.tex
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pst-jtree/pst-jtree.sty
@@ -2857,50 +2843,50 @@ Package: pst-jtree 2011/01/04 package wrapper for pst-jtree.tex
 \psrow=\count545
 \pscol=\count546
 \psmatrixcnt=\count547
-\psrowsep=\skip123
-\pscolsep=\skip124
+\psrowsep=\skip122
+\pscolsep=\skip123
 \pst@args=\count548
 \num@pts=\count549
 \pst@argcnt=\count550
 )
-\@xpos=\dimen345
-\@ypos=\dimen346
-\@@xpos=\dimen347
-\@@ypos=\dimen348
-\max@left=\dimen349
-\max@right=\dimen350
-\max@down=\dimen351
-\jt@dima=\dimen352
-\jt@dimb=\dimen353
-\jt@dimc=\dimen354
-\jt@dimd=\dimen355
-\jt@dime=\dimen356
+\@xpos=\dimen342
+\@ypos=\dimen343
+\@@xpos=\dimen344
+\@@ypos=\dimen345
+\max@left=\dimen346
+\max@right=\dimen347
+\max@down=\dimen348
+\jt@dima=\dimen349
+\jt@dimb=\dimen350
+\jt@dimc=\dimen351
+\jt@dimd=\dimen352
+\jt@dime=\dimen353
 \tree@box=\box75
 \@nodebox=\box76
-\jtEverytree=\toks66
-\jteverytree=\toks67
-\jteverylabel=\toks68
+\jtEverytree=\toks61
+\jteverytree=\toks62
+\jteverylabel=\toks63
 \@CurrState=\count551
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \c@tracingmulticols=\count552
 \mult@box=\box77
-\multicol@leftmargin=\dimen357
+\multicol@leftmargin=\dimen354
 \c@unbalance=\count553
 \c@collectmore=\count554
 \doublecol@number=\count555
 \multicoltolerance=\count556
 \multicolpretolerance=\count557
-\full@width=\dimen358
-\page@free=\dimen359
-\premulticols=\dimen360
-\postmulticols=\dimen361
-\multicolsep=\skip125
-\multicolbaselineskip=\skip126
+\full@width=\dimen355
+\page@free=\dimen356
+\premulticols=\dimen357
+\postmulticols=\dimen358
+\multicolsep=\skip124
+\multicolbaselineskip=\skip125
 \partial@page=\box78
 \last@line=\box79
-\maxbalancingoverflow=\dimen362
+\maxbalancingoverflow=\dimen359
 \mult@rightbox=\box80
 \mult@grightbox=\box81
 \mult@gfirstbox=\box82
@@ -2924,9 +2910,9 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box100
 \c@columnbadness=\count558
 \c@finalcolumnbadness=\count559
-\last@try=\dimen363
-\multicolovershoot=\dimen364
-\multicolundershoot=\dimen365
+\last@try=\dimen360
+\multicolovershoot=\dimen361
+\multicolundershoot=\dimen362
 \mult@nat@firstbox=\box101
 \colbreak@box=\box102
 \mc@col@check@num=\count560
@@ -2936,35 +2922,35 @@ Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen366
+\col@sep=\dimen363
 \ar@mcellbox=\box103
-\extrarowheight=\dimen367
-\NC@list=\toks69
-\extratabsurround=\skip127
-\backup@length=\skip128
+\extrarowheight=\dimen364
+\NC@list=\toks64
+\extratabsurround=\skip126
+\backup@length=\skip127
 \ar@cellbox=\box104
 )
-\TX@col@width=\dimen368
-\TX@old@table=\dimen369
-\TX@old@col=\dimen370
-\TX@target=\dimen371
-\TX@delta=\dimen372
+\TX@col@width=\dimen365
+\TX@old@table=\dimen366
+\TX@old@col=\dimen367
+\TX@target=\dimen368
+\TX@delta=\dimen369
 \TX@cols=\count561
-\TX@ftn=\toks70
+\TX@ftn=\toks65
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
-\everycr=\toks71
-\minrowclearance=\skip129
+\everycr=\toks66
+\minrowclearance=\skip128
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip130
-\LTright=\skip131
-\LTpre=\skip132
-\LTpost=\skip133
+\LTleft=\skip129
+\LTright=\skip130
+\LTpre=\skip131
+\LTpost=\skip132
 \LTchunksize=\count562
-\LTcapwidth=\dimen373
+\LTcapwidth=\dimen370
 \LT@head=\box105
 \LT@firsthead=\box106
 \LT@foot=\box107
@@ -2973,16 +2959,16 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
 \LT@rows=\count564
 \c@LT@tables=\count565
 \c@LT@chunks=\count566
-\LT@p@ftn=\toks72
+\LT@p@ftn=\toks67
 )
 Class scrbook Info: longtable captions redefined on input line 14.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
-\multirow@colwidth=\skip134
+\multirow@colwidth=\skip133
 \multirow@cntb=\count567
-\multirow@dima=\skip135
-\bigstrutjot=\dimen374
+\multirow@dima=\skip134
+\bigstrutjot=\dimen371
 )
 (/usr/local/texlive/2019/texmf-dist/tex/xelatex/langsci/langsci-optional.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
@@ -2996,24 +2982,24 @@ Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
 \FV@StepNumber=\count570
 \FV@OutFile=\write9
 )
-\rotheight=\skip136
-\rotwidth=\skip137
+\rotheight=\skip135
+\rotwidth=\skip136
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box110
 \UL@hyphenbox=\box111
-\UL@skip=\skip138
-\UL@hook=\toks73
-\UL@height=\dimen375
+\UL@skip=\skip137
+\UL@hook=\toks68
+\UL@height=\dimen372
 \UL@pe=\count571
-\UL@pixel=\dimen376
+\UL@pixel=\dimen373
 \ULC@box=\box112
 Requested font "lasy6" scaled 1000
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 Package: ulem 2012/05/18
-\ULdepth=\dimen377
+\ULdepth=\dimen374
 )
-\fulllength=\skip139
+\fulllength=\skip138
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryarrows.code.tex
@@ -3022,24 +3008,24 @@ File: tikzlibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\arrowsize=\dimen378
+\arrowsize=\dimen375
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfarrowinset=\dimen379
-\pgfarrowlength=\dimen380
-\pgfarrowwidth=\dimen381
-\pgfarrowlinewidth=\dimen382
+\pgfarrowinset=\dimen376
+\pgfarrowlength=\dimen377
+\pgfarrowwidth=\dimen378
+\pgfarrowlinewidth=\dimen379
 )
 \c@lsConnectTempGroup=\count572
 \c@paperappendixsection=\count573
 ) (./langsci-avm.sty
-\avmdimen=\dimen383
+\avmdimen=\dimen380
 \avmboxone=\box113
 \avmboxthree=\box114
-\LangsciAvmAngleBoxHeight=\skip140
-\LangsciAvmAngleBoxDepth=\skip141
+\LangsciAvmAngleBoxHeight=\skip139
+\LangsciAvmAngleBoxDepth=\skip140
 \LangsciAvmAngleBox=\box115
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries-extra/glossaries-extra
@@ -3051,8 +3037,8 @@ Package: glossaries 2019/01/06 v4.42 (NLCT)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-\@glsmfirst=\toks74
-\@glsmrest=\toks75
+\@glsmfirst=\toks69
+\@glsmrest=\toks70
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
@@ -3118,9 +3104,9 @@ Package: fp-upn 1996/10/21
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks76
+\@dtl@toks=\toks71
 \@dtl@tmpcount=\count586
-\dtl@tmplength=\skip142
+\dtl@tmplength=\skip141
 \dtl@sortresult=\count587
 \@dtl@numgrpsepcount=\count588
 \@dtl@datatype=\count589
@@ -3141,12 +3127,12 @@ lish.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
 )
 \gls@level=\count593
-\@gls@tmpb=\toks77
-\gls@tmplen=\skip143
-\glskeylisttok=\toks78
-\glslabeltok=\toks79
-\glsshorttok=\toks80
-\glslongtok=\toks81
+\@gls@tmpb=\toks72
+\gls@tmplen=\skip142
+\glskeylisttok=\toks73
+\glslabeltok=\toks74
+\glsshorttok=\toks75
+\glslongtok=\toks76
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
 av.sty
@@ -3155,13 +3141,13 @@ Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
 ty
 Package: glossary-list 2019/01/06 v4.42 (NLCT)
-\glslistdottedwidth=\skip144
+\glslistdottedwidth=\skip143
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
 ty
 Package: glossary-long 2019/01/06 v4.42 (NLCT)
-\glsdescwidth=\skip145
-\glspagelistwidth=\skip146
+\glsdescwidth=\skip144
+\glspagelistwidth=\skip145
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-super.
 sty
@@ -3169,31 +3155,31 @@ Package: glossary-super 2019/01/06 v4.42 (NLCT)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count594
-\ST@wd=\dimen384
-\ST@rightskip=\skip147
-\ST@leftskip=\skip148
-\ST@parfillskip=\skip149
-\ST@pageleft=\dimen385
-\ST@headht=\dimen386
-\ST@tailht=\dimen387
-\ST@pagesofar=\dimen388
-\ST@pboxht=\dimen389
-\ST@lineht=\dimen390
-\ST@stretchht=\dimen391
-\ST@prevht=\dimen392
-\ST@toadd=\dimen393
-\ST@dimen=\dimen394
+\ST@wd=\dimen381
+\ST@rightskip=\skip146
+\ST@leftskip=\skip147
+\ST@parfillskip=\skip148
+\ST@pageleft=\dimen382
+\ST@headht=\dimen383
+\ST@tailht=\dimen384
+\ST@pagesofar=\dimen385
+\ST@pboxht=\dimen386
+\ST@lineht=\dimen387
+\ST@stretchht=\dimen388
+\ST@prevht=\dimen389
+\ST@toadd=\dimen390
+\ST@dimen=\dimen391
 \ST@pbox=\box116
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
 ty
 Package: glossary-tree 2019/01/06 v4.42 (NLCT)
-\glstreeindent=\skip150
+\glstreeindent=\skip149
 ))
 \glsxtrresourcecount=\count595
 \@glsxtrnewgls@inner=\count596
-\glsshortpltok=\toks82
-\glslongpltok=\toks83
+\glsshortpltok=\toks77
+\glslongpltok=\toks78
 )) (/usr/local/texlive/2019/texmf-dist/tex/xelatex/langsci/langsci-gb4e.sty
 Package: langsci-gb4e 2000/09/05
 (/usr/local/texlive/2019/texmf-dist/tex/xelatex/langsci/langsci-cgloss.sty
@@ -3214,7 +3200,7 @@ Package: langsci-gb4e 2000/09/05
 \wordseven=\box131
 \wordeight=\box132
 \gline=\box133
-\glossglue=\skip151
+\glossglue=\skip150
 )
 \c@fnx=\count597
 \@xnumdepth=\count598
@@ -3242,70 +3228,73 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotereset=\count608
 (./main.aux (./chapters/acknowledgments.aux) (./chapters/abbreviations.aux)
 (./chapters/glossary.aux) (./chapters/summary.aux) (./chapters/epigraph.aux)
-(./chapters/02_Eastern_Indonesia.aux) (./chapters/04_Grammatical_properties.aux
-) (./langsci/graphics/langsci-advertisement.aux))
+(./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
+(./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
+) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
+) (./chapters/07_Discussion.aux) (./localseealso.aux)
+(./langsci/graphics/langsci-advertisement.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 31.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 31
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 36.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 36
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 31.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 36.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 31
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 36
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 36.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 3
-1.
+6.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 ABD: EveryShipout initializing macros
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 31.
+loading the todonotes package. on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -3341,21 +3330,21 @@ loading the todonotes package. on input line 31.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 31.
+(Font)              `operators' in the math version `normal' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/LinLibertine_R_B.otf(0)/m/n --> TU/LinLibertine_R_B
-.otf(0)/m/n on input line 31.
+.otf(0)/m/n on input line 36.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 31.
+(Font)              `operators' in the math version `bold' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/LinLibertine_R_B.otf(0)/sb/n --> TU/LinLibertine_R_
-B.otf(0)/m/n on input line 31.
+B.otf(0)/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinLibertine_R_B.otf(0)/m/n --> TU/LinLibertine_R_B.
-otf(0)/b/n on input line 31.
-LaTeX Info: Redefining \microtypecontext on input line 31.
+otf(0)/b/n on input line 36.
+LaTeX Info: Redefining \microtypecontext on input line 36.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -3389,8 +3378,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 31.
-Package biblatex Info: Reference segment=0 on input line 31.
+Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference segment=0 on input line 36.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
@@ -3409,7 +3398,7 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@FBLTpage=\count609
 )
 \AtBeginShipoutBox=\box136
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 36.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3419,9 +3408,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count610
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 
 (./main.out) (./main.out)
 \@outlinefile=\write10
@@ -3433,7 +3422,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           You can avoid loading `bookmark' with KOMA-Script option
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message with `\usepackage{bookmark}'
-(scrbook)           before \begin{document} on input line 31.
+(scrbook)           before \begin{document} on input line 36.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
 Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
@@ -3446,7 +3435,7 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 51.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 41.4126pt on input line 32.
+(Font)              scaled to size 41.4126pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 41.4126pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3471,7 +3460,7 @@ Package fontspec Info: Arimo_B scale = 0.8120073121670112.
 Package fontspec Info: Arimo_B scale = 0.9564116011912216.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.89153pt on input line 32.
+(Font)              scaled to size 8.89153pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 8.89153pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3529,12 +3518,12 @@ lic_B.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 48.77669pt on input line 32.
+(Font)              scaled to size 48.77669pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 48.77669pt
  -> ./langsci/fonts/Arimo_B.ttf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 49.7331pt on input line 32.
+(Font)              scaled to size 49.7331pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 49.7331pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3542,7 +3531,7 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 25.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 8.58977pt on input line 32.
+(Font)              scaled to size 8.58977pt on input line 37.
 Requested font "[DejaVuSansMono.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;" at 8.58977pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/public/dejavu/DejaVuSansM
@@ -3555,7 +3544,7 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 17.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 13.8042pt on input line 32.
+(Font)              scaled to size 13.8042pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 13.8042pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3566,7 +3555,7 @@ Package fontspec Info: Arimo_B scale = 0.8120079233408858.
 Package fontspec Info: Arimo_B scale = 0.9564119235264212.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 32.
+(Font)              scaled to size 10.47263pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 10.47263pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3586,7 +3575,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 \openout3 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.12012pt on input line 32.
+(Font)              scaled to size 8.12012pt on input line 37.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 8.12012pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3650,7 +3639,7 @@ Requested font "ntxexx" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -3667,7 +3656,7 @@ Requested font "msam10" at 8.0pt
 Requested font "msam7" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
 tfm
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -3685,7 +3674,7 @@ Requested font "msbm10" at 8.0pt
 Requested font "msbm7" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
 tfm
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 32.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 37.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxmia.fd
@@ -3697,7 +3686,7 @@ Requested font "nxlmia" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 32.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 37.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxsym.fd
@@ -3709,7 +3698,7 @@ Requested font "ntxsym" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 32.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 37.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxsyc.fd
@@ -3755,7 +3744,7 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;mapping=tex-text;" at 20.74pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
-Package tocbasic Info: character protrusion at toc deactivated on input line 35
+Package tocbasic Info: character protrusion at toc deactivated on input line 40
 .
  (./main.toc
 Overfull \hbox (0.76648pt too wide) detected at line 10
@@ -3773,32 +3762,36 @@ DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
 ] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+ [][] [][][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Van Staden/Reesink: Independe
+nt, dependent, co- 
+ []
+
+\openout3 = `main.mw'.
+
+[2] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [3] (./main.mw)
+\openout3 = `main.mw'.
+
 )
 \tf@toc=\write11
 \openout11 = `main.toc'.
 
 \openout3 = `main.mw'.
 
- [2] (./main.mw)
+ [4] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [26
+\openout2 = `chapters/acknowledgments.aux'.
 
 
-
-
-
-
-] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout2 = `chapters/02_Eastern_Indonesia.aux'.
-
-
-(./chapters/02_Eastern_Indonesia.tex
-chapter 1.
+(./chapters/acknowledgments.tex
+chapter without number
 
 Class scrbook Warning: \float@addtolists detected!
 (scrbook)              Implementation of \float@addtolist became
@@ -3814,156 +3807,9 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              a package that still implements the
 (scrbook)              deprecated \float@addtolist interface .
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 14.4pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
-[3
-
-
-
-
-] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
- [4] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [5] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
- [6] (./main.mw)
-\openout3 = `main.mw'.
-
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 5.5pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "nxlmi" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
-Requested font "nxlmi7" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi7.tfm
-Requested font "nxlmi5" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
-Requested font "ntxsy" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
-Requested font "ntxsy7" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm
-Requested font "ntxsy5" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
-Requested font "ntxexx" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "ntxexx" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "ntxexx" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "msam10" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
-.tfm
-Requested font "msam7" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
-tfm
-Requested font "msam5" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.
-tfm
-Requested font "msbm10" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
-.tfm
-Requested font "msbm7" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
-tfm
-Requested font "msbm5" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.
-tfm
-Requested font "nxlmia" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "nxlmia" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "nxlmia" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "ntxsym" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsym" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsym" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsyc" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxsyc" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxsyc" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxexa" at 9.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-Requested font "ntxexa" at 7.3pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-Requested font "ntxexa" at 5.5pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
- [7] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[8] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [9] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [10] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [11] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
- [12]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [13] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [14] (./main.mw)
-\openout3 = `main.mw'.
-
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT" at 8.99997pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT" at 9.0pt
@@ -4042,43 +3888,753 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 5.5pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "nxlmi" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "nxlmi7" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi7.tfm
+Requested font "nxlmi5" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
+Requested font "ntxsy" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxsy7" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm
+Requested font "ntxsy5" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
+Requested font "ntxexx" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "msam10" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
+.tfm
+Requested font "msam7" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
+tfm
+Requested font "msam5" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.
+tfm
+Requested font "msbm10" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
+.tfm
+Requested font "msbm7" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
+tfm
+Requested font "msbm5" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.
+tfm
+Requested font "nxlmia" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "nxlmia" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "nxlmia" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 7.3pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 5.5pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_RI_B.otf
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 147.
-Package marginnote Info: Margin note 47.1 is on absolute page 47 on input line 
-147.
-Package marginnote Info: xpos seems to be 225.3043pt on input line 147.
+\openout3 = `main.mw'.
+
+[5
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [6] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [7] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/abbreviations.aux'.
+
+ (./chapters/abbreviations.tex
+\openout3 = `main.mw'.
+
+
+[8
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+chapter without number
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 6.0pt
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 147--147
-[][]  |
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page ix might be wrong on input line 60.
+
+
+\openout3 = `main.mw'.
+
+[9] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [10] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [11] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/glossary.aux'.
+
+ (./chapters/glossary.tex
+\openout3 = `main.mw'.
+
+
+[12
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 1--1
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Component-relating construction (\TU/
+LinLibertine_R_B.otf(0)/m/sc/10.95 CREL\TU/LinLibertine_R_B.otf(0)/m/n/10.95 ):
+ Multi-verb construction type in
  []
 
-Package marginnote Info: Margin note 47.2 is on absolute page 47 on input line 
-147.
-Package marginnote Info: xpos seems to be 331.56438pt on input line 147.
+\openout3 = `main.mw'.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 147--147
-[][]  |
+[13
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 1--1
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Handling-to-placement: Two-stage mult
+i-verb construction consisting of a
  []
 
-Package marginnote Info: Margin note 47.3 is on absolute page 47 on input line 
-147.
-Package marginnote Info: xpos seems to be 390.9913pt on input line 147.
+\openout3 = `main.mw'.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 147--147
-[][]  |
+[14] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 1--1
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Speech act complex: Single-stage mult
+i-verb construction consisting of a
  []
 
 \openout3 = `main.mw'.
 
 [15] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [16] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/summary.aux'.
+
+ (./chapters/summary.tex
+chapter without number
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 14.4pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+[17
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [18] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [19] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [20] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [21]
+(./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.64993pt too wide) in paragraph at lines 37--38
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Lexical decomposition is another semant
+ic approach that proves useful in MVC|
+ []
+
+\openout3 = `main.mw'.
+
+[22] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [23] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [24] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [25] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [26
+
+
+
+]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/06_Construction_types.aux'.
+
+ (./chapters/06_Construction_types.tex
+\openout3 = `main.mw'.
+
+ [270
+
+
+
+
+
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+chapter 6.
+\openout3 = `main.mw'.
+
+[271] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [272] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [273] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [274] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[275] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [276] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [277] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [278] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
+e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RZI_B.otf
+\openout3 = `main.mw'.
+
+
+[279] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [280] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [281] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [282] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 184--184
+\TU/LinLibertine_R_B.otf(0)/m/n/10 component-relating constructions, SREL = sta
+ge-relating construc-
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 188--188
+\TU/LinLibertine_R_B.otf(0)/m/n/10 modifying constructions, FJUX = free juxtapo
+sition constructions.
+ []
+
+\openout3 = `main.mw'.
+
+[283] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [284] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [285] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [286] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[287] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [288] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [289] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [290] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[291] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [292] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [293] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 5.5pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [294] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[295] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [296] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [297] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [298] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[299] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [300] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [301] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [302] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[303] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [304] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [305] (./main.mw)
+\openout3 = `main.mw'.
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 685.
+
+Overfull \hbox (6.1349pt too wide) in paragraph at lines 685--687
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 find handling-to-action constructions an 
+uninflected action verb.[][][] In contrast, many|
+ []
+
+\openout3 = `main.mw'.
+
+[306] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [307] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [308] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [309] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[310] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [311] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (3.15472pt too wide) in paragraph at lines 834--835
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 ([]Waima’a, []Sougb), recipient arguments
+ ([]Alorese, []Dusner, []Mpur), an adverb ([]Wooi),|
+ []
+
+\openout3 = `main.mw'.
+
+[312] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [313] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [314] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [315] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[316] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [317] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.31787pt too wide) in paragraph at lines 1028--1029
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 The following sections turn to the diff
+erent functional groups introduced above,|
+ []
+
+\openout3 = `main.mw'.
+
+[318] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [319] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [320] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [321] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[322] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [323] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [324] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [325] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[326] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [327] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [328] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [329] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[330] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [331] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [332] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [333] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[334] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [335] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [336] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [337] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[338] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (8.2866pt too wide) in paragraph at lines 1516--1517
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 sorted into functional categories. Adverb
+ial, modal, case-marking, and tense-aspect|
+ []
+
+\openout3 = `main.mw'.
+
+[339] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (7.96545pt too wide) in paragraph at lines 1549--1550
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 condensed, and that there are fixed const
+ructional templates that reappear through-|
+ []
+
+\openout3 = `main.mw'.
+
+[340] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [341] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (25.92126pt too wide) in paragraph at lines 1558--1604
+ [][] |
+ []
+
+
+LaTeX Warning: Float too large for page by 8.04938pt on input line 1606.
+
+\openout3 = `main.mw'.
+
+[342] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [343] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [344] (./main.mw)
 \openout3 = `main.mw'.
 
 Requested font "nxlmi" at 10.0pt
@@ -4101,1507 +4657,292 @@ Requested font "ntxsyc" at 10.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
 Requested font "ntxexa" at 10.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
-\openout3 = `main.mw'.
 
- [16] (./main.mw)
-\openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [17] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Float too large for page by 18.5305pt on input line 1717.
 
 \openout3 = `main.mw'.
 
- [18] (./main.mw)
+[345] (./main.mw)
 \openout3 = `main.mw'.
 
-Package marginnote Info: Margin note 51.1 is on absolute page 51 on input line 
-200.
-Package marginnote Info: xpos seems to be 141.06633pt on input line 200.
+\openout3 = `main.mw'.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 200--200
-[][]  |
+ [346] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [347] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [348] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[349] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [350] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
+e=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZI_B.otf
+\openout3 = `main.mw'.
+
+ [351] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [352] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (6.83784pt too wide) in paragraph at lines 1880--1891
+ [][] |
  []
 
 \openout3 = `main.mw'.
 
-[19] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 52.1 is on absolute page 52 on input line 
-218.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 218--218
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 135.01503pt on input line 218.
-\openout3 = `main.mw'.
-
-[20] (./main.mw)
+[353] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [21] (./main.mw)
+ [354] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [22] (./main.mw)
+ [355] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [23] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [24]
-(./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 57.1 is on absolute page 57 on input line 
-258.
-Package marginnote Info: xpos seems to be 109.85883pt on input line 258.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 258--258
-[][]  |
+Underfull \hbox (badness 1292) in paragraph at lines 1971--1971
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 6.24[][]: []|Template and basic di
+stribution of handling-to-action
  []
 
 \openout3 = `main.mw'.
 
-[25] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 58.1 is on absolute page 58 on input line 
-279.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 279--279
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 127.37193pt on input line 279.
-Package marginnote Info: Margin note 58.2 is on absolute page 58 on input line 
-288.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 288--288
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 121.23993pt on input line 288.
-\openout3 = `main.mw'.
-
-[26] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 59.1 is on absolute page 59 on input line 
-299.
-Package marginnote Info: xpos seems to be 115.97987pt on input line 299.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 299--299
-[][]  |
- []
-
-Package marginnote Info: Margin note 59.2 is on absolute page 59 on input line 
-306.
-Package marginnote Info: xpos seems to be 105.88399pt on input line 306.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 306--306
-[][]  |
- []
-
-Package marginnote Info: Margin note 59.3 is on absolute page 60 on input line 
-315.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 315--315
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 174.79637pt on input line 315.
-\openout3 = `main.mw'.
-
-[27] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `ch:discussion' on page 28 undefined on input line 321
-.
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-
-Overfull \hbox (21.7541pt too wide) in paragraph at lines 376--376
- []|[][][][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Himmelmann |
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[28] (./main.mw)
+[356] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [29] (./main.mw)
+ [357] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [30] (./main.mw)
+ [358] (./main.mw)
 \openout3 = `main.mw'.
 
-Package marginnote Info: Margin note 63.1 is on absolute page 63 on input line 
-399.
-Package marginnote Info: xpos seems to be 118.87068pt on input line 399.
+\openout3 = `main.mw'.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 399--399
-[][]  |
+ [359] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[360] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [361] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [362] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [363] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[364] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [365] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [366] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [367] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[368] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (5.50195pt too wide) in paragraph at lines 2248--2259
+ [][] |
  []
 
 \openout3 = `main.mw'.
 
-[31] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 64.1 is on absolute page 64 on input line 
-422.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 422--422
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 119.71788pt on input line 422.
-\openout3 = `main.mw'.
-
-[32] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 65.1 is on absolute page 65 on input line 
-434.
-Package marginnote Info: xpos seems to be 113.70229pt on input line 434.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 434--434
-[][]  |
- []
-
-Package marginnote Info: Margin note 65.2 is on absolute page 66 on input line 
-443.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 443--443
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 152.44743pt on input line 443.
-\openout3 = `main.mw'.
-
-[33] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 66.1 is on absolute page 66 on input line 
-458.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 458--458
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 123.18903pt on input line 458.
-\openout3 = `main.mw'.
-
-[34] (./main.mw)
+[369] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [35] (./main.mw)
+ [370] (./main.mw)
 \openout3 = `main.mw'.
 
-Package marginnote Info: Margin note 68.1 is on absolute page 68 on input line 
-504.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 504--504
- [][]|
- []
 
-Package marginnote Info: xpos seems to be 137.13933pt on input line 504.
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `table:srel-language' on page 371 undefined on input l
+ine 2309.
 
-[36] (./main.mw)
-\openout3 = `main.mw'.
 
-Package marginnote Info: Margin note 69.1 is on absolute page 69 on input line 
-524.
-Package marginnote Info: xpos seems to be 125.75822pt on input line 524.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 524--524
-[][]  |
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 6.1pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[37] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [38] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 71.1 is on absolute page 71 on input line 
-569.
-Package marginnote Info: xpos seems to be 107.65788pt on input line 569.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 569--569
-[][]  |
+Overfull \hbox (17.48126pt too wide) in paragraph at lines 2312--2323
+ [][] |
  []
 
 \openout3 = `main.mw'.
 
-[39] (./main.mw)
+[371] (./main.mw)
 \openout3 = `main.mw'.
 
-Package marginnote Info: Margin note 72.1 is on absolute page 72 on input line 
-586.
+\openout3 = `main.mw'.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 586--586
- [][]|
+ [372] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [373] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [374] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[375] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [376] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [377] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [378] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[379] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [380] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [381] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [382] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[383] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [384] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [385] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (4.46964pt too wide) in paragraph at lines 2729--2730
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 ment within free juxtaposition constructi
+ons is clearly only preliminary. Although|
  []
 
-Package marginnote Info: xpos seems to be 166.73718pt on input line 586.
-Package marginnote Info: Margin note 72.2 is on absolute page 72 on input line 
-593.
 
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 593--593
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 166.73718pt on input line 593.
-\openout3 = `main.mw'.
-
-[40] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 73.1 is on absolute page 73 on input line 
-609.
-Package marginnote Info: xpos seems to be 111.65463pt on input line 609.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 609--609
-[][]  |
- []
-
-
-Overfull \hbox (0.11523pt too wide) in paragraph at lines 621--622
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 clauses is more straightforward in []Teiw
-a[] than in other TAP languages: There is no|
- []
-
-\openout3 = `main.mw'.
-
-[41] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 74.1 is on absolute page 74 on input line 
-627.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 627--627
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 137.21599pt on input line 627.
-\openout3 = `main.mw'.
-
-[42] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 75.1 is on absolute page 75 on input line 
-637.
-Package marginnote Info: xpos seems to be 141.50432pt on input line 637.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 637--637
-[][]  |
- []
-
-Package marginnote Info: Margin note 75.2 is on absolute page 75 on input line 
-644.
-Package marginnote Info: xpos seems to be 141.90947pt on input line 644.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 644--644
-[][]  |
- []
-
-Package marginnote Info: Margin note 75.3 is on absolute page 75 on input line 
-655.
-Package marginnote Info: xpos seems to be 128.16724pt on input line 655.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 655--655
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[43] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 76.1 is on absolute page 76 on input line 
-664.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 664--664
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 139.75638pt on input line 664.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-\openout3 = `main.mw'.
-
-[44] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 77.1 is on absolute page 77 on input line 
-710.
-Package marginnote Info: xpos seems to be 114.01982pt on input line 710.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 710--710
-[][]  |
+Overfull \hbox (6.72171pt too wide) in paragraph at lines 2747--2748
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 family, namely synonymous MVCs (§[][]6.2.
+6[][]). I argued there that synonymous CRELs|
  []
 
 \openout3 = `main.mw'.
 
-[45] (./main.mw)
+[386] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [46] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 79.1 is on absolute page 79 on input line 
-727.
-Package marginnote Info: xpos seems to be 107.62503pt on input line 727.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 727--727
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[47] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 80.1 is on absolute page 80 on input line 
-737.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 737--737
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 118.65573pt on input line 737.
-Package marginnote Info: Margin note 80.2 is on absolute page 80 on input line 
-749.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 749--749
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 127.67853pt on input line 749.
-Package marginnote Info: Margin note 80.3 is on absolute page 80 on input line 
-758.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 758--758
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 127.62378pt on input line 758.
-\openout3 = `main.mw'.
-
-[48] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Package marginnote Info: Margin note 81.1 is on absolute page 81 on input line 
-771.
-Package marginnote Info: xpos seems to be 115.60759pt on input line 771.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 771--771
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[49] (./main.mw)
+ [387] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [50] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [51] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 84.1 is on absolute page 84 on input line 
-821.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 821--821
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 122.00644pt on input line 821.
-\openout3 = `main.mw'.
-
-[52] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 85.1 is on absolute page 85 on input line 
-838.
-Package marginnote Info: xpos seems to be 133.83932pt on input line 838.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 838--838
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[53] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 86.1 is on absolute page 86 on input line 
-859.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 859--859
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 124.88629pt on input line 859.
-\openout3 = `main.mw'.
-
-[54] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 87.1 is on absolute page 87 on input line 
-876.
-Package marginnote Info: xpos seems to be 116.30836pt on input line 876.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 876--876
-[][]  |
- []
-
-Package marginnote Info: Margin note 87.2 is on absolute page 88 on input line 
-889.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 889--889
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 121.23993pt on input line 889.
-\openout3 = `main.mw'.
-
-[55] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (1.28317pt too wide) in paragraph at lines 896--897
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 markers developed from verbs. Serialisati
-on seems quite pervasive although there|
- []
-
-\openout3 = `main.mw'.
-
-[56] (./main.mw)
+ [388] (./main.mw)
 \openout3 = `main.mw'.
 
 )
 \openout3 = `main.mw'.
 
- [57] (./main.mw)
+ [389] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout2 = `chapters/04_Grammatical_properties.aux'.
 
- (./chapters/04_Grammatical_properties.tex
-\openout3 = `main.mw'.
-
-
-[58
-
-
-
-
-] (./main.mw)
-\openout3 = `main.mw'.
-
-
-chapter 2.
-
-LaTeX Warning: Reference `ch:sem' on page 59 undefined on input line 4.
-
-
-LaTeX Warning: Reference `ch:constructions' on page 59 undefined on input line 
-4.
-
-
-LaTeX Warning: Reference `sec:position-action' on page 59 undefined on input li
-ne 9.
-
-
-LaTeX Warning: Reference `ch:constructions' on page 59 undefined on input line 
-9.
-
-\openout3 = `main.mw'.
-
-[59] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
- [60] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `ch:theory' on page 61 undefined on input line 43.
-
-\openout3 = `main.mw'.
-
-[61] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `ch:sem' on page 62 undefined on input line 47.
-
-\openout3 = `main.mw'.
-
-[62] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [63] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 96.1 is on absolute page 96 on input line 
-86.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 86--86
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 116.24673pt on input line 86.
-Package marginnote Info: Margin note 96.2 is on absolute page 96 on input line 
-97.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 97--97
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 121.23993pt on input line 97.
-\openout3 = `main.mw'.
-
-[64] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 97.1 is on absolute page 97 on input line 
-107.
-Package marginnote Info: xpos seems to be 109.85883pt on input line 107.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 107--107
-[][]  |
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-
-LaTeX Warning: Reference `ch:introduction' on page 65 undefined on input line 1
-14.
-
-
-LaTeX Warning: Reference `ch:discussion' on page 65 undefined on input line 114
-.
-
-Package marginnote Info: Margin note 97.2 is on absolute page 97 on input line 
-117.
-Package marginnote Info: xpos seems to be 109.85883pt on input line 117.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 117--117
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[65] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 98.1 is on absolute page 98 on input line 
-130.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 130--130
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 135.78152pt on input line 130.
-\openout3 = `main.mw'.
-
-[66] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 1502) in paragraph at lines 151--151
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 different subject (object-
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[67] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [68] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [69] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 242--242
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 2.5[][]: []|Argument structure int
-eraction per language. S = Co-
- []
-
-
-LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
-
-\openout3 = `main.mw'.
-
-[70] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [71] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [72] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 105.1 is on absolute page 105 on input lin
-e 262.
-Package marginnote Info: xpos seems to be 141.06633pt on input line 262.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 262--262
-[][]  |
- []
-
-Package marginnote Info: Margin note 105.2 is on absolute page 105 on input lin
-e 269.
-Package marginnote Info: xpos seems to be 107.18703pt on input line 269.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 269--269
-[][]  |
- []
-
-Package marginnote Info: Margin note 105.3 is on absolute page 105 on input lin
-e 276.
-Package marginnote Info: xpos seems to be 115.99083pt on input line 276.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 276--276
-[][]  |
- []
-
-Package marginnote Info: Margin note 105.4 is on absolute page 105 on input lin
-e 283.
-Package marginnote Info: xpos seems to be 115.97987pt on input line 283.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 283--283
-[][]  |
- []
-
-
-LaTeX Warning: Reference `sec:handling-to-action' on page 73 undefined on input
- line 289.
-
-\openout3 = `main.mw'.
-
-[73] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 106.1 is on absolute page 106 on input lin
-e 292.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 292--292
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 118.65573pt on input line 292.
-Package marginnote Info: Margin note 106.2 is on absolute page 106 on input lin
-e 300.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 300--300
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 122.00644pt on input line 300.
-\openout3 = `main.mw'.
-
-[74] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 107.1 is on absolute page 107 on input lin
-e 313.
-Package marginnote Info: xpos seems to be 124.40042pt on input line 313.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 313--313
-[][]  |
- []
-
-Package marginnote Info: Margin note 107.2 is on absolute page 107 on input lin
-e 323.
-Package marginnote Info: xpos seems to be 105.88399pt on input line 323.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 323--323
-[][]  |
- []
-
-Package marginnote Info: Margin note 107.3 is on absolute page 107 on input lin
-e 333.
-Package marginnote Info: xpos seems to be 114.56732pt on input line 333.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 333--333
-[][]  |
- []
-
-
-LaTeX Warning: Reference `sec:direction' on page 75 undefined on input line 339
-.
-
-\openout3 = `main.mw'.
-
-[75] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 108.1 is on absolute page 108 on input lin
-e 342.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 342--342
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 135.01503pt on input line 342.
-
-LaTeX Warning: Reference `sec:causation' on page 76 undefined on input line 348
-.
-
-Package marginnote Info: Margin note 108.2 is on absolute page 108 on input lin
-e 351.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 351--351
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 119.03899pt on input line 351.
-\openout3 = `main.mw'.
-
-[76] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 109.1 is on absolute page 109 on input lin
-e 360.
-Package marginnote Info: xpos seems to be 111.80792pt on input line 360.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 360--360
-[][]  |
- []
-
-Package marginnote Info: Margin note 109.2 is on absolute page 109 on input lin
-e 371.
-Package marginnote Info: xpos seems to be 141.06633pt on input line 371.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 371--371
-[][]  |
- []
-
-Package marginnote Info: Margin note 109.3 is on absolute page 109 on input lin
-e 378.
-Package marginnote Info: xpos seems to be 113.87747pt on input line 378.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 378--378
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[77] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 110.1 is on absolute page 110 on input lin
-e 393.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 393--393
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 135.45303pt on input line 393.
-\openout3 = `main.mw'.
-
-[78] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 111.1 is on absolute page 111 on input lin
-e 408.
-Package marginnote Info: xpos seems to be 123.63393pt on input line 408.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 408--408
-[][]  |
- []
-
-Package marginnote Info: Margin note 111.2 is on absolute page 111 on input lin
-e 424.
-Package marginnote Info: xpos seems to be 112.21307pt on input line 424.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 424--424
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[79] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 112.1 is on absolute page 112 on input lin
-e 441.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 441--441
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 119.30179pt on input line 441.
-Package marginnote Info: Margin note 112.2 is on absolute page 112 on input lin
-e 448.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 448--448
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 119.12657pt on input line 448.
-Package marginnote Info: Margin note 112.3 is on absolute page 112 on input lin
-e 456.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 456--456
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 136.92033pt on input line 456.
-\openout3 = `main.mw'.
-
-[80] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 113.1 is on absolute page 113 on input lin
-e 467.
-Package marginnote Info: xpos seems to be 108.38058pt on input line 467.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 467--467
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[81] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 114.1 is on absolute page 114 on input lin
-e 486.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 486--486
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 127.37193pt on input line 486.
-Package marginnote Info: Margin note 114.2 is on absolute page 114 on input lin
-e 495.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 495--495
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 123.49562pt on input line 495.
-\openout3 = `main.mw'.
-
-[82] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [83] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [84] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [85] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [86]
-(./main.mw)
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 2277) in paragraph at lines 570--570
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Properties of the NP deter-
- []
-
-
-Underfull \hbox (badness 2689) in paragraph at lines 570--570
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Phonological factors delimit
- []
-
-\openout3 = `main.mw'.
-
-[87] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 120.1 is on absolute page 120 on input lin
-e 578.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 578--578
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 119.96973pt on input line 578.
-Package marginnote Info: Margin note 120.2 is on absolute page 120 on input lin
-e 586.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 586--586
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 120.01353pt on input line 586.
-Package marginnote Info: Margin note 120.3 is on absolute page 121 on input lin
-e 596.
-Package marginnote Info: xpos seems to be 155.35608pt on input line 596.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 596--596
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[88] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec:motioncomplex' on page 89 undefined on input line
- 602.
-
-Package marginnote Info: Margin note 121.1 is on absolute page 121 on input lin
-e 605.
-Package marginnote Info: xpos seems to be 155.61888pt on input line 605.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 605--605
-[][]  |
- []
-
-Package marginnote Info: Margin note 121.2 is on absolute page 121 on input lin
-e 612.
-Package marginnote Info: xpos seems to be 155.47653pt on input line 612.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 612--612
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[89] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 122.1 is on absolute page 122 on input lin
-e 628.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 628--628
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 121.56842pt on input line 628.
-\openout3 = `main.mw'.
-
-[90] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 123.1 is on absolute page 123 on input lin
-e 647.
-Package marginnote Info: xpos seems to be 109.85883pt on input line 647.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 647--647
-[][]  |
- []
-
-
-LaTeX Warning: Reference `sec:criteria_mvcs' on page 91 undefined on input line
- 654.
-
-\openout3 = `main.mw'.
-
-[91] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [92] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec:identifyingverbs' on page 93 undefined on input l
-ine 708.
-
-
-LaTeX Warning: Reference `sec:cause-result' on page 93 undefined on input line 
-708.
-
-
-LaTeX Warning: Reference `sec:motioncomplex' on page 93 undefined on input line
- 708.
-
-\openout3 = `main.mw'.
-
-[93] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec:identifyingverbs' on page 94 undefined on input l
-ine 719.
-
-\openout3 = `main.mw'.
-
-[94] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 127.1 is on absolute page 127 on input lin
-e 722.
-Package marginnote Info: xpos seems to be 110.06688pt on input line 722.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 722--722
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[95] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Float too large for page by 22.73038pt on input line 773.
-
-Package marginnote Info: Margin note 128.1 is on absolute page 130 on input lin
-e 784.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 784--784
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 125.08339pt on input line 784.
-\openout3 = `main.mw'.
-
-[96] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [97] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 130.1 is on absolute page 130 on input lin
-e 791.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 791--791
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 125.24763pt on input line 791.
-
-LaTeX Warning: Reference `sec:stackedmvcs' on page 98 undefined on input line 7
-97.
-
-! Argument of \@textcolor has an extra }.
-<inserted text> 
-                \par 
-l.805 ... verbs name the respective construction.}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-! Paragraph ended before \@textcolor was complete.
-<to be read again> 
-                   \par 
-l.805 ... verbs name the respective construction.}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-\openout3 = `main.mw'.
-
-[98] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 131.1 is on absolute page 131 on input lin
-e 814.
-Package marginnote Info: xpos seems to be 118.98018pt on input line 814.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 814--814
-[][]  |
- []
-
-Package marginnote Info: Margin note 131.2 is on absolute page 131 on input lin
-e 822.
-Package marginnote Info: xpos seems to be 112.31161pt on input line 822.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 822--822
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[99] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 132.1 is on absolute page 132 on input lin
-e 831.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 831--831
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 125.25858pt on input line 831.
-Package marginnote Info: Margin note 132.2 is on absolute page 132 on input lin
-e 840.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 840--840
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 138.59567pt on input line 840.
-Package marginnote Info: Margin note 132.3 is on absolute page 132 on input lin
-e 847.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 847--847
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 138.45332pt on input line 847.
-\openout3 = `main.mw'.
-
-[100] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 133.1 is on absolute page 133 on input lin
-e 863.
-Package marginnote Info: xpos seems to be 134.11307pt on input line 863.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 863--863
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[101] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 134.1 is on absolute page 134 on input lin
-e 870.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 870--870
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 145.16568pt on input line 870.
-Package marginnote Info: Margin note 134.2 is on absolute page 134 on input lin
-e 877.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 877--877
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 145.37372pt on input line 877.
-\openout3 = `main.mw'.
-
-[102] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 135.1 is on absolute page 135 on input lin
-e 892.
-Package marginnote Info: xpos seems to be 141.09918pt on input line 892.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 892--892
-[][]  |
- []
-
-Package marginnote Info: Margin note 135.2 is on absolute page 135 on input lin
-e 905.
-Package marginnote Info: xpos seems to be 141.43863pt on input line 905.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 905--905
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[103] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (0.98212pt too wide) in paragraph at lines 914--915
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 verbs are placed in clause-initial positi
-on framed by one or more person indexer(s)|
- []
-
-Package marginnote Info: Margin note 136.1 is on absolute page 136 on input lin
-e 917.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 917--917
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 137.45688pt on input line 917.
-\openout3 = `main.mw'.
-
-[104] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 137.1 is on absolute page 137 on input lin
-e 924.
-Package marginnote Info: xpos seems to be 125.93343pt on input line 924.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 924--924
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[105] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Float too large for page by 13.13034pt on input line 1008.
-
-\openout3 = `main.mw'.
-
-[106] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [107] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [108] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 141.1 is on absolute page 141 on input lin
-e 1016.
-Package marginnote Info: xpos seems to be 133.57652pt on input line 1016.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1016--1016
-[][]  |
- []
-
-Package marginnote Info: Margin note 141.2 is on absolute page 141 on input lin
-e 1025.
-Package marginnote Info: xpos seems to be 119.01303pt on input line 1025.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1025--1025
-[][]  |
- []
-
-
-LaTeX Warning: Reference `ch:discussion' on page 109 undefined on input line 10
-32.
-
-Package marginnote Info: Margin note 141.3 is on absolute page 142 on input lin
-e 1035.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1035--1035
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 136.77798pt on input line 1035.
-\openout3 = `main.mw'.
-
-[109] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 142.1 is on absolute page 142 on input lin
-e 1042.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1042--1042
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 136.98604pt on input line 1042.
-Package marginnote Info: Margin note 142.2 is on absolute page 142 on input lin
-e 1056.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1056--1056
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 124.76584pt on input line 1056.
-Package marginnote Info: Margin note 142.3 is on absolute page 143 on input lin
-e 1063.
-Package marginnote Info: xpos seems to be 113.47234pt on input line 1063.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1063--1063
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[110] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 143.1 is on absolute page 143 on input lin
-e 1072.
-Package marginnote Info: xpos seems to be 113.38474pt on input line 1072.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1072--1072
-[][]  |
- []
-
-Package marginnote Info: Suggest that margin note 143.2 will be on
-(marginnote)             absolute page 143.
-(marginnote)             This may be wrong on input line 1083.
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 1083.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1083--1083
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[111] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 144.1 is on absolute page 144 on input lin
-e 1091.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1091--1091
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 121.28372pt on input line 1091.
-Package marginnote Info: Margin note 144.2 is on absolute page 144 on input lin
-e 1105.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1105--1105
- [][]|
- []
-
-Package marginnote Info: xpos seems to be 121.23993pt on input line 1105.
-\openout3 = `main.mw'.
-
-[112] (./main.mw)
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 145.1 is on absolute page 145 on input lin
-e 1116.
-Package marginnote Info: xpos seems to be 119.93283pt on input line 1116.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1116--1116
-[][]  |
- []
-
-Package marginnote Info: Margin note 145.2 is on absolute page 145 on input lin
-e 1123.
-Package marginnote Info: xpos seems to be 116.22076pt on input line 1123.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1123--1123
-[][]  |
- []
-
-Package marginnote Info: Margin note 145.3 is on absolute page 145 on input lin
-e 1130.
-Package marginnote Info: xpos seems to be 125.49542pt on input line 1130.
-
-Overfull \hbox (0.69522pt too wide) in paragraph at lines 1130--1130
-[][]  |
- []
-
-\openout3 = `main.mw'.
-
-[113] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec:causation' on page 114 undefined on input line 11
-40.
-
-)
-\openout3 = `main.mw'.
-
- [114] (./main.mw)
-\openout3 = `main.mw'.
-
- (./backmatter.tex
+(./backmatter.tex
 chapter without number
 \openout3 = `main.mw'.
 
-[115
+[427
+
+
 
 
 
@@ -5618,28 +4959,28 @@ inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
 
 \openout3 = `main.mw'.
 
-[116] (./main.mw)
+[428] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [117] (./main.mw)
+ [429] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [118] (./main.mw)
+ [430] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [119] (./main.mw)
+ [431] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-[120] (./main.mw)
+[432] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5650,7 +4991,7 @@ construction, and class formation.
 
 \openout3 = `main.mw'.
 
-[121] (./main.mw)
+[433] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5661,22 +5002,22 @@ etter, Apriani Arilaha, F. Morigerowski,
 
 \openout3 = `main.mw'.
 
-[122] (./main.mw)
+[434] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [123] (./main.mw)
+ [435] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [124] (./main.mw)
+ [436] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [125] (./main.mw)
+ [437] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5687,23 +5028,23 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
-[126] (./main.mw)
+[438] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [127] (./main.mw)
+ [439] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [128] (./main.mw)
+ [440] (./main.mw)
 \openout3 = `main.mw'.
 
  (./main.and
 \openout3 = `main.mw'.
 
- [129
+ [441
 
 
 
@@ -5713,23 +5054,23 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
- [130] (./main.mw)
+ [442] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 226--228
+Underfull \hbox (badness 1112) in paragraph at lines 227--229
 []\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Maienborn, Claudia, [][]207[][], [][]21
 7[][]–[][]220[][],
  []
 
 \openout3 = `main.mw'.
 
-[131] (./main.mw)
+[443] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [132
+ [444
 
 ] (./main.mw)
 \openout3 = `main.mw'.
@@ -5737,7 +5078,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 226--228
 ) (./main.lnd
 \openout3 = `main.mw'.
 
- [133
+ [445
 
 
 
@@ -5746,36 +5087,54 @@ Underfull \hbox (badness 1112) in paragraph at lines 226--228
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 173--183
+Underfull \hbox (badness 2318) in paragraph at lines 171--181
 [][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 330[][]$[]$, [][]330[][], [][]399[][]
 , [][]400[][], [][]406[][],
  []
 
-\openout3 = `main.mw'.
 
-[134] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [135] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 473--497
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 200[][]$[]$, [][]200[][], [][]208[][]
-–[][]212[][], [][]224[][]–
+Underfull \hbox (badness 1852) in paragraph at lines 241--248
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 367[][]$[]$, [][]367[][], [][]368[][]
+, [][]399[][], [][]408[][],
  []
 
 \openout3 = `main.mw'.
 
-[136] (./main.mw)
+[446] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [447] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 471--496
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Wooi, [][]v[][], [][]vi[][], [][]3[][],
+ [][]4[][]$[]$, [][]16[][], [][]17[][], [][]19[][], [][]20[][],
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 471--496
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 27[][], [][]39[][], [][]42[][]–[][]45
+[][], [][]68[][], [][]73[][], [][]74[][],
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 471--496
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 224[][]–[][]227[][], [][]251[][]$[]$,
+ [][]251[][], [][]252[][],
+ []
+
+\openout3 = `main.mw'.
+
+[448] (./main.mw)
 \openout3 = `main.mw'.
 
 ))
 \openout3 = `main.mw'.
 
- [137
+ [449
 
 
 
@@ -5791,7 +5150,7 @@ Underfull \hbox (badness 1005) in paragraph at lines 473--497
 \openout3 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 20.3003pt on input line 59.
+(Font)              scaled to size 20.3003pt on input line 65.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 20.3003pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -5806,7 +5165,7 @@ Package fontspec Info: Arimo_B scale = 0.8120078558225505.
 Package fontspec Info: Arimo_B scale = 0.9564114620298085.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 23.91014pt on input line 59.
+(Font)              scaled to size 23.91014pt on input line 65.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 23.91014pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -5815,39 +5174,35 @@ ing=tex-text;" at 23.91014pt
  [452] (./main.mw)
 \openout3 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 
 (./main.aux (./chapters/acknowledgments.aux) (./chapters/abbreviations.aux)
 (./chapters/glossary.aux) (./chapters/summary.aux) (./chapters/epigraph.aux)
-(./chapters/02_Eastern_Indonesia.aux) (./chapters/04_Grammatical_properties.aux
-) (./langsci/graphics/langsci-advertisement.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 59.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+(./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
+(./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
+) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
+) (./chapters/07_Discussion.aux) (./localseealso.aux)
+(./langsci/graphics/langsci-advertisement.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 72871 strings out of 492916
- 1449155 string characters out of 6133345
- 2100193 words of memory out of 5000000
- 75466 multiletter control sequences out of 15000+600000
- 557404 words of font info for 191 fonts, out of 8000000 for 9000
+ 72457 strings out of 492916
+ 1438469 string characters out of 6133345
+ 2109308 words of memory out of 5000000
+ 74968 multiletter control sequences out of 15000+600000
+ 557287 words of font info for 186 fonts, out of 8000000 for 9000
  1356 hyphenation exceptions out of 8191
- 71i,15n,118p,9084b,5283s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,118p,9080b,5764s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (146 pages).
+Output written on main.pdf (177 pages).
