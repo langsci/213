@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  2 DEC 2019 16:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  4 DEC 2019 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4151,17 +4151,1690 @@ ic approach that proves useful in MVC|
 (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `chapters/epigraph.aux'.
+
+ (./chapters/epigraph.tex
+\openout3 = `main.mw'.
+
+ [1
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [2
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout2 = `chapters/01_Introduction.aux'.
+
+
+(./chapters/01_Introduction.tex
+chapter 1.
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "nxlmi" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "ntxsy" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxexx" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "msam10" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
+.tfm
+Requested font "msbm10" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
+.tfm
+Requested font "nxlmia" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+\openout3 = `main.mw'.
+
+[3
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [4] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [5] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [6] (./main.mw)
+\openout3 = `main.mw'.
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 50.
+
+Overfull \hbox (12.81715pt too wide) in paragraph at lines 50--50
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 inconsistent |
+ []
+
+
+Overfull \hbox (12.81715pt too wide) in paragraph at lines 50--50
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 inconsistent |
+ []
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+[7] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [8] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [9] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [10] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
+e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RZI_B.otf
+\openout3 = `main.mw'.
+
+ [11]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [12] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [13] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [14] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [15] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[16] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [17] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [18] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 6.2pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "nxlmi5" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi5.tfm
+Requested font "ntxsy5" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy5.tfm
+Requested font "ntxexx" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "msam7" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
+tfm
+Requested font "msbm7" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
+tfm
+Requested font "nxlmia" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 6.2pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+
+Overfull \hbox (6.24527pt too wide) in paragraph at lines 227--286
+ [][] |
+ []
+
+)
+\openout3 = `main.mw'.
+
+ [19] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [20] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/02_Eastern_Indonesia.aux'.
+
+ (./chapters/02_Eastern_Indonesia.tex
+chapter 2.
+\openout3 = `main.mw'.
+
+[21
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [22] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [23] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [24] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [25]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [26] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [27] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [28] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [29] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+\openout3 = `main.mw'.
+
+[30] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [31] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [32] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [33] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [34]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [35] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [36] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [37] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [38] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[39] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [40] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [41] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [42] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [43]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [44] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [45] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+
+Overfull \hbox (21.7541pt too wide) in paragraph at lines 388--388
+ []|[][][][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Himmelmann |
+ []
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+\openout3 = `main.mw'.
+
+[46] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [47] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [48] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [49] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [50]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [51] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [52] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [53] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [54] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 6.1pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+\openout3 = `main.mw'.
+
+[55] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [56] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [57] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [58] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.11523pt too wide) in paragraph at lines 633--634
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 clauses is more straightforward in []Teiw
+a than in other TAP languages: There is no|
+ []
+
+\openout3 = `main.mw'.
+
+[59] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [60] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [61] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[62] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [63] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [64] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [65] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [66]
+(./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [67] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [68] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [69] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [70] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[71] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [72] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [73] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.28317pt too wide) in paragraph at lines 908--909
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 markers developed from verbs. Serialisati
+on seems quite pervasive although there|
+ []
+
+\openout3 = `main.mw'.
+
+[74] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [75] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/03_Setting_the_scene.aux'.
+
+ (./chapters/03_Setting_the_scene.tex
+\openout3 = `main.mw'.
+
+
+[76
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+chapter 3.
+\openout3 = `main.mw'.
+
+[77] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [78] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Float too large for page by 4.35023pt on input line 64.
+
+\openout3 = `main.mw'.
+
+[79] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [80] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [81] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [82] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [83]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [84] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [85] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [86] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [87] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[88] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [89] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [90] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [91] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [92]
+(./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.26302pt too wide) in paragraph at lines 247--248
+[]\TU/LinLibertine_R_B.otf(0)/m/sc/10.95 shared operator value\TU/LinLibertine_
+R_B.otf(0)/m/n/10.95 . If grammatical operators such as tense, aspect, mood,|
+ []
+
+\openout3 = `main.mw'.
+
+[93] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [94] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [95] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [96] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [97]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [98] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [99] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [100] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [101]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [102] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [103] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [104] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [105]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [106] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [107] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [108] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [109]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [110] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [111] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--512
+
+ []
+
+\openout3 = `main.mw'.
+
+[112] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [113] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [114] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [115] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[116] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [117] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [118] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [119] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[120] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [121] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [122] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [123] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[124] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [125] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [126] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [127] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[128] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [129] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [130] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.11346pt too wide) in paragraph at lines 836--837
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 more than one verboid element predicati
+ng lexical content and selecting/as-|
+ []
+
+\openout3 = `main.mw'.
+
+[131] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [132] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [133] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [134] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[135] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [136] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [137] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [138] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[139] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [140] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [141] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [142] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[143] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [144] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [145] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [146] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/04_Grammatical_properties.aux'.
+
+
+(./chapters/04_Grammatical_properties.tex
+chapter 4.
+\openout3 = `main.mw'.
+
+[147
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [148] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [149] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [150] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[151] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [152] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [153] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [154] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 151--151
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 different subject (object-
+ []
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+\openout3 = `main.mw'.
+
+[155] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [156] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [157] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 242--242
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 4.5[][]: []|Argument structure int
+eraction per language. S = Co-
+ []
+
+
+LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
+
+\openout3 = `main.mw'.
+
+[158] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [159] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [160] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [161] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[162] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [163] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [164] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [165] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[166] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [167] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [168] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [169] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[170] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [171] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [172] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [173] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[174] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 570--570
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Properties of the NP deter-
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 570--570
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Phonological factors delimit
+ []
+
+\openout3 = `main.mw'.
+
+[175] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [176] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [177] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [178] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[179] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [180] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [181] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [182] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[183] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Float too large for page by 22.73038pt on input line 774.
+
+\openout3 = `main.mw'.
+
+[184] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [185] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [186] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [187] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[188] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [189] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [190] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [191] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.98212pt too wide) in paragraph at lines 915--916
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 verbs are placed in clause-initial positi
+on framed by one or more person indexer(s)|
+ []
+
+\openout3 = `main.mw'.
+
+[192] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Float too large for page by 13.13034pt on input line 1009.
+
+\openout3 = `main.mw'.
+
+[193] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [194] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [195] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [196] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[197] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [198] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [199] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [200] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[201] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [202] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/05_Semantic_properties.aux'.
+
+ (./chapters/05_Semantic_properties.tex
+chapter 5.
+\openout3 = `main.mw'.
+
+[203
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [204] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [205] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [206] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[207] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [208] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [209] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [210] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[211] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [212] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [213] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [214] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[215] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [216] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [217] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [218] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[219] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [220] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [221] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [222] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[223] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [224] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [225] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [226] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[227] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [228] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [229] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [230] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[231] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [232] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [233] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [234] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[235] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [236] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [237] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [238] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[239] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [240] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [241] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [242] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.305pt too wide) in paragraph at lines 705--706
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 they either take states or activities as 
+their base. The derivation process of achieve-|
+ []
+
+\openout3 = `main.mw'.
+
+[243] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [244] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [245] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [246] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[247] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [248] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [249] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [250] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[251] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [252] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [253] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [254] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[255] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [256] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [257] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (3.73653pt too wide) in paragraph at lines 1049--1064
+ [][] |
+ []
+
+\openout3 = `main.mw'.
+
+[258] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [259] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [260] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
+ [][] |
+ []
+
+\openout3 = `main.mw'.
+
+[261] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [262] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [263] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [264] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[265] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [266] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [267] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [268] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+
+[269] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout2 = `chapters/06_Construction_types.aux'.
 
  (./chapters/06_Construction_types.tex
 \openout3 = `main.mw'.
 
  [270
-
-
-
-
-
 
 
 
@@ -4181,9 +5854,6 @@ chapter 6.
  [272] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [273] (./main.mw)
@@ -4200,9 +5870,6 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 [275] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [276] (./main.mw)
@@ -4218,9 +5885,6 @@ DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
  [278] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
-e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_RZI_B.otf
 \openout3 = `main.mw'.
 
 
@@ -4243,13 +5907,13 @@ e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 184--184
+Underfull \hbox (badness 1062) in paragraph at lines 191--191
 \TU/LinLibertine_R_B.otf(0)/m/n/10 component-relating constructions, SREL = sta
 ge-relating construc-
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 188--188
+Underfull \hbox (badness 1259) in paragraph at lines 195--195
 \TU/LinLibertine_R_B.otf(0)/m/n/10 modifying constructions, FJUX = free juxtapo
 sition constructions.
  []
@@ -4269,12 +5933,6 @@ sition constructions.
  [285] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [286] (./main.mw)
@@ -4317,9 +5975,6 @@ DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
  [293] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 7.3pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -4387,27 +6042,22 @@ DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
  [304] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [305] (./main.mw)
-\openout3 = `main.mw'.
-
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 685.
-
-Overfull \hbox (6.1349pt too wide) in paragraph at lines 685--687
+Overfull \hbox (6.1349pt too wide) in paragraph at lines 696--698
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 find handling-to-action constructions an 
 uninflected action verb.[][][] In contrast, many|
  []
 
 \openout3 = `main.mw'.
 
-[306] (./main.mw)
+[305] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [306] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
  [307] (./main.mw)
@@ -4420,29 +6070,29 @@ DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
 
 \openout3 = `main.mw'.
 
- [309] (./main.mw)
+
+[309] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[310] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [311] (./main.mw)
+ [310] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (3.15472pt too wide) in paragraph at lines 834--835
+Overfull \hbox (3.15472pt too wide) in paragraph at lines 845--846
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 ([]Waima’a, []Sougb), recipient arguments
  ([]Alorese, []Dusner, []Mpur), an adverb ([]Wooi),|
  []
 
 \openout3 = `main.mw'.
 
-[312] (./main.mw)
+[311] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [312] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4457,13 +6107,13 @@ Overfull \hbox (3.15472pt too wide) in paragraph at lines 834--835
 
 \openout3 = `main.mw'.
 
- [315] (./main.mw)
+
+[315] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[316] (./main.mw)
+ [316] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4472,7 +6122,7 @@ Overfull \hbox (3.15472pt too wide) in paragraph at lines 834--835
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (1.31787pt too wide) in paragraph at lines 1028--1029
+Overfull \hbox (1.31787pt too wide) in paragraph at lines 1039--1040
 []\TU/LinLibertine_R_B.otf(0)/m/n/10.95 The following sections turn to the diff
 erent functional groups introduced above,|
  []
@@ -4588,7 +6238,7 @@ erent functional groups introduced above,|
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (8.2866pt too wide) in paragraph at lines 1516--1517
+Overfull \hbox (8.2866pt too wide) in paragraph at lines 1529--1530
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 sorted into functional categories. Adverb
 ial, modal, case-marking, and tense-aspect|
  []
@@ -4599,7 +6249,7 @@ ial, modal, case-marking, and tense-aspect|
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (7.96545pt too wide) in paragraph at lines 1549--1550
+Overfull \hbox (7.96545pt too wide) in paragraph at lines 1562--1563
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 condensed, and that there are fixed const
 ructional templates that reappear through-|
  []
@@ -4609,22 +6259,22 @@ ructional templates that reappear through-|
 [340] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [341] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (25.92126pt too wide) in paragraph at lines 1558--1604
+Overfull \hbox (25.92126pt too wide) in paragraph at lines 1572--1618
  [][] |
  []
 
 
-LaTeX Warning: Float too large for page by 8.04938pt on input line 1606.
+LaTeX Warning: Float too large for page by 8.04938pt on input line 1620.
 
 \openout3 = `main.mw'.
 
-[342] (./main.mw)
+[341] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [342] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4632,38 +6282,18 @@ LaTeX Warning: Float too large for page by 8.04938pt on input line 1606.
  [343] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [344] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "nxlmi" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
-Requested font "ntxsy" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
-Requested font "ntxexx" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-Requested font "msam10" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
-.tfm
-Requested font "msbm10" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
-.tfm
-Requested font "nxlmia" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-Requested font "ntxsym" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-Requested font "ntxsyc" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
-Requested font "ntxexa" at 10.0pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 
 
-LaTeX Warning: Float too large for page by 18.5305pt on input line 1717.
+LaTeX Warning: Float too large for page by 18.5305pt on input line 1739.
 
 \openout3 = `main.mw'.
 
-[345] (./main.mw)
+[344] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [345] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4678,18 +6308,13 @@ LaTeX Warning: Float too large for page by 18.5305pt on input line 1717.
 
 \openout3 = `main.mw'.
 
- [348] (./main.mw)
+
+[348] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[349] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [350] (./main.mw)
+ [349] (./main.mw)
 \openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
@@ -4697,22 +6322,27 @@ e=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_RZI_B.otf
 \openout3 = `main.mw'.
 
+ [350] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
  [351] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [352] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (6.83784pt too wide) in paragraph at lines 1880--1891
+Overfull \hbox (6.83784pt too wide) in paragraph at lines 1903--1914
  [][] |
  []
 
 \openout3 = `main.mw'.
 
-[353] (./main.mw)
+[352] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [353] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4720,20 +6350,20 @@ Overfull \hbox (6.83784pt too wide) in paragraph at lines 1880--1891
  [354] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [355] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 1971--1971
+Underfull \hbox (badness 1292) in paragraph at lines 1994--1994
 [][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 6.24[][]: []|Template and basic di
 stribution of handling-to-action
  []
 
 \openout3 = `main.mw'.
 
-[356] (./main.mw)
+[355] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [356] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4748,13 +6378,13 @@ stribution of handling-to-action
 
 \openout3 = `main.mw'.
 
- [359] (./main.mw)
+
+[359] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[360] (./main.mw)
+ [360] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4769,13 +6399,13 @@ stribution of handling-to-action
 
 \openout3 = `main.mw'.
 
- [363] (./main.mw)
+
+[363] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[364] (./main.mw)
+ [364] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4790,43 +6420,43 @@ stribution of handling-to-action
 
 \openout3 = `main.mw'.
 
- [367] (./main.mw)
+
+[367] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Overfull \hbox (5.50195pt too wide) in paragraph at lines 2276--2287
+ [][] |
+ []
+
+\openout3 = `main.mw'.
 
 [368] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-Overfull \hbox (5.50195pt too wide) in paragraph at lines 2248--2259
+ [369] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `table:srel-language' on page 370 undefined on input l
+ine 2337.
+
+
+Overfull \hbox (17.48126pt too wide) in paragraph at lines 2340--2351
  [][] |
  []
 
 \openout3 = `main.mw'.
 
-[369] (./main.mw)
+[370] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [370] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `table:srel-language' on page 371 undefined on input l
-ine 2309.
-
-
-Overfull \hbox (17.48126pt too wide) in paragraph at lines 2312--2323
- [][] |
- []
-
-\openout3 = `main.mw'.
-
-[371] (./main.mw)
+ [371] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4841,13 +6471,13 @@ Overfull \hbox (17.48126pt too wide) in paragraph at lines 2312--2323
 
 \openout3 = `main.mw'.
 
- [374] (./main.mw)
+
+[374] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[375] (./main.mw)
+ [375] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4862,13 +6492,13 @@ Overfull \hbox (17.48126pt too wide) in paragraph at lines 2312--2323
 
 \openout3 = `main.mw'.
 
- [378] (./main.mw)
+
+[378] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[379] (./main.mw)
+ [379] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4883,13 +6513,13 @@ Overfull \hbox (17.48126pt too wide) in paragraph at lines 2312--2323
 
 \openout3 = `main.mw'.
 
- [382] (./main.mw)
+
+[382] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[383] (./main.mw)
+ [383] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4897,26 +6527,26 @@ Overfull \hbox (17.48126pt too wide) in paragraph at lines 2312--2323
  [384] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [385] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (4.46964pt too wide) in paragraph at lines 2729--2730
+Overfull \hbox (4.46964pt too wide) in paragraph at lines 2757--2758
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 ment within free juxtaposition constructi
 ons is clearly only preliminary. Although|
  []
 
 
-Overfull \hbox (6.72171pt too wide) in paragraph at lines 2747--2748
+Overfull \hbox (6.72171pt too wide) in paragraph at lines 2775--2776
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 family, namely synonymous MVCs (§[][]6.2.
 6[][]). I argued there that synonymous CRELs|
  []
 
 \openout3 = `main.mw'.
 
-[386] (./main.mw)
+[385] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [386] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4924,25 +6554,252 @@ Overfull \hbox (6.72171pt too wide) in paragraph at lines 2747--2748
  [387] (./main.mw)
 \openout3 = `main.mw'.
 
+)
 \openout3 = `main.mw'.
 
  [388] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `chapters/07_Discussion.aux'.
+
+
+(./chapters/07_Discussion.tex
+chapter 7.
+\openout3 = `main.mw'.
+
+[389
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [390] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
+[][] []|
+ []
+
+
+Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
+[] [] |
+ []
+
+\openout3 = `main.mw'.
+
+[391] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [392] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [393] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [394] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[395] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [396] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [397] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [398] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[399] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [400] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [401] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [402] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[403] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [404] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [405] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [406] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 Muna, []Abui, []Makalero, []Teiwa$\LMS/ntx
+sy/m/n/9 "$\TU/LinLibertine_R_B.otf(0)/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 250--251
+[]\TU/LinLibertine_R_B.otf(0)/m/n/9 Klon, Tetun, Western Pantar, []Selaru,
+ []
+
+
+Overfull \hbox (6.93634pt too wide) in paragraph at lines 243--258
+ [][] |
+ []
+
+\openout3 = `main.mw'.
+
+[407] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [408] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [409] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [410] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[411] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [412] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [413] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [414] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[415] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [416] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [417] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [418] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[419] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [420] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [421] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [422] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[423] (./main.mw)
+\openout3 = `main.mw'.
+
 )
 \openout3 = `main.mw'.
 
- [389] (./main.mw)
+ [424] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `localseealso.aux'.
 
-(./backmatter.tex
+ (./localseealso.tex) (./backmatter.tex
 chapter without number
 \openout3 = `main.mw'.
 
-[427
+[425
 
 
+
+\@writefile{lan}{\indexentry{some language|hyperindexformat{\see {some other la
+nguage}}}{425}}
+\@writefile{lan}{\indexentry{Akan@\igobble |hyperindexformat{\langsciseealso{Tw
+i}}}{425}}
+\@writefile{lan}{\indexentry{Twi@\igobble |hyperindexformat{\langsciseealso{Aka
+n}}}{425}}
 
 
 
@@ -4959,7 +6816,17 @@ inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
 
 \openout3 = `main.mw'.
 
-[428] (./main.mw)
+[426] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [427] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [428] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4969,18 +6836,8 @@ inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
 
 \openout3 = `main.mw'.
 
- [430] (./main.mw)
-\openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [431] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-[432] (./main.mw)
+[430] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -4991,7 +6848,7 @@ construction, and class formation.
 
 \openout3 = `main.mw'.
 
-[433] (./main.mw)
+[431] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5002,22 +6859,22 @@ etter, Apriani Arilaha, F. Morigerowski,
 
 \openout3 = `main.mw'.
 
-[434] (./main.mw)
+[432] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [433] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [434] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
  [435] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [436] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [437] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5028,23 +6885,23 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
-[438] (./main.mw)
+[436] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [439] (./main.mw)
+ [437] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [440] (./main.mw)
+ [438] (./main.mw)
 \openout3 = `main.mw'.
 
  (./main.and
 \openout3 = `main.mw'.
 
- [441
+ [439
 
 
 
@@ -5054,7 +6911,7 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
- [442] (./main.mw)
+ [440] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5065,12 +6922,12 @@ Underfull \hbox (badness 1112) in paragraph at lines 227--229
 
 \openout3 = `main.mw'.
 
-[443] (./main.mw)
+[441] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [444
+ [442
 
 ] (./main.mw)
 \openout3 = `main.mw'.
@@ -5078,7 +6935,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 227--229
 ) (./main.lnd
 \openout3 = `main.mw'.
 
- [445
+ [443
 
 
 
@@ -5100,12 +6957,12 @@ Underfull \hbox (badness 1852) in paragraph at lines 241--248
 
 \openout3 = `main.mw'.
 
-[446] (./main.mw)
+[444] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [447] (./main.mw)
+ [445] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -5128,13 +6985,13 @@ Underfull \hbox (badness 5460) in paragraph at lines 471--496
 
 \openout3 = `main.mw'.
 
-[448] (./main.mw)
+[446] (./main.mw)
 \openout3 = `main.mw'.
 
 ))
 \openout3 = `main.mw'.
 
- [449
+ [447
 
 
 
@@ -5142,15 +6999,32 @@ Underfull \hbox (badness 5460) in paragraph at lines 471--496
 ] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
+\openout2 = `./langsci/graphics/langsci-advertisement.aux'.
 
- [451
 
-] (./main.mw)
-\openout3 = `main.mw'.
+(./langsci/graphics/langsci-advertisement.tex
+\pgf@layerbox@lspadvert_bg=\box137
+\pgf@layerboxsaved@lspadvert_bg=\box138
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 52.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
+(Font)              scaled to size 42.22461pt on input line 9.
+Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
+ing=tex-text;" at 42.22461pt
+ -> ./langsci/fonts/Arimo_B.ttf
+Requested font "[./langsci/fonts/Arimo_B.ttf]/OT" at 51.99997pt
+ -> ./langsci/fonts/Arimo_B.ttf
+Requested font "[./langsci/fonts/Arimo_B.ttf]/OT" at 52.0pt
+ -> ./langsci/fonts/Arimo_B.ttf
+
+Package fontspec Info: Arimo_B scale = 0.8120073448386179.
+
+
+Package fontspec Info: Arimo_B scale = 0.956411735000273.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 20.3003pt on input line 65.
+(Font)              scaled to size 20.3003pt on input line 11.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 20.3003pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -5165,20 +7039,109 @@ Package fontspec Info: Arimo_B scale = 0.8120078558225505.
 Package fontspec Info: Arimo_B scale = 0.9564114620298085.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 23.91014pt on input line 65.
+(Font)              scaled to size 23.91014pt on input line 11.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 23.91014pt
  -> ./langsci/fonts/Arimo_B.ttf
+LaTeX Font Info:    Calculating math sizes for size <17> on input line 15.
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 12.40993pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 9.35005pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "nxlmi" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "nxlmi" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "nxlmi" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmi.tfm
+Requested font "ntxsy" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxsy" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxsy" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm
+Requested font "ntxexx" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "ntxexx" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+Requested font "msam10" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
+.tfm
+Requested font "msam10" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
+.tfm
+Requested font "msam10" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10
+.tfm
+Requested font "msbm10" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
+.tfm
+Requested font "msbm10" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
+.tfm
+Requested font "msbm10" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10
+.tfm
+Requested font "nxlmia" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "nxlmia" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "nxlmia" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
+Requested font "ntxsym" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsym" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+Requested font "ntxsyc" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxsyc" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm
+Requested font "ntxexa" at 17.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 12.40993pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+Requested font "ntxexa" at 9.35005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+)
 \openout3 = `main.mw'.
 
- [452] (./main.mw)
+ [448
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [449
+
+]
+(./main.mw)
+\openout3 = `main.mw'.
+
+
+Package fontspec Info: Arimo_B scale = 0.8120078558225505.
+
+
+Package fontspec Info: Arimo_B scale = 0.9564114620298085.
+
+\openout3 = `main.mw'.
+
+ [450] (./main.mw)
 \openout3 = `main.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
-
-(./main.aux (./chapters/acknowledgments.aux) (./chapters/abbreviations.aux)
-(./chapters/glossary.aux) (./chapters/summary.aux) (./chapters/epigraph.aux)
+ (./main.aux (./chapters/acknowledgments.aux)
+(./chapters/abbreviations.aux) (./chapters/glossary.aux)
+(./chapters/summary.aux) (./chapters/epigraph.aux)
 (./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
 (./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
 ) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
@@ -5197,12 +7160,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 72457 strings out of 492916
- 1438469 string characters out of 6133345
- 2109308 words of memory out of 5000000
- 74968 multiletter control sequences out of 15000+600000
- 557287 words of font info for 186 fonts, out of 8000000 for 9000
+ 74357 strings out of 492916
+ 1465158 string characters out of 6133345
+ 2177970 words of memory out of 5000000
+ 76190 multiletter control sequences out of 15000+600000
+ 570328 words of font info for 245 fonts, out of 8000000 for 9000
  1356 hyphenation exceptions out of 8191
- 71i,14n,118p,9080b,5764s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,32n,118p,9080b,5764s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (177 pages).
+Output written on main.pdf (482 pages).
