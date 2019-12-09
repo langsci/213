@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  4 DEC 2019 14:12
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  9 DEC 2019 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2752,7 +2752,6 @@ File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
-Package hyperref Info: Option `draft' set `true' on input line 4393.
 Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
@@ -3235,66 +3234,66 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./langsci/graphics/langsci-advertisement.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 36.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 36
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 37.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 37
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 37.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 37.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 36
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 37
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 37.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 3
-6.
+7.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 ABD: EveryShipout initializing macros
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 36.
+loading the todonotes package. on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -3330,21 +3329,21 @@ loading the todonotes package. on input line 36.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 36.
+(Font)              `operators' in the math version `normal' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/LinLibertine_R_B.otf(0)/m/n --> TU/LinLibertine_R_B
-.otf(0)/m/n on input line 36.
+.otf(0)/m/n on input line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 36.
+(Font)              `operators' in the math version `bold' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/LinLibertine_R_B.otf(0)/sb/n --> TU/LinLibertine_R_
-B.otf(0)/m/n on input line 36.
+B.otf(0)/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinLibertine_R_B.otf(0)/m/n --> TU/LinLibertine_R_B.
-otf(0)/b/n on input line 36.
-LaTeX Info: Redefining \microtypecontext on input line 36.
+otf(0)/b/n on input line 37.
+LaTeX Info: Redefining \microtypecontext on input line 37.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -3378,8 +3377,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 36.
-Package biblatex Info: Reference segment=0 on input line 36.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
@@ -3398,7 +3397,7 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@FBLTpage=\count609
 )
 \AtBeginShipoutBox=\box136
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 37.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3408,9 +3407,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count610
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 
 (./main.out) (./main.out)
 \@outlinefile=\write10
@@ -3422,7 +3421,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           You can avoid loading `bookmark' with KOMA-Script option
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message with `\usepackage{bookmark}'
-(scrbook)           before \begin{document} on input line 36.
+(scrbook)           before \begin{document} on input line 37.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
 Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
@@ -3435,7 +3434,7 @@ Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 51.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 41.4126pt on input line 37.
+(Font)              scaled to size 41.4126pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 41.4126pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3460,7 +3459,7 @@ Package fontspec Info: Arimo_B scale = 0.8120073121670112.
 Package fontspec Info: Arimo_B scale = 0.9564116011912216.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.89153pt on input line 37.
+(Font)              scaled to size 8.89153pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 8.89153pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3518,33 +3517,25 @@ lic_B.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 48.77669pt on input line 37.
+(Font)              scaled to size 48.77669pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 48.77669pt
  -> ./langsci/fonts/Arimo_B.ttf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 49.7331pt on input line 37.
+(Font)              scaled to size 49.7331pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 49.7331pt
  -> ./langsci/fonts/Arimo_B.ttf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 25.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
-LaTeX Font Info:    Font shape `TU/DejaVuSansMono.ttf(0)/m/n' will be
-(Font)              scaled to size 8.58977pt on input line 37.
-Requested font "[DejaVuSansMono.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
-ext;" at 8.58977pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/public/dejavu/DejaVuSansM
-ono.ttf
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `DejaVuSansMono.ttf' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
+File: ./langsci/graphics/langsci_logo_nocolor.pdf Graphic file (type pdf)
+<use ./langsci/graphics/langsci_logo_nocolor.pdf>
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 17.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 13.8042pt on input line 37.
+(Font)              scaled to size 13.8042pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 13.8042pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3555,7 +3546,7 @@ Package fontspec Info: Arimo_B scale = 0.8120079233408858.
 Package fontspec Info: Arimo_B scale = 0.9564119235264212.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 37.
+(Font)              scaled to size 10.47263pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 10.47263pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3575,7 +3566,7 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 \openout3 = `main.mw'.
 
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
-(Font)              scaled to size 8.12012pt on input line 37.
+(Font)              scaled to size 8.12012pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 8.12012pt
  -> ./langsci/fonts/Arimo_B.ttf
@@ -3604,6 +3595,8 @@ Package fontspec Info: Arimo_B scale = 0.8120073121670112.
 
 Package fontspec Info: Arimo_B scale = 0.9564116011912216.
 
+File: ./langsci/graphics/langsci_logo_nocolor.pdf Graphic file (type pdf)
+<use ./langsci/graphics/langsci_logo_nocolor.pdf>
 \openout3 = `main.mw'.
 
  [3
@@ -3639,7 +3632,7 @@ Requested font "ntxexx" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
-LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -3656,7 +3649,7 @@ Requested font "msam10" at 8.0pt
 Requested font "msam7" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.
 tfm
-LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -3674,7 +3667,7 @@ Requested font "msbm10" at 8.0pt
 Requested font "msbm7" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.
 tfm
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 37.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 38.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxmia.fd
@@ -3686,7 +3679,7 @@ Requested font "nxlmia" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 37.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 38.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxsym.fd
@@ -3698,7 +3691,7 @@ Requested font "ntxsym" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 37.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 38.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/untxsyc.fd
@@ -3716,6 +3709,10 @@ Requested font "ntxexa" at 8.0pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 Requested font "ntxexa" at 6.1pt
  -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+File: ./langsci/graphics//ccby.eps Graphic file (type eps)
+<./langsci/graphics//ccby.eps>
+File: ./langsci/graphics/storagelogo.pdf Graphic file (type pdf)
+<use ./langsci/graphics/storagelogo.pdf>
 \openout3 = `main.mw'.
 
  [4] (./main.mw)
@@ -3744,7 +3741,7 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;mapping=tex-text;" at 20.74pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
-Package tocbasic Info: character protrusion at toc deactivated on input line 40
+Package tocbasic Info: character protrusion at toc deactivated on input line 41
 .
  (./main.toc
 Overfull \hbox (0.76648pt too wide) detected at line 10
@@ -4177,6 +4174,8 @@ ic approach that proves useful in MVC|
 
 (./chapters/01_Introduction.tex
 chapter 1.
+File: figures/mehoy.eps Graphic file (type eps)
+<figures/mehoy.eps>
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -4225,6 +4224,8 @@ Requested font "ntxexa" at 10.0pt
  [6] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_overview.pdf Graphic file (type pdf)
+<use figures/languages_overview.pdf>
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 50.
 
@@ -4297,6 +4298,8 @@ e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
 [16] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_subareas.pdf Graphic file (type pdf)
+<use figures/languages_subareas.pdf>
 \openout3 = `main.mw'.
 
  [17] (./main.mw)
@@ -4360,6 +4363,8 @@ chapter 2.
 ] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Wallacea2.eps Graphic file (type eps)
+<figures/Wallacea2.eps>
 \openout3 = `main.mw'.
 
  [22] (./main.mw)
@@ -4370,6 +4375,8 @@ chapter 2.
  [23] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_aff_aus.pdf Graphic file (type pdf)
+<use figures/languages_aff_aus.pdf>
 Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 =DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
@@ -4389,6 +4396,8 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  [26] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_aff_pap.pdf Graphic file (type pdf)
+<use figures/languages_aff_pap.pdf>
 \openout3 = `main.mw'.
 
  [27] (./main.mw)
@@ -4427,10 +4436,16 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  [33] (./main.mw)
 \openout3 = `main.mw'.
 
+
+
+LaTeX Warning: File `figures/languages_preposed possessor-1.pdf' not found on i
+nput line 164.
+
+File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
+<use figures/languages_preposed possessor-1.pdf>
 \openout3 = `main.mw'.
 
- [34]
-(./main.mw)
+[34] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4450,12 +4465,13 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
- [38] (./main.mw)
+ [38]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[39] (./main.mw)
+ [39] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4475,8 +4491,7 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
- [43]
-(./main.mw)
+[43] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4510,6 +4525,8 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  [47] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
+<use figures/languages_Sulawesi.pdf>
 \openout3 = `main.mw'.
 
  [48] (./main.mw)
@@ -4536,6 +4553,8 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  [52] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_Nusa.pdf Graphic file (type pdf)
+<use figures/languages_Nusa.pdf>
 \openout3 = `main.mw'.
 
  [53] (./main.mw)
@@ -4611,6 +4630,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [62] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_Maluku.pdf Graphic file (type pdf)
+<use figures/languages_Maluku.pdf>
 \openout3 = `main.mw'.
 
  [63] (./main.mw)
@@ -4640,6 +4661,8 @@ DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
  [67] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_Papua.pdf Graphic file (type pdf)
+<use figures/languages_Papua.pdf>
 \openout3 = `main.mw'.
 
  [68] (./main.mw)
@@ -4816,6 +4839,10 @@ R_B.otf(0)/m/n/10.95 . If grammatical operators such as tense, aspect, mood,|
  [95] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/pearOniLATCH.eps Graphic file (type eps)
+<figures/pearOniLATCH.eps>
+File: figures/pearJohnHESIT.eps Graphic file (type eps)
+<figures/pearJohnHESIT.eps>
 \openout3 = `main.mw'.
 
  [96] (./main.mw)
@@ -5161,6 +5188,10 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 [155] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Referentiality_Family.eps Graphic file (type eps)
+<figures/Referentiality_Family.eps>
+File: figures/Referentiality_Group.eps Graphic file (type eps)
+<figures/Referentiality_Group.eps>
 \openout3 = `main.mw'.
 
  [156] (./main.mw)
@@ -5315,6 +5346,10 @@ Underfull \hbox (badness 2689) in paragraph at lines 570--570
  [181] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Headedness_Family.eps Graphic file (type eps)
+<figures/Headedness_Family.eps>
+File: figures/Headedness_Group.eps Graphic file (type eps)
+<figures/Headedness_Group.eps>
 \openout3 = `main.mw'.
 
  [182] (./main.mw)
@@ -5382,6 +5417,10 @@ on framed by one or more person indexer(s)|
 [192] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Contiguity_Family.eps Graphic file (type eps)
+<figures/Contiguity_Family.eps>
+File: figures/Contiguity_Group.eps Graphic file (type eps)
+<figures/Contiguity_Group.eps>
 
 
 LaTeX Warning: Float too large for page by 13.13034pt on input line 1009.
@@ -5552,6 +5591,8 @@ chapter 5.
  [222] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/eventschemav2.eps Graphic file (type eps)
+<figures/eventschemav2.eps>
 \openout3 = `main.mw'.
 
 
@@ -5573,6 +5614,8 @@ chapter 5.
  [226] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/eventschemamod.eps Graphic file (type eps)
+<figures/eventschemamod.eps>
 \openout3 = `main.mw'.
 
 
@@ -5906,12 +5949,16 @@ chapter 6.
  [282] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Type_Family.eps Graphic file (type eps)
+<figures/Type_Family.eps>
 
 Underfull \hbox (badness 1062) in paragraph at lines 191--191
 \TU/LinLibertine_R_B.otf(0)/m/n/10 component-relating constructions, SREL = sta
 ge-relating construc-
  []
 
+File: figures/Type_Group.eps Graphic file (type eps)
+<figures/Type_Group.eps>
 
 Underfull \hbox (badness 1259) in paragraph at lines 195--195
 \TU/LinLibertine_R_B.otf(0)/m/n/10 modifying constructions, FJUX = free juxtapo
@@ -5949,6 +5996,10 @@ sition constructions.
  [288] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/CREL_Family.eps Graphic file (type eps)
+<figures/CREL_Family.eps>
+File: figures/CREL_Group.eps Graphic file (type eps)
+<figures/CREL_Group.eps>
 \openout3 = `main.mw'.
 
  [289] (./main.mw)
@@ -6105,6 +6156,10 @@ Overfull \hbox (3.15472pt too wide) in paragraph at lines 845--846
  [314] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/MOD_Family.eps Graphic file (type eps)
+<figures/MOD_Family.eps>
+File: figures/MOD_Group.eps Graphic file (type eps)
+<figures/MOD_Group.eps>
 \openout3 = `main.mw'.
 
 
@@ -6277,6 +6332,10 @@ LaTeX Warning: Float too large for page by 8.04938pt on input line 1620.
  [342] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/SREL_Family.eps Graphic file (type eps)
+<figures/SREL_Family.eps>
+File: figures/SREL_Group.eps Graphic file (type eps)
+<figures/SREL_Group.eps>
 \openout3 = `main.mw'.
 
  [343] (./main.mw)
@@ -6440,11 +6499,6 @@ Overfull \hbox (5.50195pt too wide) in paragraph at lines 2276--2287
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Reference `table:srel-language' on page 370 undefined on input l
-ine 2337.
-
-
 Overfull \hbox (17.48126pt too wide) in paragraph at lines 2340--2351
  [][] |
  []
@@ -6469,6 +6523,10 @@ Overfull \hbox (17.48126pt too wide) in paragraph at lines 2340--2351
  [373] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/FJUX_family.eps Graphic file (type eps)
+<figures/FJUX_family.eps>
+File: figures/FJUX_group.eps Graphic file (type eps)
+<figures/FJUX_group.eps>
 \openout3 = `main.mw'.
 
 
@@ -6580,6 +6638,14 @@ chapter 7.
  [390] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/CREL_Group.eps Graphic file (type eps)
+<figures/CREL_Group.eps>
+File: figures/MOD_Group.eps Graphic file (type eps)
+<figures/MOD_Group.eps>
+File: figures/SREL_Group.eps Graphic file (type eps)
+<figures/SREL_Group.eps>
+File: figures/FJUX_group.eps Graphic file (type eps)
+<figures/FJUX_group.eps>
 
 Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
 [][] []|
@@ -6600,6 +6666,8 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
  [392] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/MVCs_languages_clean.eps Graphic file (type eps)
+<figures/MVCs_languages_clean.eps>
 \openout3 = `main.mw'.
 
  [393] (./main.mw)
@@ -6610,6 +6678,8 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
  [394] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/constructions_tokens_clean.eps Graphic file (type eps)
+<figures/constructions_tokens_clean.eps>
 \openout3 = `main.mw'.
 
 
@@ -6647,6 +6717,8 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
  [401] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/number_stackedMVC_clean.eps Graphic file (type eps)
+<figures/number_stackedMVC_clean.eps>
 \openout3 = `main.mw'.
 
  [402] (./main.mw)
@@ -6658,6 +6730,8 @@ Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
 [403] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/index_MVCcomplexity_clean.eps Graphic file (type eps)
+<figures/index_MVCcomplexity_clean.eps>
 \openout3 = `main.mw'.
 
  [404] (./main.mw)
@@ -6689,6 +6763,8 @@ Overfull \hbox (6.93634pt too wide) in paragraph at lines 243--258
  [][] |
  []
 
+File: figures/languages_mvcuse.pdf Graphic file (type pdf)
+<use figures/languages_mvcuse.pdf>
 \openout3 = `main.mw'.
 
 [407] (./main.mw)
@@ -6709,6 +6785,8 @@ Overfull \hbox (6.93634pt too wide) in paragraph at lines 243--258
  [410] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/gardening1_burnplant.eps Graphic file (type eps)
+<figures/gardening1_burnplant.eps>
 \openout3 = `main.mw'.
 
 
@@ -7043,6 +7121,8 @@ LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 23.91014pt
  -> ./langsci/fonts/Arimo_B.ttf
+File: ./langsci/graphics/langsci_logo_nocolor.pdf Graphic file (type pdf)
+<use ./langsci/graphics/langsci_logo_nocolor.pdf>
 LaTeX Font Info:    Calculating math sizes for size <17> on input line 15.
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 12.40993pt
@@ -7137,8 +7217,8 @@ Package fontspec Info: Arimo_B scale = 0.9564114620298085.
  [450] (./main.mw)
 \openout3 = `main.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (./main.aux (./chapters/acknowledgments.aux)
 (./chapters/abbreviations.aux) (./chapters/glossary.aux)
 (./chapters/summary.aux) (./chapters/epigraph.aux)
@@ -7147,24 +7227,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 ) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
 ) (./chapters/07_Discussion.aux) (./localseealso.aux)
 (./langsci/graphics/langsci-advertisement.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 74357 strings out of 492916
- 1465158 string characters out of 6133345
- 2177970 words of memory out of 5000000
- 76190 multiletter control sequences out of 15000+600000
- 570328 words of font info for 245 fonts, out of 8000000 for 9000
+ 73537 strings out of 492916
+ 1456074 string characters out of 6133345
+ 2147622 words of memory out of 5000000
+ 75372 multiletter control sequences out of 15000+600000
+ 570320 words of font info for 244 fonts, out of 8000000 for 9000
  1356 hyphenation exceptions out of 8191
  71i,32n,118p,9080b,5764s stack positions out of 5000i,500n,10000p,200000b,80000s
 
