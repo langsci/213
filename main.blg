@@ -1,21 +1,19 @@
-[1] Config.pm:304> INFO - This is Biber 2.12
-[1] Config.pm:307> INFO - Logfile is 'main.blg'
-[68] biber-darwin:315> INFO - === lun dic  9, 2019, 10:49:54
-[128] Biber.pm:371> INFO - Reading 'main.bcf'
-[1435] Biber.pm:889> INFO - Found 206 citekeys in bib section 0
-[1457] Biber.pm:4093> INFO - Processing section 0
-[1477] Biber.pm:4254> INFO - Looking for bibtex format file 'MVCliterature.bib' for section 0
-[1488] bibtex.pm:1523> INFO - LaTeX decoding ...
-[1938] bibtex.pm:1340> INFO - Found BibTeX data source 'MVCliterature.bib'
-[2315] Utils.pm:193> WARN - year field '2002--2006' in entry 'belo2002-2006' is not an integer - this will probably not sort properly.
-[2408] Utils.pm:193> WARN - year field '2009--2015' in entry 'kirihio2009dobes' is not an integer - this will probably not sort properly.
-[3311] Utils.pm:193> WARN - year field '2005--2010' in entry 'leto2012totoli' is not an integer - this will probably not sort properly.
-[3366] Utils.pm:193> WARN - I didn't find a database entry for 'LynchEtAl2002' (section 0)
-[3366] Utils.pm:193> WARN - I didn't find a database entry for 'Holton2014' (section 0)
-[3702] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3702] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3703] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[3703] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[3972] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[4088] bbl.pm:739> INFO - Output to main.bbl
-[4097] Biber.pm:110> INFO - WARNINGS: 5
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'main.blg'
+[20] biber:313> INFO - === Thu Dec  5, 2019, 09:20:31
+[42] Biber.pm:371> INFO - Reading 'main.bcf'
+[122] Biber.pm:857> INFO - Found 206 citekeys in bib section 0
+[133] Biber.pm:3981> INFO - Processing section 0
+[141] Biber.pm:4154> INFO - Looking for bibtex format file 'MVCliterature.bib' for section 0
+[146] bibtex.pm:1479> INFO - LaTeX decoding ...
+[307] bibtex.pm:1305> INFO - Found BibTeX data source 'MVCliterature.bib'
+[500] Utils.pm:169> WARN - year field '2002--2006' in entry 'belo2002-2006' is not an integer - this will probably not sort properly.
+[547] Utils.pm:169> WARN - year field '2009--2015' in entry 'kirihio2009dobes' is not an integer - this will probably not sort properly.
+[1089] Utils.pm:169> WARN - year field '2005--2010' in entry 'leto2012totoli' is not an integer - this will probably not sort properly.
+[1292] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1292] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1292] Biber.pm:3809> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1292] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[1423] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1485] bbl.pm:720> INFO - Output to main.bbl
+[1485] Biber.pm:110> INFO - WARNINGS: 3
