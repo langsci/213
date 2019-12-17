@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.5)  9 DEC 2019 11:33
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.8.21)  17 DEC 2019 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -78,7 +78,7 @@ Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
@@ -159,7 +159,7 @@ Class scrbook Info: Redefining `\numberline' on input line 6445.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/morewrites/morewrites.sty
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-06-14 L3 programming layer (loader)
+Package: expl3 2018-06-14 L3 programming layer (loader) 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018-06-14 L3 programming layer (code)
@@ -862,182 +862,182 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \fontspec with sig. 'O{}mO{}' on line 561.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setmainfont with sig. 'O{}mO{}' on line 566.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setsansfont with sig. 'O{}mO{}' on line 571.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setmonofont with sig. 'O{}mO{}' on line 576.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setmathrm with sig. 'O{}mO{}' on line 580.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setboldmathrm with sig. 'O{}mO{}' on line 584.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setmathsf with sig. 'O{}mO{}' on line 588.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setmathtt with sig. 'O{}mO{}' on line 592.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setromanfont with sig. 'O{}mO{}' on line 596.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newfontfamily with sig. 'mO{}mO{}' on line 600.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \renewfontfamily with sig. 'mO{}mO{}' on line 604.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \setfontfamily with sig. 'mO{}mO{}' on line 608.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newfontface with sig. 'mO{}mO{}' on line 612.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \defaultfontfeatures with sig. 't+om' on line 619.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \addfontfeatures with sig. 'm' on line 623.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \addfontfeature with sig. 'm' on line 627.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newfontfeature with sig. 'mm' on line 631.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newAATfeature with sig. 'mmmm' on line 635.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newopentypefeature with sig. 'mmm' on line 639.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newICUfeature with sig. 'mmm' on line 643.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \aliasfontfeature with sig. 'mm' on line 647.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \aliasfontfeatureoption with sig. 'mmm' on line 651.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newfontscript with sig. 'mm' on line 655.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \newfontlanguage with sig. 'mm' on line 659.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \DeclareFontExtensions with sig. 'm' on line 663.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 667.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \EncodingCommand with sig. 'mO{}m' on line 3655.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \EncodingAccent with sig. 'mm' on line 3661.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \EncodingSymbol with sig. 'mm' on line 3667.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \EncodingComposite with sig. 'mmm' on line 3673.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3679.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3704.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \UndeclareSymbol with sig. 'm' on line 3710.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \UndeclareAccent with sig. 'm' on line 3716.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \UndeclareCommand with sig. 'm' on line 3722.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \UndeclareComposite with sig. 'mm' on line 3729.
 .................................................
 
@@ -1051,12 +1051,12 @@ LaTeX Info: Redefining \emph on input line 3980.
 LaTeX Info: Redefining \- on input line 4034.
 .................................................
 . LaTeX info: "xparse/redefine-command"
-.
+. 
 . Redefining command \oldstylenums with sig. 'm' on line 4129.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \liningnums with sig. 'm' on line 4133.
 .................................................
 ))
@@ -1178,15 +1178,15 @@ Requested font "[LinLibertine_RBI.otf]/OT" at 10.95pt
 tine_RBI.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(0)' created for font 'LinLibertine' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,Numbers =
 . {Monospaced,Lining},Scale = 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont =
 . *_RB,BoldItalicFont = *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=DFLT;+tnum;+lnum;mappin
 g=tex-text;"
@@ -1233,15 +1233,15 @@ Requested font "[LinBiolinum_RBO.otf]/OT" at 10.95pt
 num_RBO.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum(0)' created for font 'LinBiolinum' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Ligatures=TeX,Numbers =
 . {Monospaced, },Scale = 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont =
 . *_RB,BoldItalicFont = *_RBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=DFLT;+tnum;mapping=tex-t
 ext;"
@@ -1270,15 +1270,15 @@ ng=tex-text;"
 LaTeX Info: Redefining \sffamily on input line 315.
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(1)' created for font 'LinLibertine' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
 . {Monospaced,Lining},Scale = 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont =
 . *_RB,BoldItalicFont = *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=DFLT;+tnum;+lnum;mappin
 g=tex-text;"
@@ -1306,7 +1306,7 @@ p;mapping=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertine with sig. '' on line 326.
 .................................................
 Requested font "[LinLibertine_RZ.otf]/OT" at 10.95pt
@@ -1317,15 +1317,15 @@ Requested font "[LinLibertine_RZI.otf]/OT" at 10.95pt
 tine_RZI.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(2)' created for font 'LinLibertine' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers = { Lining},Scale =
 . 1,UprightFont = *_RZ,ItalicFont = *_RZI,BoldFont = *_RB,BoldItalicFont =
 . *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_RZ.otf]/OT:script=latn;language=DFLT;+lnum;mapping=tex
 -text;"
@@ -1353,20 +1353,20 @@ ing=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertineSB with sig. '' on line 335.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(3)' created for font 'LinLibertine' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
 . {Monospaced,OldStyle},Scale = 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont
 . = *_RB,BoldItalicFont = *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_R.otf]/OT:script=latn;language=DFLT;+tnum;+onum;mappin
 g=tex-text;"
@@ -1394,12 +1394,12 @@ p;mapping=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertineOsF with sig. '' on line 343.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertineLF with sig. '' on line 351.
 .................................................
 Requested font "[LinLibertine_DR.otf]/OT" at 10.95pt
@@ -1407,19 +1407,19 @@ Requested font "[LinLibertine_DR.otf]/OT" at 10.95pt
 tine_DR.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(4)' created for font 'LinLibertine' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers =
 . {Monospaced,Lining},UprightFont = *_DR,ItalicFont = *_RI,BoldFont =
 . *_RB,BoldItalicFont = *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[LinLibertine_DR.otf]/OT:script=latn;language=DFLT;+tnum;+lnum;mapping=te
 x-text;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"[LinLibertine_RB.otf]/OT:script=latn;language=DFLT;+tnum;+lnum;mapping=te
 x-text;"
@@ -1441,20 +1441,20 @@ ping=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertineDisplay with sig. '' on line 358.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum(1)' created for font 'LinBiolinum' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers = {Monospaced, },Scale =
 . 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
 . *_RBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=DFLT;+tnum;mapping=tex-t
 ext;"
@@ -1482,20 +1482,20 @@ ng=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \biolinum with sig. '' on line 366.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum(2)' created for font 'LinBiolinum' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers = {Monospaced,
 . OldStyle},Scale = 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont =
 . *_RB,BoldItalicFont = *_RBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=DFLT;+tnum;+onum;mapping
 =tex-text;"
@@ -1523,20 +1523,20 @@ ng=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \biolinumOsF with sig. '' on line 374.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum(3)' created for font 'LinBiolinum' with options
 . [Ligatures = TeX,Extension =
 . .otf,SmallCapsFeatures={Letters=SmallCaps},Numbers = {Monospaced},Scale =
 . 1,UprightFont = *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont =
 . *_RBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=DFLT;+tnum;mapping=tex-t
 ext;"
@@ -1564,7 +1564,7 @@ ng=tex-text;"
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \biolinumLF with sig. '' on line 382.
 .................................................
 Requested font "[LinLibertine_M.otf]/OT" at 10.95pt
@@ -1581,70 +1581,70 @@ Requested font "[LinLibertine_MBO.otf]/OT" at 10.95pt
 tine_MBO.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(5)' created for font 'LinLibertine' with options
 . [Extension =
 . .otf,WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Scale =
 . 1,UprightFont = *_M,ItalicFont = *_MO,BoldFont = *_MB,BoldItalicFont =
 . *_MBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_M.otf]/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_MB.otf]/OT:script=latn;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 . - 'italic' (m/it) with NFSS spec.:
 . <->s*[1]"[LinLibertine_MO.otf]/OT:script=latn;language=DFLT;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->s*[1]"[LinLibertine_MBO.otf]/OT:script=latn;language=DFLT;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 423.
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(6)' created for font 'LinLibertine' with options
 . [Extension = .otf,Scale = 1,UprightFont = *_M,ItalicFont = *_MO,BoldFont =
 . *_MB,BoldItalicFont = *_MBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_M.otf]/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->s*[1]"[LinLibertine_MB.otf]/OT:script=latn;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
 . <->s*[1]"[LinLibertine_MO.otf]/OT:script=latn;language=DFLT;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->s*[1]"[LinLibertine_MBO.otf]/OT:script=latn;language=DFLT;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libmono with sig. '' on line 431.
 .................................................
 Requested font "[LinBiolinum_K.otf]/OT" at 10.95pt
@@ -1652,19 +1652,19 @@ Requested font "[LinBiolinum_K.otf]/OT" at 10.95pt
 num_K.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum_K(0)' created for font 'LinBiolinum_K' with options
 . [Extension = .otf,BoldFont={},ItalicFont={},SmallCapsFont={}].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[LinBiolinum_K.otf]/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \biolinumkey with sig. '' on line 432.
 .................................................
 Requested font "[LinLibertine_I.otf]/OT" at 10.95pt
@@ -1672,32 +1672,32 @@ Requested font "[LinLibertine_I.otf]/OT" at 10.95pt
 tine_I.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine_I(0)' created for font 'LinLibertine_I' with
 . options [Extension = .otf,BoldFont={},ItalicFont={},SmallCapsFont={}].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[LinLibertine_I.otf]/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertineInitial with sig. '' on line 433.
 .................................................
 LaTeX Info: Redefining \oldstylenums on input line 470.
 LaTeX Info: Redefining \liningnums on input line 471.
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(7)' created for font 'LinLibertine' with options
 . [Extension = .otf,Numbers = {Monospaced,Lining},UprightFont = *_R,ItalicFont
 . = *_RI,BoldFont = *_RB,BoldItalicFont = *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[LinLibertine_R.otf]/OT:script=latn;language=DFLT;+tnum;+lnum;"
 . - 'small caps'  (m/sc) with NFSS spec.:
@@ -1717,18 +1717,18 @@ LaTeX Info: Redefining \liningnums on input line 471.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertinetabular with sig. '' on line 518.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine(8)' created for font 'LinLibertine' with options
 . [Extension = .otf,Numbers = {Proportional,Lining},UprightFont =
 . *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont = *_RBI].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[LinLibertine_R.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;"
 . - 'small caps'  (m/sc) with NFSS spec.:
@@ -1748,18 +1748,18 @@ LaTeX Info: Redefining \liningnums on input line 471.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \libertineproportional with sig. '' on line 525.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum(4)' created for font 'LinBiolinum' with options
 . [Extension = .otf,Numbers = {Monospaced,},Scale = 1,UprightFont =
 . *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont = *_RBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=DFLT;+tnum;"
 . - 'small caps'  (m/sc) with NFSS spec.:
@@ -1779,18 +1779,18 @@ LaTeX Info: Redefining \liningnums on input line 471.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \biolinumtabular with sig. '' on line 533.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinBiolinum(5)' created for font 'LinBiolinum' with options
 . [Extension = .otf,Numbers = {Proportional,},Scale = 1,UprightFont =
 . *_R,ItalicFont = *_RI,BoldFont = *_RB,BoldItalicFont = *_RBO].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[1]"[LinBiolinum_R.otf]/OT:script=latn;language=DFLT;+pnum;"
 . - 'small caps'  (m/sc) with NFSS spec.:
@@ -1810,7 +1810,7 @@ LaTeX Info: Redefining \liningnums on input line 471.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \biolinumproportional with sig. '' on line 541.
 .................................................
 
@@ -1824,12 +1824,12 @@ Requested font "[DejaVuSansMono.ttf]/OT" at 10.95pt
 ono.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . DejaVuSansMono scale = 0.7844580683300718.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . DejaVuSansMono scale = 0.7844580683300718.
 .................................................
 Requested font "[DejaVuSansMono-Bold.ttf]/OT" at 10.95pt
@@ -1837,7 +1837,7 @@ Requested font "[DejaVuSansMono-Bold.ttf]/OT" at 10.95pt
 ono-Bold.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . DejaVuSansMono-Bold scale = 0.7844580683300718.
 .................................................
 Requested font "[DejaVuSansMono-Oblique.ttf]/OT" at 10.95pt
@@ -1845,7 +1845,7 @@ Requested font "[DejaVuSansMono-Oblique.ttf]/OT" at 10.95pt
 ono-Oblique.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . DejaVuSansMono-Oblique scale = 0.7844580683300718.
 .................................................
 Requested font "[DejaVuSansMono-BoldOblique.ttf]/OT" at 10.95pt
@@ -1853,12 +1853,12 @@ Requested font "[DejaVuSansMono-BoldOblique.ttf]/OT" at 10.95pt
 ono-BoldOblique.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . DejaVuSansMono-BoldOblique scale = 0.7844580683300718.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'DejaVuSansMono.ttf(0)' created for font 'DejaVuSansMono.ttf'
 . with options
 . [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Ligatures={TeX}
@@ -1866,102 +1866,102 @@ ono-BoldOblique.ttf
 . = DejaVuSansMono-Bold.ttf,SlantedFont =
 . DejaVuSansMono-Oblique.ttf,BoldSlantedFont =
 . DejaVuSansMono-BoldOblique.ttf].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[0.7844580683300718]"[DejaVuSansMono.ttf]/OT:script=latn;language=DFLT;m
 apping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->s*[0.7844580683300718]"[DejaVuSansMono-Bold.ttf]/OT:script=latn;language=D
 FLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 . - 'slanted' (m/sl) with NFSS spec.:
 . <->s*[0.7844580683300718]"[DejaVuSansMono-Oblique.ttf]/OT:script=latn;languag
 e=DFLT;mapping=tex-text;"
-. - 'slanted small caps'  (m/slsc) with NFSS spec.:
+. - 'slanted small caps'  (m/slsc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 . - 'bold slanted' (bx/sl) with NFSS spec.:
 . <->s*[0.7844580683300718]"[DejaVuSansMono-BoldOblique.ttf]/OT:script=latn;lan
 guage=DFLT;mapping=tex-text;"
-. - 'bold slanted small caps'  (bx/slsc) with NFSS spec.:
+. - 'bold slanted small caps'  (bx/slsc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. \tex_hyphenchar:D \font =-1\scan_stop:
+. \tex_hyphenchar:D \font =-1\scan_stop: 
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 736.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT" at 10.95pt
  -> ./langsci/fonts/Arimo_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120079233408858.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120079233408858.
 .................................................
 Requested font "[./langsci/fonts/Arimo-Bold_B.ttf]/OT" at 10.95pt
  -> ./langsci/fonts/Arimo-Bold_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-Bold_B scale = 0.8120079233408858.
 .................................................
 Requested font "[./langsci/fonts/Arimo-Italic_B.ttf]/OT" at 10.95pt
  -> ./langsci/fonts/Arimo-Italic_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-Italic_B scale = 0.8120079233408858.
 .................................................
 Requested font "[./langsci/fonts/Arimo-BoldItalic_B.ttf]/OT" at 10.95pt
  -> ./langsci/fonts/Arimo-BoldItalic_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-BoldItalic_B scale = 0.8120079233408858.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'Arimo_B.ttf(0)' created for font 'Arimo_B.ttf' with options
 . [Ligatures=TeX,Scale=MatchLowercase,Path=./langsci/fonts/,BoldFont =
 . Arimo-Bold_B.ttf,ItalicFont = Arimo-Italic_B.ttf,BoldItalicFont =
 . Arimo-BoldItalic_B.ttf].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[0.8120079233408858]"[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->s*[0.8120079233408858]"[./langsci/fonts/Arimo-Bold_B.ttf]/OT:script=latn;l
 anguage=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
 . <->s*[0.8120079233408858]"[./langsci/fonts/Arimo-Italic_B.ttf]/OT:script=latn
 ;language=DFLT;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->s*[0.8120079233408858]"[./langsci/fonts/Arimo-BoldItalic_B.ttf]/OT:script=
 latn;language=DFLT;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \sffamily on input line 753.
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT" at 10.95pt
@@ -1974,7 +1974,7 @@ Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT" at 10.95pt
  -> ./langsci/fonts/LinLibertine_RZI_B.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine_R_B.otf(0)' created for font
 . 'LinLibertine_R_B.otf' with options
 . [Ligatures=TeX,Ligatures={TeX,Common},Path=./langsci/fonts/,PunctuationSpace=
@@ -1983,9 +1983,9 @@ Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT" at 10.95pt
 . LinLibertine_RZI_B.otf,BoldSlantedFont = LinLibertine_RZ_B.otf,SlantedFont =
 . LinLibertine_R_B.otf,SlantedFeatures = {FakeSlant=0.25},BoldSlantedFeatures
 . = {FakeSlant=0.25},SmallCapsFeatures = {FakeSlant=0}].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;+liga
 ;+pnum;mapping=tex-text;"
@@ -1993,7 +1993,7 @@ Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT" at 10.95pt
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;slant
 =0;+liga;+pnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;+lig
 a;+pnum;mapping=tex-text;"
@@ -2001,7 +2001,7 @@ a;+pnum;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;slan
 t=0;+liga;+pnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'italic' (m/it) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language=DFLT;+lig
 a;+pnum;mapping=tex-text;"
@@ -2009,7 +2009,7 @@ a;+pnum;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language=DFLT;slan
 t=0;+liga;+pnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'slanted' (m/sl) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;slant
 =0.25;+liga;+pnum;mapping=tex-text;"
@@ -2017,13 +2017,13 @@ t=0;+liga;+pnum;+smcp;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;slant
 =0.25;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;language=DFLT;+li
 ga;+pnum;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'bold slanted' (bx/sl) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;slan
 t=0.25;+liga;+pnum;mapping=tex-text;"
@@ -2031,7 +2031,7 @@ t=0.25;+liga;+pnum;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;slan
 t=0.25;slant=0;+liga;+pnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 768.
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
@@ -2076,10 +2076,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 nput line 181.
 LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono.ttf(0)/m/n on input
+(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono.ttf(0)/m/n on input 
 line 182.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono.ttf(0)/m/n on input
+(Font)                  OT1/cmtt/m/n --> TU/DejaVuSansMono.ttf(0)/m/n on input 
 line 182.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 184.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
@@ -2179,182 +2179,182 @@ LaTeX Info: Redefining \not on input line 2322.
 Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchcmd with sig. '' on line 125.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretocmd with sig. '' on line 126.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptocmd with sig. '' on line 127.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowcmd with sig. '' on line 128.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchbibmacro with sig. 'm' on line 131.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretobibmacro with sig. 'm' on line 133.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptobibmacro with sig. 'm' on line 135.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowbibmacro with sig. 'm' on line 137.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchfieldformat with sig. 'O{*}m' on line 139.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretofieldformat with sig. 'O{*}m' on line 141.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptofieldformat with sig. 'O{*}m' on line 143.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowfieldformat with sig. 'O{*}m' on line 145.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchnameformat with sig. 'O{*}m' on line 147.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretonameformat with sig. 'O{*}m' on line 149.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptonameformat with sig. 'O{*}m' on line 151.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshownameformat with sig. 'O{*}m' on line 153.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchlistformat with sig. 'O{*}m' on line 155.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretolistformat with sig. 'O{*}m' on line 157.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptolistformat with sig. 'O{*}m' on line 159.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowlistformat with sig. 'O{*}m' on line 161.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchindexfieldformat with sig. 'O{*}m' on line 163.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretoindexfieldformat with sig. 'O{*}m' on line 165.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptoindexfieldformat with sig. 'O{*}m' on line 167.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowindexfieldformat with sig. 'O{*}m' on line 169.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchindexnameformat with sig. 'O{*}m' on line 171.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretoindexnameformat with sig. 'O{*}m' on line 173.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptoindexnameformat with sig. 'O{*}m' on line 175.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowindexnameformat with sig. 'O{*}m' on line 177.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchindexlistformat with sig. 'O{*}m' on line 179.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretoindexlistformat with sig. 'O{*}m' on line 181.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xappindextolistformat with sig. 'O{*}m' on line 183.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowindexlistformat with sig. 'O{*}m' on line 185.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpatchbibdriver with sig. 'm' on line 187.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xpretobibdriver with sig. 'm' on line 189.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xapptobibdriver with sig. 'm' on line 191.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
-.
+. 
 . Defining command \xshowbibdriver with sig. 'm' on line 193.
 .................................................
 )
@@ -2386,7 +2386,7 @@ Package scrkbase Info: You've told me to redefine the font selection of the
 Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX,
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/shellesc.sty
@@ -2587,9 +2587,9 @@ File: babel.def 2018/06/05 3.22 Babel common definitions
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@dirlevel=\count392
 )
-\l@canadian = a dialect from \language\l@american
-\l@australian = a dialect from \language\l@british
-\l@newzealand = a dialect from \language\l@british
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
@@ -2787,7 +2787,7 @@ fied'...
 Package biblatex Info: ... file './langsci/langsci-unified.bbx' found.
 
 (./langsci/langsci-unified.bbx
-File: biblatex-sp-unified.bbx
+File: biblatex-sp-unified.bbx 
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
@@ -2806,7 +2806,7 @@ Package biblatex Info: Trying to load citation style './langsci/langsci-unified
 Package biblatex Info: ... file './langsci/langsci-unified.cbx' found.
 
 (./langsci/langsci-unified.cbx
-File: sp-authoryear-comp.cbx
+File: sp-authoryear-comp.cbx 
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -2827,7 +2827,7 @@ Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
-File: biblatex.cfg
+File: biblatex.cfg 
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/floatrow/floatrow.sty
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
@@ -2994,7 +2994,6 @@ File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
 Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4383
@@ -3028,7 +3027,7 @@ Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
 Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring OFF on input line 6389.
 Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
@@ -3216,7 +3215,7 @@ Package: multirow 2018/08/03 v2.3 Span multiple rows of a table
 (/usr/local/texlive/2018/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
-Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
 \FV@CodeLineNo=\count560
 \FV@InFile=\read5
@@ -3586,7 +3585,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotelevel=\count606
 \@quotereset=\count607
 (./main.aux (./chapters/acknowledgments.aux) (./chapters/abbreviations.aux)
-(./chapters/glossary.aux) (./chapters/summary.aux) (./chapters/epigraph.aux)
+(./chapters/glossary.aux) (./chapters/epigraph.aux) (./chapters/summary.aux)
 (./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
 (./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
 ) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
@@ -3650,9 +3649,9 @@ LaTeX Font Info:    ... okay on input line 37.
 
 ABD: EveryShipout initializing macros
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
-an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
 loading the todonotes package. on input line 37.
 
 *geometry* driver: auto-detecting
@@ -3662,7 +3661,7 @@ loading the todonotes package. on input line 37.
 * paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside
+* modes: twoside 
 * h-part:(L,W,R)=(58.32814pt, 355.65945pt, 69.70924pt)
 * v-part:(T,H,B)=(77.96053pt, 522.96085pt, 81.94476pt)
 * \paperwidth=483.69684pt
@@ -3721,22 +3720,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
-(./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Holton2014
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                LynchEtAl2002
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./main.bbl)
 Package biblatex Info: Reference section=0 on input line 37.
 Package biblatex Info: Reference segment=0 on input line 37.
 Package caption Info: Begin \AtBeginDocument code.
@@ -3758,8 +3742,8 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \flrow@LT@prelastfoot=\box131
 \c@FBLTpage=\count608
 )
-\AtBeginShipoutBox=\box136
-Package hyperref Info: Link coloring ON on input line 37.
+\AtBeginShipoutBox=\box132
+Package hyperref Info: Link coloring OFF on input line 37.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3774,24 +3758,16 @@ LaTeX Info: Redefining \pageref on input line 37.
 LaTeX Info: Redefining \nameref on input line 37.
 
 (./main.out) (./main.out)
-\@outlinefile=\write10
-\openout10 = `main.out'.
+\@outlinefile=\write11
+\openout11 = `main.out'.
 
-Class scrbook Info: loading recommended package `bookmark'.
-(scrbook)           Using `bookmark' together with `hyperref' is recommended,
-(scrbook)           because of handling of possible bookmark level gaps.
-(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
-(scrbook)           `bookmarkpackage=false' before \begin{document} and
-(scrbook)           you can avoid this message with `\usepackage{bookmark}'
-(scrbook)           before \begin{document} on input line 37.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
-Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/bkm-dvipdfm.def
-File: bkm-dvipdfm.def 2016/05/17 v1.26 bookmark driver for dvipdfm (HO)
-\BKM@id=\count611
-))
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
+your preamble.
+ on input line 37.
+
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 51.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -3808,22 +3784,22 @@ Requested font "[./langsci/fonts/Arimo_B.ttf]/OT" at 51.0pt
  -> ./langsci/fonts/Arimo_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120073121670112.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.9564116011912216.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120073121670112.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.9564116011912216.
 .................................................
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
@@ -3835,64 +3811,64 @@ Requested font "[./langsci/fonts/Arimo-Bold_B.ttf]/OT" at 51.0pt
  -> ./langsci/fonts/Arimo-Bold_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-Bold_B scale = 0.8120073121670112.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-Bold_B scale = 0.9564116011912216.
 .................................................
 Requested font "[./langsci/fonts/Arimo-Italic_B.ttf]/OT" at 51.0pt
  -> ./langsci/fonts/Arimo-Italic_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-Italic_B scale = 0.8120073121670112.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-Italic_B scale = 0.9564116011912216.
 .................................................
 Requested font "[./langsci/fonts/Arimo-BoldItalic_B.ttf]/OT" at 51.0pt
  -> ./langsci/fonts/Arimo-BoldItalic_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-BoldItalic_B scale = 0.8120073121670112.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo-BoldItalic_B scale = 0.9564116011912216.
 .................................................
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'Arimo_B.ttf(1)' created for font 'Arimo_B.ttf' with options
 . [Ligatures=TeX,Scale=MatchLowercase,Path=./langsci/fonts/,BoldFont =
 . Arimo-Bold_B.ttf,ItalicFont = Arimo-Italic_B.ttf,BoldItalicFont =
 . Arimo-BoldItalic_B.ttf,Scale=MatchUppercase].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->s*[0.9564116011912216]"[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.:
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->s*[0.9564116011912216]"[./langsci/fonts/Arimo-Bold_B.ttf]/OT:script=latn;l
 anguage=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
 . <->s*[0.9564116011912216]"[./langsci/fonts/Arimo-Italic_B.ttf]/OT:script=latn
 ;language=DFLT;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->s*[0.9564116011912216]"[./langsci/fonts/Arimo-BoldItalic_B.ttf]/OT:script=
 latn;language=DFLT;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
 (Font)              scaled to size 48.77669pt on input line 38.
@@ -3916,21 +3892,6 @@ LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
 (Font)              scaled to size 13.8042pt on input line 38.
 Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
 ing=tex-text;" at 13.8042pt
- -> ./langsci/fonts/Arimo_B.ttf
-.................................................
-. fontspec info: "set-scale"
-.
-. Arimo_B scale = 0.8120079233408858.
-.................................................
-.................................................
-. fontspec info: "set-scale"
-.
-. Arimo_B scale = 0.9564119235264212.
-.................................................
-LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
-(Font)              scaled to size 10.47263pt on input line 38.
-Requested font "[./langsci/fonts/Arimo_B.ttf]/OT:script=latn;language=DFLT;mapp
-ing=tex-text;" at 10.47263pt
  -> ./langsci/fonts/Arimo_B.ttf
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -3972,12 +3933,12 @@ ing=tex-text;" at 7.3081pt
 
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120073121670112.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.9564116011912216.
 .................................................
 File: ./langsci/graphics/langsci_logo_nocolor.pdf Graphic file (type pdf)
@@ -4016,9 +3977,9 @@ Requested font "ntxexx" at 10.95pt
 Requested font "ntxexx" at 8.0pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 Requested font "ntxexx" at 6.1pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
+ -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm
 LaTeX Font Info:    Try loading font information for U+msa on input line 38.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 Requested font "msam10" at 10.95pt
@@ -4064,7 +4025,7 @@ Requested font "nxlmia" at 8.0pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
 Requested font "nxlmia" at 6.1pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/nxlmia.tfm
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 37.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 38.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxsym.fd
@@ -4075,7 +4036,7 @@ Requested font "ntxsym" at 10.95pt
 Requested font "ntxsym" at 8.0pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 Requested font "ntxsym" at 6.1pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
+ -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm
 LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 38.
 
 
@@ -4093,7 +4054,7 @@ Requested font "ntxexa" at 10.95pt
 Requested font "ntxexa" at 8.0pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 Requested font "ntxexa" at 6.1pt
- -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
+ -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 File: ./langsci/graphics//ccby.eps Graphic file (type eps)
 <./langsci/graphics//ccby.eps>
 File: ./langsci/graphics/storagelogo.pdf Graphic file (type pdf)
@@ -4129,16 +4090,12 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 Package tocbasic Info: character protrusion at toc deactivated on input line 41
 .
  (./main.toc
-Overfull \hbox (0.76648pt too wide) detected at line 10
- []\TU/LinLibertine_R_B.otf(0)/bx/n/10.95 xvii|
- []
-
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-[1
+ [1
 
 
 ] (./main.mw)
@@ -4146,8 +4103,8 @@ DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
- [][] [][][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Van Staden/Reesink: Independe
-nt, dependent, co-
+ [][] [][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Van Staden/Reesink: Independent
+, dependent, co- 
  []
 
 \openout3 = `main.mw'.
@@ -4202,7 +4159,7 @@ Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT" at 9.0pt
  -> ./langsci/fonts/LinLibertine_RZI_B.otf
 .................................................
 . fontspec info: "defining-font"
-.
+. 
 . Font family 'LinLibertine_R_B.otf(1)' created for font
 . 'LinLibertine_R_B.otf' with options
 . [Ligatures=TeX,Ligatures={TeX,Common},Path=./langsci/fonts/,PunctuationSpace=
@@ -4211,9 +4168,9 @@ Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT" at 9.0pt
 . LinLibertine_RZI_B.otf,BoldSlantedFont = LinLibertine_RZ_B.otf,SlantedFont =
 . LinLibertine_R_B.otf,SlantedFeatures = {FakeSlant=0.25},BoldSlantedFeatures
 . = {FakeSlant=0.25},SmallCapsFeatures = {FakeSlant=0},Numbers=Lining].
-.
+.  
 .  This font family consists of the following NFSS series/shapes:
-.
+.  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;+liga
 ;+pnum;+lnum;mapping=tex-text;"
@@ -4221,7 +4178,7 @@ Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT" at 9.0pt
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;slant
 =0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;+lig
 a;+pnum;+lnum;mapping=tex-text;"
@@ -4229,7 +4186,7 @@ a;+pnum;+lnum;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;slan
 t=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'italic' (m/it) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language=DFLT;+lig
 a;+pnum;+lnum;mapping=tex-text;"
@@ -4237,7 +4194,7 @@ a;+pnum;+lnum;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language=DFLT;slan
 t=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'slanted' (m/sl) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;slant
 =0.25;+liga;+pnum;+lnum;mapping=tex-text;"
@@ -4245,13 +4202,13 @@ t=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=DFLT;slant
 =0.25;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;language=DFLT;+li
 ga;+pnum;+lnum;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 . - 'bold slanted' (bx/sl) with NFSS spec.:
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;slan
 t=0.25;+liga;+pnum;+lnum;mapping=tex-text;"
@@ -4259,7 +4216,7 @@ t=0.25;+liga;+pnum;+lnum;mapping=tex-text;"
 . <->"[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language=DFLT;slan
 t=0.25;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;"
 . and font adjustment code:
-. \fontdimen 7\font =0\fontdimen 7\font
+. \fontdimen 7\font =0\fontdimen 7\font 
 .................................................
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
@@ -4453,6 +4410,29 @@ i-verb construction consisting of a
  [16] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `chapters/epigraph.aux'.
+
+ (./chapters/epigraph.tex
+\openout3 = `main.mw'.
+
+ [17
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[18
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+)
 \openout2 = `chapters/summary.aux'.
 
  (./chapters/summary.tex
@@ -4462,7 +4442,9 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
-[17
+[1
+
+
 
 
 
@@ -4472,87 +4454,66 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
- [18] (./main.mw)
+ [2] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [19] (./main.mw)
+ [3] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [20] (./main.mw)
+ [4] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [21]
-(./main.mw)
+ [5] (./main.mw)
 \openout3 = `main.mw'.
 
 
 Overfull \hbox (0.64993pt too wide) in paragraph at lines 37--38
 []\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Lexical decomposition is another semant
-ic approach that proves useful in MVC|
+ic approach that proves useful in MVC
  []
 
 \openout3 = `main.mw'.
 
-[22] (./main.mw)
+[6] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [23] (./main.mw)
-\openout3 = `main.mw'.
-
-)
-\openout3 = `main.mw'.
-
- [24] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [25] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [26
-
-
-
-]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout2 = `chapters/epigraph.aux'.
-
- (./chapters/epigraph.tex
-\openout3 = `main.mw'.
-
- [1
-
-
-
-] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [2
-
-
-] (./main.mw)
+ [7] (./main.mw)
 \openout3 = `main.mw'.
 
 )
+\openout3 = `main.mw'.
+
+ [8] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [9] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout2 = `chapters/01_Introduction.aux'.
 
 
 (./chapters/01_Introduction.tex
+\openout3 = `main.mw'.
+
+ [10
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
 chapter 1.
 File: figures/mehoy.eps Graphic file (type eps)
 <figures/mehoy.eps>
@@ -4581,76 +4542,7 @@ Requested font "ntxexa" at 10.0pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 \openout3 = `main.mw'.
 
-[3
-
-
-
-
-] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [4] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [5] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [6] (./main.mw)
-\openout3 = `main.mw'.
-
-File: figures/languages_overview.pdf Graphic file (type pdf)
-<use figures/languages_overview.pdf>
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 50.
-
-Overfull \hbox (12.81715pt too wide) in paragraph at lines 50--50
-[][][][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 inconsistent |
- []
-
-
-Overfull \hbox (12.81715pt too wide) in paragraph at lines 50--50
-[][][][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 inconsistent |
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
-[7] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [8] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [9] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [10] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
-e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_RZI_B.otf
-\openout3 = `main.mw'.
-
- [11]
-(./main.mw)
+[11] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4668,18 +4560,25 @@ e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
  [14] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_overview.pdf Graphic file (type pdf)
+<use figures/languages_overview.pdf>
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
- [15] (./main.mw)
+ [15]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[16] (./main.mw)
+ [16] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_subareas.pdf Graphic file (type pdf)
-<use figures/languages_subareas.pdf>
 \openout3 = `main.mw'.
 
  [17] (./main.mw)
@@ -4688,6 +4587,52 @@ File: figures/languages_subareas.pdf Graphic file (type pdf)
 \openout3 = `main.mw'.
 
  [18] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
+e=DFLT;+liga;+pnum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RZI_B.otf
+\openout3 = `main.mw'.
+
+ [19] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[20] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [21] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [22] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [23] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [24]
+(./main.mw)
+\openout3 = `main.mw'.
+
+File: figures/languages_subareas.pdf Graphic file (type pdf)
+<use figures/languages_subareas.pdf>
+\openout3 = `main.mw'.
+
+ [25] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [26] (./main.mw)
 \openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
@@ -4715,18 +4660,18 @@ Requested font "ntxexa" at 6.2pt
  -> /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm
 
 Overfull \hbox (6.24527pt too wide) in paragraph at lines 227--286
- [][] |
+ [][] 
  []
 
 )
 \openout3 = `main.mw'.
 
- [19] (./main.mw)
+ [27] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [20] (./main.mw)
+ [28] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout2 = `chapters/02_Eastern_Indonesia.aux'.
@@ -4735,7 +4680,7 @@ Overfull \hbox (6.24527pt too wide) in paragraph at lines 227--286
 chapter 2.
 \openout3 = `main.mw'.
 
-[21
+[29
 
 
 
@@ -4747,12 +4692,12 @@ File: figures/Wallacea2.eps Graphic file (type eps)
 <figures/Wallacea2.eps>
 \openout3 = `main.mw'.
 
- [22] (./main.mw)
+ [30] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [23] (./main.mw)
+ [31] (./main.mw)
 \openout3 = `main.mw'.
 
 File: figures/languages_aff_aus.pdf Graphic file (type pdf)
@@ -4762,72 +4707,22 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
- [24] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [25]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [26] (./main.mw)
-\openout3 = `main.mw'.
-
-File: figures/languages_aff_pap.pdf Graphic file (type pdf)
-<use figures/languages_aff_pap.pdf>
-\openout3 = `main.mw'.
-
- [27] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [28] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [29] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-\openout3 = `main.mw'.
-
-[30] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [31] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
  [32] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [33] (./main.mw)
+ [33]
+(./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: File `figures/languages_preposed possessor-1.pdf' not found on i
-nput line 164.
-
-File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
-<use figures/languages_preposed possessor-1.pdf>
 \openout3 = `main.mw'.
 
-[34] (./main.mw)
+ [34] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_aff_pap.pdf Graphic file (type pdf)
+<use figures/languages_aff_pap.pdf>
 \openout3 = `main.mw'.
 
  [35] (./main.mw)
@@ -4843,10 +4738,12 @@ File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
  [37] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
- [38]
-(./main.mw)
+[38] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4864,14 +4761,21 @@ File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
  [41] (./main.mw)
 \openout3 = `main.mw'.
 
+
+
+LaTeX Warning: File `figures/languages_preposed possessor-1.pdf' not found on i
+nput line 164.
+
+File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
+<use figures/languages_preposed possessor-1.pdf>
 \openout3 = `main.mw'.
 
- [42] (./main.mw)
+[42] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[43] (./main.mw)
+ [43] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4884,20 +4788,10 @@ File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
  [45] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
-
-Overfull \hbox (21.7541pt too wide) in paragraph at lines 388--388
- []|[][][][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Himmelmann |
- []
-
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
-[46] (./main.mw)
+ [46]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4905,8 +4799,6 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  [47] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
-<use figures/languages_Sulawesi.pdf>
 \openout3 = `main.mw'.
 
  [48] (./main.mw)
@@ -4919,13 +4811,12 @@ File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
 
 \openout3 = `main.mw'.
 
- [50]
-(./main.mw)
+ [50] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [51] (./main.mw)
+[51] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4933,16 +4824,70 @@ File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
  [52] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Nusa.pdf Graphic file (type pdf)
-<use figures/languages_Nusa.pdf>
 \openout3 = `main.mw'.
 
  [53] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+
+Overfull \hbox (6.12018pt too wide) in paragraph at lines 388--388
+ []|[][][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Himmelmann 
+ []
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
- [54] (./main.mw)
+[54] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [55] (./main.mw)
+\openout3 = `main.mw'.
+
+File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
+<use figures/languages_Sulawesi.pdf>
+\openout3 = `main.mw'.
+
+ [56] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [57] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [58]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [59] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [60] (./main.mw)
+\openout3 = `main.mw'.
+
+File: figures/languages_Nusa.pdf Graphic file (type pdf)
+<use figures/languages_Nusa.pdf>
+\openout3 = `main.mw'.
+
+ [61] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [62] (./main.mw)
 \openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
@@ -4962,59 +4907,7 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
-[55] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [56] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [57] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [58] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (0.11523pt too wide) in paragraph at lines 633--634
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 clauses is more straightforward in []Teiw
-a than in other TAP languages: There is no|
- []
-
-\openout3 = `main.mw'.
-
-[59] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [60] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [61] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-\openout3 = `main.mw'.
-
-[62] (./main.mw)
-\openout3 = `main.mw'.
-
-File: figures/languages_Maluku.pdf Graphic file (type pdf)
-<use figures/languages_Maluku.pdf>
-\openout3 = `main.mw'.
-
- [63] (./main.mw)
+[63] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5029,20 +4922,20 @@ File: figures/languages_Maluku.pdf Graphic file (type pdf)
 
 \openout3 = `main.mw'.
 
- [66]
-(./main.mw)
+ [66] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
+
+Overfull \hbox (0.11523pt too wide) in paragraph at lines 633--634
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 clauses is more straightforward in []Teiw
+a than in other TAP languages: There is no
+ []
+
 \openout3 = `main.mw'.
 
- [67] (./main.mw)
+[67] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Papua.pdf Graphic file (type pdf)
-<use figures/languages_Papua.pdf>
 \openout3 = `main.mw'.
 
  [68] (./main.mw)
@@ -5053,14 +4946,20 @@ File: figures/languages_Papua.pdf Graphic file (type pdf)
  [69] (./main.mw)
 \openout3 = `main.mw'.
 
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 \openout3 = `main.mw'.
 
- [70] (./main.mw)
+[70] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_Maluku.pdf Graphic file (type pdf)
+<use figures/languages_Maluku.pdf>
 \openout3 = `main.mw'.
 
-[71] (./main.mw)
+ [71] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5073,52 +4972,36 @@ File: figures/languages_Papua.pdf Graphic file (type pdf)
  [73] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (1.28317pt too wide) in paragraph at lines 908--909
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 markers developed from verbs. Serialisati
-on seems quite pervasive although there|
- []
-
 \openout3 = `main.mw'.
 
-[74] (./main.mw)
+ [74]
+(./main.mw)
 \openout3 = `main.mw'.
 
-)
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [75] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout2 = `chapters/03_Setting_the_scene.aux'.
-
- (./chapters/03_Setting_the_scene.tex
+File: figures/languages_Papua.pdf Graphic file (type pdf)
+<use figures/languages_Papua.pdf>
 \openout3 = `main.mw'.
 
-
-[76
-
-
-
-
-] (./main.mw)
+ [76] (./main.mw)
 \openout3 = `main.mw'.
 
-
-chapter 3.
 \openout3 = `main.mw'.
 
-[77] (./main.mw)
+ [77] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
  [78] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Float too large for page by 4.35023pt on input line 64.
 
 \openout3 = `main.mw'.
 
@@ -5135,31 +5018,42 @@ LaTeX Warning: Float too large for page by 4.35023pt on input line 64.
  [81] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
- [82] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [83]
-(./main.mw)
-\openout3 = `main.mw'.
+Overfull \hbox (1.28317pt too wide) in paragraph at lines 908--909
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 markers developed from verbs. Serialisati
+on seems quite pervasive although there
+ []
 
 \openout3 = `main.mw'.
 
- [84] (./main.mw)
+[82] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
+)
 \openout3 = `main.mw'.
 
- [85] (./main.mw)
+ [83] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/03_Setting_the_scene.aux'.
+
+ (./chapters/03_Setting_the_scene.tex
+\openout3 = `main.mw'.
+
+
+[84
+
+
+
+
+] (./main.mw)
+\openout3 = `main.mw'.
+
+
+chapter 3.
+\openout3 = `main.mw'.
+
+[85] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5167,14 +5061,18 @@ DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
  [86] (./main.mw)
 \openout3 = `main.mw'.
 
+
+
+LaTeX Warning: Float too large for page by 4.35023pt on input line 64.
+
 \openout3 = `main.mw'.
 
- [87] (./main.mw)
+[87] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[88] (./main.mw)
+ [88] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5189,24 +5087,24 @@ DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
 
 \openout3 = `main.mw'.
 
- [91] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [92]
+ [91]
 (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (0.26302pt too wide) in paragraph at lines 247--248
-[]\TU/LinLibertine_R_B.otf(0)/m/sc/10.95 shared operator value\TU/LinLibertine_
-R_B.otf(0)/m/n/10.95 . If grammatical operators such as tense, aspect, mood,|
- []
-
 \openout3 = `main.mw'.
 
-[93] (./main.mw)
+ [92] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 6.1pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [93] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5219,19 +5117,14 @@ R_B.otf(0)/m/n/10.95 . If grammatical operators such as tense, aspect, mood,|
  [95] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/pearOniLATCH.eps Graphic file (type eps)
-<figures/pearOniLATCH.eps>
-File: figures/pearJohnHESIT.eps Graphic file (type eps)
-<figures/pearJohnHESIT.eps>
 \openout3 = `main.mw'.
 
- [96] (./main.mw)
+[96] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [97]
-(./main.mw)
+ [97] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5246,13 +5139,19 @@ File: figures/pearJohnHESIT.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
- [100] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [101]
+ [100]
 (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.26302pt too wide) in paragraph at lines 247--248
+[]\TU/LinLibertine_R_B.otf(0)/m/sc/10.95 shared operator value\TU/LinLibertine_
+R_B.otf(0)/m/n/10.95 . If grammatical operators such as tense, aspect, mood,
+ []
+
+\openout3 = `main.mw'.
+
+[101] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5265,6 +5164,10 @@ File: figures/pearJohnHESIT.eps Graphic file (type eps)
  [103] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/pearOniLATCH.eps Graphic file (type eps)
+<figures/pearOniLATCH.eps>
+File: figures/pearJohnHESIT.eps Graphic file (type eps)
+<figures/pearJohnHESIT.eps>
 \openout3 = `main.mw'.
 
  [104] (./main.mw)
@@ -5272,8 +5175,8 @@ File: figures/pearJohnHESIT.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
- [105]
-(./main.mw)
+
+[105] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5293,8 +5196,8 @@ File: figures/pearJohnHESIT.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
- [109]
-(./main.mw)
+
+[109] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5307,19 +5210,15 @@ File: figures/pearJohnHESIT.eps Graphic file (type eps)
  [111] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--512
-
- []
-
 \openout3 = `main.mw'.
 
-[112] (./main.mw)
+ [112] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [113] (./main.mw)
+
+[113] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5334,13 +5233,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 512--512
 
 \openout3 = `main.mw'.
 
-
-[116] (./main.mw)
+ [116] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [117] (./main.mw)
+
+[117] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5353,8 +5252,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 512--512
  [119] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Underfull \hbox (badness 10000) in paragraph at lines 512--512
+
+ []
+
+\openout3 = `main.mw'.
 
 [120] (./main.mw)
 \openout3 = `main.mw'.
@@ -5411,20 +5314,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 512--512
  [130] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (1.11346pt too wide) in paragraph at lines 836--837
-[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 more than one verboid element predicati
-ng lexical content and selecting/as-|
- []
-
 \openout3 = `main.mw'.
 
-[131] (./main.mw)
+ [131] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [132] (./main.mw)
+
+[132] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5439,13 +5337,13 @@ ng lexical content and selecting/as-|
 
 \openout3 = `main.mw'.
 
-
-[135] (./main.mw)
+ [135] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [136] (./main.mw)
+
+[136] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5458,8 +5356,13 @@ ng lexical content and selecting/as-|
  [138] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Overfull \hbox (1.11346pt too wide) in paragraph at lines 836--837
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 more than one verboid element predicati
+ng lexical content and selecting/as-
+ []
+
+\openout3 = `main.mw'.
 
 [139] (./main.mw)
 \openout3 = `main.mw'.
@@ -5495,30 +5398,17 @@ ng lexical content and selecting/as-|
  [145] (./main.mw)
 \openout3 = `main.mw'.
 
-)
 \openout3 = `main.mw'.
 
  [146] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout2 = `chapters/04_Grammatical_properties.aux'.
-
-
-(./chapters/04_Grammatical_properties.tex
-chapter 4.
 \openout3 = `main.mw'.
 
-[147
 
-
-
-
-] (./main.mw)
+[147] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [148] (./main.mw)
@@ -5550,28 +5440,30 @@ DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
  [153] (./main.mw)
 \openout3 = `main.mw'.
 
+)
 \openout3 = `main.mw'.
 
  [154] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `chapters/04_Grammatical_properties.aux'.
 
-Underfull \hbox (badness 1502) in paragraph at lines 151--151
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 different subject (object-
- []
 
-Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_RI_B.otf
+(./chapters/04_Grammatical_properties.tex
+chapter 4.
 \openout3 = `main.mw'.
 
-[155] (./main.mw)
+[155
+
+
+
+
+] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/Referentiality_Family.eps Graphic file (type eps)
-<figures/Referentiality_Family.eps>
-File: figures/Referentiality_Group.eps Graphic file (type eps)
-<figures/Referentiality_Group.eps>
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [156] (./main.mw)
@@ -5582,23 +5474,15 @@ File: figures/Referentiality_Group.eps Graphic file (type eps)
  [157] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 1303) in paragraph at lines 242--242
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 4.5[][]: []|Argument structure int
-eraction per language. S = Co-
- []
-
-
-LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
-
 \openout3 = `main.mw'.
 
-[158] (./main.mw)
+ [158] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [159] (./main.mw)
+
+[159] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5613,15 +5497,26 @@ LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
 
 \openout3 = `main.mw'.
 
-
-[162] (./main.mw)
+ [162] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Underfull \hbox (badness 1502) in paragraph at lines 151--151
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 different subject (object-
+ []
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
- [163] (./main.mw)
+[163] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Referentiality_Family.eps Graphic file (type eps)
+<figures/Referentiality_Family.eps>
+File: figures/Referentiality_Group.eps Graphic file (type eps)
+<figures/Referentiality_Group.eps>
 \openout3 = `main.mw'.
 
  [164] (./main.mw)
@@ -5632,8 +5527,16 @@ LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
  [165] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Underfull \hbox (badness 1303) in paragraph at lines 242--242
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 4.5[][]: []|Argument structure int
+eraction per language. S = Co-
+ []
+
+
+LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
+
+\openout3 = `main.mw'.
 
 [166] (./main.mw)
 \openout3 = `main.mw'.
@@ -5680,19 +5583,9 @@ LaTeX Warning: Float too large for page by 23.87033pt on input line 244.
 [174] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 2277) in paragraph at lines 570--570
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Properties of the NP deter-
- []
-
-
-Underfull \hbox (badness 2689) in paragraph at lines 570--570
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Phonological factors delimit
- []
-
 \openout3 = `main.mw'.
 
-[175] (./main.mw)
+ [175] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5707,13 +5600,13 @@ Underfull \hbox (badness 2689) in paragraph at lines 570--570
 
 \openout3 = `main.mw'.
 
- [178] (./main.mw)
+
+[178] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[179] (./main.mw)
+ [179] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5726,28 +5619,30 @@ Underfull \hbox (badness 2689) in paragraph at lines 570--570
  [181] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/Headedness_Family.eps Graphic file (type eps)
-<figures/Headedness_Family.eps>
-File: figures/Headedness_Group.eps Graphic file (type eps)
-<figures/Headedness_Group.eps>
 \openout3 = `main.mw'.
 
- [182] (./main.mw)
+
+[182] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Underfull \hbox (badness 2277) in paragraph at lines 570--570
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Properties of the NP deter-
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 570--570
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Phonological factors delimit
+ []
+
+\openout3 = `main.mw'.
 
 [183] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Float too large for page by 22.73038pt on input line 774.
-
 \openout3 = `main.mw'.
 
-[184] (./main.mw)
+ [184] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5762,13 +5657,13 @@ LaTeX Warning: Float too large for page by 22.73038pt on input line 774.
 
 \openout3 = `main.mw'.
 
- [187] (./main.mw)
+
+[187] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[188] (./main.mw)
+ [188] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5776,6 +5671,10 @@ LaTeX Warning: Float too large for page by 22.73038pt on input line 774.
  [189] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/Headedness_Family.eps Graphic file (type eps)
+<figures/Headedness_Family.eps>
+File: figures/Headedness_Group.eps Graphic file (type eps)
+<figures/Headedness_Group.eps>
 \openout3 = `main.mw'.
 
  [190] (./main.mw)
@@ -5783,31 +5682,22 @@ LaTeX Warning: Float too large for page by 22.73038pt on input line 774.
 
 \openout3 = `main.mw'.
 
- [191] (./main.mw)
+
+[191] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (0.98212pt too wide) in paragraph at lines 915--916
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 verbs are placed in clause-initial positi
-on framed by one or more person indexer(s)|
- []
+
+LaTeX Warning: Float too large for page by 22.73038pt on input line 774.
 
 \openout3 = `main.mw'.
 
 [192] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/Contiguity_Family.eps Graphic file (type eps)
-<figures/Contiguity_Family.eps>
-File: figures/Contiguity_Group.eps Graphic file (type eps)
-<figures/Contiguity_Group.eps>
-
-
-LaTeX Warning: Float too large for page by 13.13034pt on input line 1009.
-
 \openout3 = `main.mw'.
 
-[193] (./main.mw)
+ [193] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5822,13 +5712,13 @@ LaTeX Warning: Float too large for page by 13.13034pt on input line 1009.
 
 \openout3 = `main.mw'.
 
- [196] (./main.mw)
+
+[196] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-[197] (./main.mw)
+ [197] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5841,35 +5731,38 @@ LaTeX Warning: Float too large for page by 13.13034pt on input line 1009.
  [199] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Overfull \hbox (0.98212pt too wide) in paragraph at lines 916--917
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 verbs are placed in clause-initial positi
+on framed by one or more person indexer(s)
+ []
+
 \openout3 = `main.mw'.
 
- [200] (./main.mw)
+[200] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
+File: figures/Contiguity_Family.eps Graphic file (type eps)
+<figures/Contiguity_Family.eps>
+File: figures/Contiguity_Group.eps Graphic file (type eps)
+<figures/Contiguity_Group.eps>
 
+
+LaTeX Warning: Float too large for page by 13.13034pt on input line 1010.
+
+\openout3 = `main.mw'.
 
 [201] (./main.mw)
 \openout3 = `main.mw'.
 
-)
 \openout3 = `main.mw'.
 
  [202] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout2 = `chapters/05_Semantic_properties.aux'.
-
- (./chapters/05_Semantic_properties.tex
-chapter 5.
 \openout3 = `main.mw'.
 
-[203
-
-
-
-
-] (./main.mw)
+ [203] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5879,7 +5772,8 @@ chapter 5.
 
 \openout3 = `main.mw'.
 
- [205] (./main.mw)
+
+[205] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5889,8 +5783,7 @@ chapter 5.
 
 \openout3 = `main.mw'.
 
-
-[207] (./main.mw)
+ [207] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5900,18 +5793,28 @@ chapter 5.
 
 \openout3 = `main.mw'.
 
- [209] (./main.mw)
+
+[209] (./main.mw)
 \openout3 = `main.mw'.
 
+)
 \openout3 = `main.mw'.
 
  [210] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `chapters/05_Semantic_properties.aux'.
+
+ (./chapters/05_Semantic_properties.tex
+chapter 5.
 \openout3 = `main.mw'.
 
+[211
 
-[211] (./main.mw)
+
+
+
+] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5971,8 +5874,6 @@ chapter 5.
  [222] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/eventschemav2.eps Graphic file (type eps)
-<figures/eventschemav2.eps>
 \openout3 = `main.mw'.
 
 
@@ -5994,8 +5895,6 @@ File: figures/eventschemav2.eps Graphic file (type eps)
  [226] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/eventschemamod.eps Graphic file (type eps)
-<figures/eventschemamod.eps>
 \openout3 = `main.mw'.
 
 
@@ -6017,6 +5916,8 @@ File: figures/eventschemamod.eps Graphic file (type eps)
  [230] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/eventschemav2.eps Graphic file (type eps)
+<figures/eventschemav2.eps>
 \openout3 = `main.mw'.
 
 
@@ -6038,6 +5939,8 @@ File: figures/eventschemamod.eps Graphic file (type eps)
  [234] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/eventschemamod.eps Graphic file (type eps)
+<figures/eventschemamod.eps>
 \openout3 = `main.mw'.
 
 
@@ -6075,24 +5978,13 @@ File: figures/eventschemamod.eps Graphic file (type eps)
  [241] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [242] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (0.305pt too wide) in paragraph at lines 705--706
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 they either take states or activities as
-their base. The derivation process of achieve-|
- []
-
 \openout3 = `main.mw'.
+
 
 [243] (./main.mw)
 \openout3 = `main.mw'.
@@ -6107,9 +5999,6 @@ their base. The derivation process of achieve-|
  [245] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [246] (./main.mw)
@@ -6126,21 +6015,29 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  [248] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [249] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [250] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Overfull \hbox (0.305pt too wide) in paragraph at lines 705--706
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 they either take states or activities as 
+their base. The derivation process of achieve-
+ []
+
+\openout3 = `main.mw'.
 
 [251] (./main.mw)
 \openout3 = `main.mw'.
@@ -6150,14 +6047,14 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  [252] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [253] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [254] (./main.mw)
@@ -6174,24 +6071,23 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  [256] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
  [257] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (3.73653pt too wide) in paragraph at lines 1049--1064
- [][] |
- []
-
 \openout3 = `main.mw'.
 
-[258] (./main.mw)
+ [258] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [259] (./main.mw)
+
+[259] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6199,14 +6095,12 @@ Overfull \hbox (3.73653pt too wide) in paragraph at lines 1049--1064
  [260] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
- [][] |
- []
-
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;mapping=tex-text;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
-[261] (./main.mw)
+ [261] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6216,7 +6110,8 @@ Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
 
 \openout3 = `main.mw'.
 
- [263] (./main.mw)
+
+[263] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6226,13 +6121,17 @@ Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
 
 \openout3 = `main.mw'.
 
-
-[265] (./main.mw)
+ [265] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Overfull \hbox (3.73653pt too wide) in paragraph at lines 1049--1064
+ [][] 
+ []
+
 \openout3 = `main.mw'.
 
- [266] (./main.mw)
+[266] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6245,11 +6144,57 @@ Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
  [268] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
+ [][] 
+ []
+
+\openout3 = `main.mw'.
+
+[269] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [270] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [271] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [272] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[273] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [274] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [275] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [276] (./main.mw)
+\openout3 = `main.mw'.
+
 )
 \openout3 = `main.mw'.
 
 
-[269] (./main.mw)
+[277] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout2 = `chapters/06_Construction_types.aux'.
@@ -6257,7 +6202,7 @@ Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
  (./chapters/06_Construction_types.tex
 \openout3 = `main.mw'.
 
- [270
+ [278
 
 
 
@@ -6268,48 +6213,6 @@ Overfull \hbox (3.09053pt too wide) in paragraph at lines 1084--1114
 
 chapter 6.
 \openout3 = `main.mw'.
-
-[271] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [272] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [273] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [274] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-[275] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [276] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [277] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [278] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
 
 [279] (./main.mw)
 \openout3 = `main.mw'.
@@ -6329,23 +6232,8 @@ chapter 6.
  [282] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/Type_Family.eps Graphic file (type eps)
-<figures/Type_Family.eps>
-
-Underfull \hbox (badness 1062) in paragraph at lines 191--191
-\TU/LinLibertine_R_B.otf(0)/m/n/10 component-relating constructions, SREL = sta
-ge-relating construc-
- []
-
-File: figures/Type_Group.eps Graphic file (type eps)
-<figures/Type_Group.eps>
-
-Underfull \hbox (badness 1259) in paragraph at lines 195--195
-\TU/LinLibertine_R_B.otf(0)/m/n/10 modifying constructions, FJUX = free juxtapo
-sition constructions.
- []
-
 \openout3 = `main.mw'.
+
 
 [283] (./main.mw)
 \openout3 = `main.mw'.
@@ -6376,10 +6264,6 @@ sition constructions.
  [288] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/CREL_Family.eps Graphic file (type eps)
-<figures/CREL_Family.eps>
-File: figures/CREL_Group.eps Graphic file (type eps)
-<figures/CREL_Group.eps>
 \openout3 = `main.mw'.
 
  [289] (./main.mw)
@@ -6390,8 +6274,23 @@ File: figures/CREL_Group.eps Graphic file (type eps)
  [290] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
+File: figures/Type_Family.eps Graphic file (type eps)
+<figures/Type_Family.eps>
 
+Underfull \hbox (badness 1062) in paragraph at lines 191--191
+\TU/LinLibertine_R_B.otf(0)/m/n/10 component-relating constructions, SREL = sta
+ge-relating construc-
+ []
+
+File: figures/Type_Group.eps Graphic file (type eps)
+<figures/Type_Group.eps>
+
+Underfull \hbox (badness 1259) in paragraph at lines 195--195
+\TU/LinLibertine_R_B.otf(0)/m/n/10 modifying constructions, FJUX = free juxtapo
+sition constructions.
+ []
+
+\openout3 = `main.mw'.
 
 [291] (./main.mw)
 \openout3 = `main.mw'.
@@ -6406,15 +6305,6 @@ File: figures/CREL_Group.eps Graphic file (type eps)
  [293] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 7.3pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 5.5pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [294] (./main.mw)
@@ -6431,6 +6321,10 @@ DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
  [296] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/CREL_Family.eps Graphic file (type eps)
+<figures/CREL_Family.eps>
+File: figures/CREL_Group.eps Graphic file (type eps)
+<figures/CREL_Group.eps>
 \openout3 = `main.mw'.
 
  [297] (./main.mw)
@@ -6457,6 +6351,15 @@ DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
  [301] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 7.3pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 5.5pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
  [302] (./main.mw)
@@ -6504,13 +6407,8 @@ DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 5.5pt
  [310] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (3.15472pt too wide) in paragraph at lines 845--846
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 ([]Waima’a, []Sougb), recipient arguments
- ([]Alorese, []Dusner, []Mpur), an adverb ([]Wooi),|
- []
-
 \openout3 = `main.mw'.
+
 
 [311] (./main.mw)
 \openout3 = `main.mw'.
@@ -6530,10 +6428,6 @@ Overfull \hbox (3.15472pt too wide) in paragraph at lines 845--846
  [314] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/MOD_Family.eps Graphic file (type eps)
-<figures/MOD_Family.eps>
-File: figures/MOD_Group.eps Graphic file (type eps)
-<figures/MOD_Group.eps>
 \openout3 = `main.mw'.
 
 
@@ -6550,20 +6444,20 @@ File: figures/MOD_Group.eps Graphic file (type eps)
  [317] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-Overfull \hbox (1.31787pt too wide) in paragraph at lines 1039--1040
-[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 The following sections turn to the diff
-erent functional groups introduced above,|
+ [318] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (3.15472pt too wide) in paragraph at lines 845--846
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 ([]Waima’a, []Sougb), recipient arguments
+ ([]Alorese, []Dusner, []Mpur), an adverb ([]Wooi),
  []
 
 \openout3 = `main.mw'.
 
-[318] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [319] (./main.mw)
+[319] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6578,13 +6472,17 @@ erent functional groups introduced above,|
 
 \openout3 = `main.mw'.
 
-
-[322] (./main.mw)
+ [322] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/MOD_Family.eps Graphic file (type eps)
+<figures/MOD_Family.eps>
+File: figures/MOD_Group.eps Graphic file (type eps)
+<figures/MOD_Group.eps>
 \openout3 = `main.mw'.
 
- [323] (./main.mw)
+
+[323] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6597,8 +6495,13 @@ erent functional groups introduced above,|
  [325] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Overfull \hbox (1.31787pt too wide) in paragraph at lines 1039--1040
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 The following sections turn to the diff
+erent functional groups introduced above,
+ []
+
+\openout3 = `main.mw'.
 
 [326] (./main.mw)
 \openout3 = `main.mw'.
@@ -6676,40 +6579,25 @@ erent functional groups introduced above,|
  [340] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (25.92126pt too wide) in paragraph at lines 1572--1618
- [][] |
- []
-
-
-LaTeX Warning: Float too large for page by 8.04938pt on input line 1620.
-
 \openout3 = `main.mw'.
 
-[341] (./main.mw)
+ [341] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [342] (./main.mw)
+
+[342] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/SREL_Family.eps Graphic file (type eps)
-<figures/SREL_Family.eps>
-File: figures/SREL_Group.eps Graphic file (type eps)
-<figures/SREL_Group.eps>
 \openout3 = `main.mw'.
 
  [343] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Float too large for page by 18.5305pt on input line 1739.
-
 \openout3 = `main.mw'.
 
-[344] (./main.mw)
+ [344] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6719,7 +6607,8 @@ LaTeX Warning: Float too large for page by 18.5305pt on input line 1739.
 
 \openout3 = `main.mw'.
 
- [346] (./main.mw)
+
+[346] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6729,32 +6618,39 @@ LaTeX Warning: Float too large for page by 18.5305pt on input line 1739.
 
 \openout3 = `main.mw'.
 
-
-[348] (./main.mw)
+ [348] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Overfull \hbox (25.92126pt too wide) in paragraph at lines 1572--1618
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 8.04938pt on input line 1620.
+
 \openout3 = `main.mw'.
 
- [349] (./main.mw)
+[349] (./main.mw)
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
-e=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RZI_B.otf
 \openout3 = `main.mw'.
 
  [350] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/SREL_Family.eps Graphic file (type eps)
+<figures/SREL_Family.eps>
+File: figures/SREL_Group.eps Graphic file (type eps)
+<figures/SREL_Group.eps>
 \openout3 = `main.mw'.
 
  [351] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (6.83784pt too wide) in paragraph at lines 1904--1915
- [][] |
- []
+
+LaTeX Warning: Float too large for page by 18.5305pt on input line 1739.
 
 \openout3 = `main.mw'.
 
@@ -6771,20 +6667,15 @@ Overfull \hbox (6.83784pt too wide) in paragraph at lines 1904--1915
  [354] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 1292) in paragraph at lines 1995--1995
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 6.24[][]: []|Template and basic di
-stribution of handling-to-action
- []
-
 \openout3 = `main.mw'.
 
-[355] (./main.mw)
+ [355] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [356] (./main.mw)
+
+[356] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6792,6 +6683,9 @@ stribution of handling-to-action
  [357] (./main.mw)
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_RZI_B.otf]/OT:script=latn;languag
+e=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RZI_B.otf
 \openout3 = `main.mw'.
 
  [358] (./main.mw)
@@ -6799,13 +6693,17 @@ stribution of handling-to-action
 
 \openout3 = `main.mw'.
 
-
-[359] (./main.mw)
+ [359] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Overfull \hbox (6.83784pt too wide) in paragraph at lines 1904--1915
+ [][] 
+ []
+
 \openout3 = `main.mw'.
 
- [360] (./main.mw)
+[360] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6818,8 +6716,13 @@ stribution of handling-to-action
  [362] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Underfull \hbox (badness 1292) in paragraph at lines 1995--1995
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10 Table 6.24[][]: []|Template and basic di
+stribution of handling-to-action
+ []
+
+\openout3 = `main.mw'.
 
 [363] (./main.mw)
 \openout3 = `main.mw'.
@@ -6855,19 +6758,15 @@ stribution of handling-to-action
  [369] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (17.48126pt too wide) in paragraph at lines 2340--2351
- [][] |
- []
-
 \openout3 = `main.mw'.
 
-[370] (./main.mw)
+ [370] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [371] (./main.mw)
+
+[371] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6880,19 +6779,15 @@ Overfull \hbox (17.48126pt too wide) in paragraph at lines 2340--2351
  [373] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/FJUX_family.eps Graphic file (type eps)
-<figures/FJUX_family.eps>
-File: figures/FJUX_group.eps Graphic file (type eps)
-<figures/FJUX_group.eps>
 \openout3 = `main.mw'.
 
-
-[374] (./main.mw)
+ [374] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [375] (./main.mw)
+
+[375] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6907,13 +6802,13 @@ File: figures/FJUX_group.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
-
-[378] (./main.mw)
+ [378] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [379] (./main.mw)
+
+[379] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6926,15 +6821,19 @@ File: figures/FJUX_group.eps Graphic file (type eps)
  [381] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/FJUX_family.eps Graphic file (type eps)
+<figures/FJUX_family.eps>
+File: figures/FJUX_group.eps Graphic file (type eps)
+<figures/FJUX_group.eps>
+\openout3 = `main.mw'.
+
+ [382] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 
-[382] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [383] (./main.mw)
+[383] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6949,29 +6848,70 @@ File: figures/FJUX_group.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
-
-[386] (./main.mw)
+ [386] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [387] (./main.mw)
+
+[387] (./main.mw)
 \openout3 = `main.mw'.
 
-)
 \openout3 = `main.mw'.
 
  [388] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+ [389] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [390] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[391] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [392] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [393] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [394] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[395] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [396] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout2 = `chapters/07_Discussion.aux'.
 
-
-(./chapters/07_Discussion.tex
+ (./chapters/07_Discussion.tex
 chapter 7.
 \openout3 = `main.mw'.
 
-[389
+[397
 
 
 
@@ -6981,7 +6921,7 @@ chapter 7.
 
 \openout3 = `main.mw'.
 
- [390] (./main.mw)
+ [398] (./main.mw)
 \openout3 = `main.mw'.
 
 File: figures/CREL_Group.eps Graphic file (type eps)
@@ -6994,61 +6934,15 @@ File: figures/FJUX_group.eps Graphic file (type eps)
 <figures/FJUX_group.eps>
 
 Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
-[][] []|
+[][] []
  []
 
 
 Overfull \hbox (1.82501pt too wide) in paragraph at lines 22--26
-[] [] |
+[] [] 
  []
 
 \openout3 = `main.mw'.
-
-[391] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [392] (./main.mw)
-\openout3 = `main.mw'.
-
-File: figures/MVCs_languages_clean.eps Graphic file (type eps)
-<figures/MVCs_languages_clean.eps>
-\openout3 = `main.mw'.
-
- [393] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [394] (./main.mw)
-\openout3 = `main.mw'.
-
-File: figures/constructions_tokens_clean.eps Graphic file (type eps)
-<figures/constructions_tokens_clean.eps>
-\openout3 = `main.mw'.
-
-
-[395] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [396] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [397] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [398] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
 
 [399] (./main.mw)
 \openout3 = `main.mw'.
@@ -7058,13 +6952,15 @@ File: figures/constructions_tokens_clean.eps Graphic file (type eps)
  [400] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/MVCs_languages_clean.eps Graphic file (type eps)
+<figures/MVCs_languages_clean.eps>
 \openout3 = `main.mw'.
 
  [401] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/number_stackedMVC_clean.eps Graphic file (type eps)
-<figures/number_stackedMVC_clean.eps>
+File: figures/constructions_tokens_clean.eps Graphic file (type eps)
+<figures/constructions_tokens_clean.eps>
 \openout3 = `main.mw'.
 
  [402] (./main.mw)
@@ -7076,8 +6972,6 @@ File: figures/number_stackedMVC_clean.eps Graphic file (type eps)
 [403] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/index_MVCcomplexity_clean.eps Graphic file (type eps)
-<figures/index_MVCcomplexity_clean.eps>
 \openout3 = `main.mw'.
 
  [404] (./main.mw)
@@ -7093,20 +6987,8 @@ File: figures/index_MVCcomplexity_clean.eps Graphic file (type eps)
  [406] (./main.mw)
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 Muna[], Abui[], Makalero[], Teiwa[]$\LMS/n
-txsy/m/n/9 "$\TU/LinLibertine_R_B.otf(0)/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 258--258
-\TU/LinLibertine_R_B.otf(0)/m/n/9 Klon[], Tetun, Western Pantar, Selaru[],
- []
-
-File: figures/languages_mvcuse.pdf Graphic file (type pdf)
-<use figures/languages_mvcuse.pdf>
 \openout3 = `main.mw'.
+
 
 [407] (./main.mw)
 \openout3 = `main.mw'.
@@ -7116,29 +6998,38 @@ File: figures/languages_mvcuse.pdf Graphic file (type pdf)
  [408] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/number_stackedMVC_clean.eps Graphic file (type eps)
+<figures/number_stackedMVC_clean.eps>
 \openout3 = `main.mw'.
 
  [409] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/index_MVCcomplexity_clean.eps Graphic file (type eps)
+<figures/index_MVCcomplexity_clean.eps>
 \openout3 = `main.mw'.
 
  [410] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/gardening1_burnplant.eps Graphic file (type eps)
-<figures/gardening1_burnplant.eps>
 \openout3 = `main.mw'.
 
 
 [411] (./main.mw)
 \openout3 = `main.mw'.
 
+
+Underfull \hbox (badness 1132) in paragraph at lines 257--257
+\TU/LinLibertine_R_B.otf(0)/m/n/9 Klon[], Tetun, Western Pantar, Selaru[],
+ []
+
 \openout3 = `main.mw'.
 
- [412] (./main.mw)
+[412] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/languages_mvcuse.pdf Graphic file (type pdf)
+<use figures/languages_mvcuse.pdf>
 \openout3 = `main.mw'.
 
  [413] (./main.mw)
@@ -7151,13 +7042,15 @@ File: figures/gardening1_burnplant.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
-
-[415] (./main.mw)
+ [415] (./main.mw)
 \openout3 = `main.mw'.
 
+File: figures/gardening1_burnplant.eps Graphic file (type eps)
+<figures/gardening1_burnplant.eps>
 \openout3 = `main.mw'.
 
- [416] (./main.mw)
+
+[416] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7172,13 +7065,13 @@ File: figures/gardening1_burnplant.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
-
-[419] (./main.mw)
+ [419] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [420] (./main.mw)
+
+[420] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7193,47 +7086,23 @@ File: figures/gardening1_burnplant.eps Graphic file (type eps)
 
 \openout3 = `main.mw'.
 
-
-[423] (./main.mw)
+ [423] (./main.mw)
 \openout3 = `main.mw'.
 
-)
-\openout3 = `main.mw'.
-
- [424] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout2 = `localseealso.aux'.
-
- (./localseealso.tex) (./backmatter.tex
-chapter without number
-\openout3 = `main.mw'.
-
-[425
-
-
-
-\@writefile{lan}{\indexentry{Akan@\igobble |hyperindexformat{\langsciseealso{Tw
-i}}}{425}}
-\@writefile{lan}{\indexentry{Twi@\igobble |hyperindexformat{\langsciseealso{Aka
-n}}}{425}}
-
-
-
-
-
-] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 5--5
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 languages: Functions and semantics. \TU/L
-inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
- []
+[424] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[426] (./main.mw)
+ [425] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [426] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7243,35 +7112,50 @@ inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
 
 \openout3 = `main.mw'.
 
- [428] (./main.mw)
+
+[428] (./main.mw)
 \openout3 = `main.mw'.
 
+)
 \openout3 = `main.mw'.
 
  [429] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `localseealso.aux'.
+
+ (./localseealso.tex) (./backmatter.tex
 \openout3 = `main.mw'.
 
 
-[430] (./main.mw)
+[430
+
+
+
+\@writefile{lan}{\indexentry{Akan@\igobble |hyperindexformat{\langsciseealso{Tw
+i}}}{430}}
+\@writefile{lan}{\indexentry{Twi@\igobble |hyperindexformat{\langsciseealso{Aka
+n}}}{430}}
+
+
+
+] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 5--5
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Himmelmann, Nikolaus P. 2005a. Gram,
-construction, and class formation.
- []
-
+chapter without number
 \openout3 = `main.mw'.
 
-[431] (./main.mw)
+[431
+
+
+] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 5--5
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Kirihio, J. Karter, Volker Unterladst
-etter, Apriani Arilaha, F. Morigerowski,
+Underfull \hbox (badness 1237) in paragraph at lines 5--5
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 languages: Functions and semantics. \TU/L
+inLibertine_R_B.otf(0)/m/it/10.95 Language and linguistics (Academia
  []
 
 \openout3 = `main.mw'.
@@ -7294,6 +7178,49 @@ etter, Apriani Arilaha, F. Morigerowski,
  [435] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+
+[436] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 5--5
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Himmelmann, Nikolaus P. 2005a. Gram, 
+construction, and class formation.
+ []
+
+\openout3 = `main.mw'.
+
+[437] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 5--5
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Kirihio, J. Karter, Volker Unterladst
+etter, Apriani Arilaha, F. Morigerowski,
+ []
+
+\openout3 = `main.mw'.
+
+[438] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [439] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [440] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [441] (./main.mw)
+\openout3 = `main.mw'.
+
 
 Underfull \hbox (badness 1127) in paragraph at lines 5--5
 [][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Schapper, Antoinette. 2014. Introduct
@@ -7302,23 +7229,23 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
-[436] (./main.mw)
+[442] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [437] (./main.mw)
+ [443] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [438] (./main.mw)
+ [444] (./main.mw)
 \openout3 = `main.mw'.
 
  (./main.and
 \openout3 = `main.mw'.
 
- [439
+ [445
 
 
 
@@ -7328,23 +7255,29 @@ ion. In Antoinette Schapper (ed.), \TU/LinLibertine_R_B.otf(0)/m/it/10.95 The
 
 \openout3 = `main.mw'.
 
- [440] (./main.mw)
+ [446] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 227--229
-[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Maienborn, Claudia, [][]207[][], [][]21
-7[][]–[][]220[][],
+Underfull \hbox (badness 1122) in paragraph at lines 227--229
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Maienborn, Claudia, []215[], []225[]–[]
+228[],
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 259--262
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Ozanne-Rivierre, Françoise, []17[], []8
+5[],
  []
 
 \openout3 = `main.mw'.
 
-[441] (./main.mw)
+[447] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [442
+ [448
 
 ] (./main.mw)
 \openout3 = `main.mw'.
@@ -7352,7 +7285,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 227--229
 ) (./main.lnd
 \openout3 = `main.mw'.
 
- [443
+ [449
 
 
 
@@ -7361,72 +7294,42 @@ Underfull \hbox (badness 1112) in paragraph at lines 227--229
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 230--236
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 367[][], [][]367[][]$[]$, [][]368[][]
-, [][]399[][], [][]408[][],
+Underfull \hbox (badness 2126) in paragraph at lines 212--225
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 77[]$[]$, []78[], []82[], []91[], []143
+[], []155[],
  []
 
 \openout3 = `main.mw'.
 
-[444] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [445] (./main.mw)
+[450] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 419--438
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 75[][], [][]96[][], [][]159[][], [][]
-168[][], [][]178[][], [][]197[][],
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 419--438
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 197[][]$[]$, [][]198[][], [][]201[][]
-, [][]202[][], [][]204[][]–
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 419--438
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 206[][], [][]206[][]$[]$, [][]207[][]
-, [][]208[][], [][]212[][],
- []
-
-
-Underfull \hbox (badness 1184) in paragraph at lines 448--469
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 96[][], [][]98[][], [][]106[][], [][]
-108[][], [][]137[][], [][]138[][],
- []
-
-
-Underfull \hbox (badness 1314) in paragraph at lines 448--469
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 196[][], [][]199[][], [][]199[][]$[]$
-, [][]200[][], [][]208[][]–
- []
-
-
-Underfull \hbox (badness 6625) in paragraph at lines 448--469
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 212[][], [][]224[][]–[][]227[][], [][
-]251[][], [][]251[][]$[]$,
- []
-
-
-Underfull \hbox (badness 3168) in paragraph at lines 448--469
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 286[][], [][]291[][]$[]$, [][]299[][]
-, [][]303[][], [][]304[][],
+Underfull \hbox (badness 2376) in paragraph at lines 246--254
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 377[], []377[]$[]$, []380[], []383[], [
+]393[],
  []
 
 \openout3 = `main.mw'.
 
-[446] (./main.mw)
+[451] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 448--469
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 220[], []232[]–[]235[], []259[], []259[
+]$[]$,
+ []
+
+\openout3 = `main.mw'.
+
+[452] (./main.mw)
 \openout3 = `main.mw'.
 
 ))
 \openout3 = `main.mw'.
 
- [447
+ [453
 
 
 
@@ -7451,12 +7354,12 @@ Requested font "[./langsci/fonts/Arimo_B.ttf]/OT" at 52.0pt
  -> ./langsci/fonts/Arimo_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120073448386179.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.956411735000273.
 .................................................
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/m/n' will be
@@ -7468,12 +7371,12 @@ Requested font "[./langsci/fonts/Arimo_B.ttf]/OT" at 25.0pt
  -> ./langsci/fonts/Arimo_B.ttf
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120078558225505.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.9564114620298085.
 .................................................
 LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(1)/m/n' will be
@@ -7553,14 +7456,14 @@ Requested font "ntxexa" at 9.35005pt
 )
 \openout3 = `main.mw'.
 
- [448
+ [454
 
 ] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [449
+ [455
 
 ]
 (./main.mw)
@@ -7568,24 +7471,24 @@ Requested font "ntxexa" at 9.35005pt
 
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.8120078558225505.
 .................................................
 .................................................
 . fontspec info: "set-scale"
-.
+. 
 . Arimo_B scale = 0.9564114620298085.
 .................................................
 \openout3 = `main.mw'.
 
- [450] (./main.mw)
+ [456] (./main.mw)
 \openout3 = `main.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (./main.aux (./chapters/acknowledgments.aux)
 (./chapters/abbreviations.aux) (./chapters/glossary.aux)
-(./chapters/summary.aux) (./chapters/epigraph.aux)
+(./chapters/epigraph.aux) (./chapters/summary.aux)
 (./chapters/01_Introduction.aux) (./chapters/02_Eastern_Indonesia.aux)
 (./chapters/03_Setting_the_scene.aux) (./chapters/04_Grammatical_properties.aux
 ) (./chapters/05_Semantic_properties.aux) (./chapters/06_Construction_types.aux
@@ -7594,26 +7497,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 66.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5BF380D6B064CC2826A1290A6855F218.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(rerunfilecheck)             Checksum: 70282368CB23E0D776D5133786BB5617.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
- )
+ ) 
 Here is how much of TeX's memory you used:
- 73537 strings out of 492916
- 1456074 string characters out of 6133345
- 2147622 words of memory out of 5000000
- 75372 multiletter control sequences out of 15000+600000
- 570320 words of font info for 244 fonts, out of 8000000 for 9000
+ 81833 strings out of 492962
+ 1746145 string characters out of 4883575
+ 7509854 words of memory out of 10000000
+ 83516 multiletter control sequences out of 15000+600000
+ 570029 words of font info for 229 fonts, out of 5000000 for 9000
  1356 hyphenation exceptions out of 8191
  85i,32n,119p,9084b,5740s stack positions out of 5000i,500n,10000p,5000000b,80000s
 
-Output written on main.pdf (482 pages).
+Output written on main.pdf (480 pages).
