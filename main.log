@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.8.21)  27 DEC 2019 12:19
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.8.21)  9 JAN 2020 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4761,16 +4761,12 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  [41] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: File `figures/languages_preposed possessor-1.pdf' not found on i
-nput line 164.
-
-File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
-<use figures/languages_preposed possessor-1.pdf>
+File: figures/languages_preposed_possessor-1.pdf Graphic file (type pdf)
+<use figures/languages_preposed_possessor-1.pdf>
 \openout3 = `main.mw'.
 
-[42] (./main.mw)
+ [42]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4790,13 +4786,12 @@ File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
 
 \openout3 = `main.mw'.
 
- [46]
-(./main.mw)
+ [46] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [47] (./main.mw)
+[47] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4816,7 +4811,8 @@ File: figures/languages_preposed possessor-1.pdf Graphic file (type pdf)
 
 \openout3 = `main.mw'.
 
-[51] (./main.mw)
+ [51]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4850,8 +4846,8 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
  [55] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
-<use figures/languages_Sulawesi.pdf>
+File: figures/Map_Sulawesi2.eps Graphic file (type eps)
+<figures/Map_Sulawesi2.eps>
 \openout3 = `main.mw'.
 
  [56] (./main.mw)
@@ -4878,8 +4874,8 @@ File: figures/languages_Sulawesi.pdf Graphic file (type pdf)
  [60] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Nusa.pdf Graphic file (type pdf)
-<use figures/languages_Nusa.pdf>
+File: figures/Map_Nusa2.eps Graphic file (type eps)
+<figures/Map_Nusa2.eps>
 \openout3 = `main.mw'.
 
  [61] (./main.mw)
@@ -4926,7 +4922,7 @@ Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (0.11523pt too wide) in paragraph at lines 633--634
+Overfull \hbox (0.11523pt too wide) in paragraph at lines 634--635
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 clauses is more straightforward in []Teiw
 a than in other TAP languages: There is no
  []
@@ -4955,8 +4951,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [70] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Maluku.pdf Graphic file (type pdf)
-<use figures/languages_Maluku.pdf>
+File: figures/Map_Maluku2.eps Graphic file (type eps)
+<figures/Map_Maluku2.eps>
 \openout3 = `main.mw'.
 
  [71] (./main.mw)
@@ -4981,13 +4977,17 @@ File: figures/languages_Maluku.pdf Graphic file (type pdf)
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0;+liga;+pnum;+lnum;+smcp;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 \openout3 = `main.mw'.
 
- [75] (./main.mw)
+[75] (./main.mw)
 \openout3 = `main.mw'.
 
-File: figures/languages_Papua.pdf Graphic file (type pdf)
-<use figures/languages_Papua.pdf>
+File: figures/Map_Papua2.eps Graphic file (type eps)
+<figures/Map_Papua2.eps>
 \openout3 = `main.mw'.
 
  [76] (./main.mw)
@@ -5005,7 +5005,8 @@ File: figures/languages_Papua.pdf Graphic file (type pdf)
 
 \openout3 = `main.mw'.
 
-[79] (./main.mw)
+ [79]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5019,7 +5020,7 @@ File: figures/languages_Papua.pdf Graphic file (type pdf)
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (1.28317pt too wide) in paragraph at lines 908--909
+Overfull \hbox (1.28317pt too wide) in paragraph at lines 909--910
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 markers developed from verbs. Serialisati
 on seems quite pervasive although there
  []
@@ -7503,10 +7504,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 81833 strings out of 492962
- 1746145 string characters out of 4883575
- 7509983 words of memory out of 10000000
- 83516 multiletter control sequences out of 15000+600000
+ 81827 strings out of 492962
+ 1745869 string characters out of 4883575
+ 7509951 words of memory out of 10000000
+ 83511 multiletter control sequences out of 15000+600000
  570029 words of font info for 229 fonts, out of 5000000 for 9000
  1356 hyphenation exceptions out of 8191
  85i,32n,119p,9084b,5740s stack positions out of 5000i,500n,10000p,5000000b,80000s
